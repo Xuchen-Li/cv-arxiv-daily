@@ -60,7 +60,7 @@
 |**2024-02-08**|**How do Transformers perform In-Context Autoregressive Learning?**|Michael E. Sander et.al.|[2402.05787](http://arxiv.org/abs/2402.05787)|null|
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
-|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
+|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|**[link](https://github.com/ejmichaud/neural-verification)**|
 |**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
 |**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|null|
@@ -127,7 +127,7 @@
 |**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903](http://arxiv.org/abs/2401.04903)|null|
 |**2024-01-08**|**Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04154](http://arxiv.org/abs/2401.04154)|null|
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|null|
-|**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|null|
+|**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
 <p align=right>(<a href=#updated-on-20240212>back to top</a>)</p>
 
