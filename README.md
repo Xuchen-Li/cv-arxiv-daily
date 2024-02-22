@@ -41,6 +41,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|null|
+|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
+|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
+|**2024-02-21**|**Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**|Zhiwei He et.al.|[2402.14007](http://arxiv.org/abs/2402.14007)|null|
+|**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002](http://arxiv.org/abs/2402.14002)|null|
+|**2024-02-21**|**Analysing The Impact of Sequence Composition on Language Model Pre-Training**|Yu Zhao et.al.|[2402.13991](http://arxiv.org/abs/2402.13991)|**[link](https://github.com/yuzhaouoe/pretraining-data-packing)**|
+|**2024-02-21**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
+|**2024-02-21**|**Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality**|Rahul Zalkikar et.al.|[2402.13954](http://arxiv.org/abs/2402.13954)|null|
+|**2024-02-21**|**Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning**|Debjit Paul et.al.|[2402.13950](http://arxiv.org/abs/2402.13950)|null|
+|**2024-02-21**|**Do Efficient Transformers Really Save Computation?**|Kai Yang et.al.|[2402.13934](http://arxiv.org/abs/2402.13934)|null|
+|**2024-02-21**|**Large Language Models are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content**|Federico Bianchi et.al.|[2402.13926](http://arxiv.org/abs/2402.13926)|null|
+|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
+|**2024-02-21**|**What Linguistic Features and Languages are Important in LLM Translation?**|Ryandito Diandaru et.al.|[2402.13917](http://arxiv.org/abs/2402.13917)|null|
+|**2024-02-21**|**Calibrating Large Language Models with Sample Consistency**|Qing Lyu et.al.|[2402.13904](http://arxiv.org/abs/2402.13904)|null|
+|**2024-02-21**|**Beyond Probabilities: Unveiling the Misalignment in Evaluating Large Language Models**|Chenyang Lyu et.al.|[2402.13887](http://arxiv.org/abs/2402.13887)|null|
+|**2024-02-21**|**$\texttt{Se}^2$: $\textit{Se}$quential Example $\textit{Se}$ lection for In-Context Learning**|Haoyu Liu et.al.|[2402.13874](http://arxiv.org/abs/2402.13874)|null|
+|**2024-02-21**|**An Explainable Transformer-based Model for Phishing Email Detection: A Large Language Model Approach**|Mohammad Amaz Uddin et.al.|[2402.13871](http://arxiv.org/abs/2402.13871)|null|
+|**2024-02-21**|**Kuaiji: the First Chinese Accounting Large Language Model**|Jiayuan Luo et.al.|[2402.13866](http://arxiv.org/abs/2402.13866)|null|
+|**2024-02-21**|**RealDex: Towards Human-like Grasping for Robotic Dexterous Hand**|Yumeng Liu et.al.|[2402.13853](http://arxiv.org/abs/2402.13853)|null|
+|**2024-02-21**|**VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models**|Jiawei Liang et.al.|[2402.13851](http://arxiv.org/abs/2402.13851)|null|
 |**2024-02-20**|**Towards audio language modeling -- an overview**|Haibin Wu et.al.|[2402.13236](http://arxiv.org/abs/2402.13236)|null|
 |**2024-02-20**|**Unlocking Insights: Semantic Search in Jupyter Notebooks**|Lan Li et.al.|[2402.13234](http://arxiv.org/abs/2402.13234)|null|
 |**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
@@ -268,6 +288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs**|Yunxin Li et.al.|[2402.13546](http://arxiv.org/abs/2402.13546)|null|
 |**2024-02-20**|**Video ReCap: Recursive Captioning of Hour-Long Videos**|Md Mohaiminul Islam et.al.|[2402.13250](http://arxiv.org/abs/2402.13250)|null|
 |**2024-02-20**|**VideoPrism: A Foundational Visual Encoder for Video Understanding**|Long Zhao et.al.|[2402.13217](http://arxiv.org/abs/2402.13217)|null|
 |**2024-02-20**|**Slot-VLM: SlowFast Slots for Video-Language Modeling**|Jiaqi Xu et.al.|[2402.13088](http://arxiv.org/abs/2402.13088)|null|
