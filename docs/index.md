@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks**|Zhewei Wu et.al.|[2402.17976](http://arxiv.org/abs/2402.17976)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|null|
 |**2024-02-26**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392](http://arxiv.org/abs/2402.14392)|null|
 |**2024-02-13**|**Optimized Information Flow for Transformer Tracking**|Janani Kugarajeevan et.al.|[2402.08195](http://arxiv.org/abs/2402.08195)|**[link](https://github.com/jananikugaa/oiftrack)**|
@@ -36,6 +37,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
+|**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566](http://arxiv.org/abs/2402.18566)|null|
+|**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563](http://arxiv.org/abs/2402.18563)|null|
+|**2024-02-28**|**Implicit Bias of Next-Token Prediction**|Christos Thrampoulidis et.al.|[2402.18551](http://arxiv.org/abs/2402.18551)|null|
+|**2024-02-28**|**Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**|Mahdi Karami et.al.|[2402.18508](http://arxiv.org/abs/2402.18508)|null|
+|**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502](http://arxiv.org/abs/2402.18502)|null|
+|**2024-02-28**|**Language Models Represent Beliefs of Self and Others**|Wentao Zhu et.al.|[2402.18496](http://arxiv.org/abs/2402.18496)|null|
+|**2024-02-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al.|[2402.18476](http://arxiv.org/abs/2402.18476)|null|
+|**2024-02-28**|**Meta-Task Prompting Elicits Embedding from Large Language Models**|Yibin Lei et.al.|[2402.18458](http://arxiv.org/abs/2402.18458)|null|
+|**2024-02-28**|**Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization**|Deng Li et.al.|[2402.18447](http://arxiv.org/abs/2402.18447)|null|
+|**2024-02-28**|**Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication**|Weize Chen et.al.|[2402.18439](http://arxiv.org/abs/2402.18439)|**[link](https://github.com/thunlp/autoform)**|
+|**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
+|**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
+|**2024-02-28**|**Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models**|Ercong Nie et.al.|[2402.18397](http://arxiv.org/abs/2402.18397)|null|
+|**2024-02-28**|**The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA**|Yiming Li et.al.|[2402.18385](http://arxiv.org/abs/2402.18385)|null|
+|**2024-02-28**|**Large Language Models As Evolution Strategies**|Robert Tjarko Lange et.al.|[2402.18381](http://arxiv.org/abs/2402.18381)|null|
+|**2024-02-28**|**Tokenization Is More Than Compression**|Craig W. Schmidt et.al.|[2402.18376](http://arxiv.org/abs/2402.18376)|null|
+|**2024-02-28**|**VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models**|Seoyeon Kim et.al.|[2402.18374](http://arxiv.org/abs/2402.18374)|null|
+|**2024-02-28**|**Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning**|Jiachun Li et.al.|[2402.18344](http://arxiv.org/abs/2402.18344)|null|
 |**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766](http://arxiv.org/abs/2402.17766)|**[link](https://github.com/qizekun/ShapeLLM)**|
 |**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764](http://arxiv.org/abs/2402.17764)|null|
 |**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762](http://arxiv.org/abs/2402.17762)|**[link](https://github.com/locuslab/massive-activations)**|
@@ -366,12 +387,12 @@ layout: default
 |**2024-02-25**|**LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding**|Yuxuan Wang et.al.|[2402.16050](http://arxiv.org/abs/2402.16050)|**[link](https://github.com/bigai-nlco/lstp-chat)**|
 |**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326](http://arxiv.org/abs/2402.14326)|null|
 |**2024-02-21**|**LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs**|Yunxin Li et.al.|[2402.13546](http://arxiv.org/abs/2402.13546)|null|
-|**2024-02-21**|**Video ReCap: Recursive Captioning of Hour-Long Videos**|Md Mohaiminul Islam et.al.|[2402.13250](http://arxiv.org/abs/2402.13250)|null|
+|**2024-02-28**|**Video ReCap: Recursive Captioning of Hour-Long Videos**|Md Mohaiminul Islam et.al.|[2402.13250](http://arxiv.org/abs/2402.13250)|null|
 |**2024-02-20**|**VideoPrism: A Foundational Visual Encoder for Video Understanding**|Long Zhao et.al.|[2402.13217](http://arxiv.org/abs/2402.13217)|null|
 |**2024-02-20**|**Slot-VLM: SlowFast Slots for Video-Language Modeling**|Jiaqi Xu et.al.|[2402.13088](http://arxiv.org/abs/2402.13088)|null|
 |**2024-02-19**|**System Identification of Neural Systems: Going Beyond Images to Modelling Dynamics**|Mai Gamal et.al.|[2402.12519](http://arxiv.org/abs/2402.12519)|null|
 |**2024-02-19**|**LVCHAT: Facilitating Long Video Comprehension**|Yu Wang et.al.|[2402.12079](http://arxiv.org/abs/2402.12079)|**[link](https://github.com/wangyu-ustc/lvchat)**|
-|**2024-02-16**|**Are you Struggling? Dataset and Baselines for Struggle Determination in Assembly Videos**|Shijia Feng et.al.|[2402.11057](http://arxiv.org/abs/2402.11057)|null|
+|**2024-02-28**|**Are you Struggling? Dataset and Baselines for Struggle Determination in Assembly Videos**|Shijia Feng et.al.|[2402.11057](http://arxiv.org/abs/2402.11057)|null|
 |**2024-02-16**|**Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering**|David Romero et.al.|[2402.10698](http://arxiv.org/abs/2402.10698)|null|
 |**2024-02-13**|**World Model on Million-Length Video And Language With RingAttention**|Hao Liu et.al.|[2402.08268](http://arxiv.org/abs/2402.08268)|**[link](https://github.com/LargeWorldModel/LWM)**|
 |**2024-02-12**|**BDIQA: A New Dataset for Video Question Answering to Explore Cognitive Reasoning through Theory of Mind**|Yuanyuan Mao et.al.|[2402.07402](http://arxiv.org/abs/2402.07402)|null|
