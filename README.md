@@ -49,8 +49,8 @@
 |**2024-02-29**|**Retrieval-Augmented Generation for AI-Generated Content: A Survey**|Penghao Zhao et.al.|[2402.19473](http://arxiv.org/abs/2402.19473)|**[link](https://github.com/hymie122/rag-survey)**|
 |**2024-02-29**|**Loose LIPS Sink Ships: Asking Questions in Battleship with Language-Informed Program Sampling**|Gabriel Grand et.al.|[2402.19471](http://arxiv.org/abs/2402.19471)|null|
 |**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
-|**2024-02-29**|**Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**|Chen Qian et.al.|[2402.19465](http://arxiv.org/abs/2402.19465)|null|
-|**2024-02-29**|**Curiosity-driven Red-teaming for Large Language Models**|Zhang-Wei Hong et.al.|[2402.19464](http://arxiv.org/abs/2402.19464)|null|
+|**2024-02-29**|**Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**|Chen Qian et.al.|[2402.19465](http://arxiv.org/abs/2402.19465)|**[link](https://github.com/chnq/tracingllm)**|
+|**2024-02-29**|**Curiosity-driven Red-teaming for Large Language Models**|Zhang-Wei Hong et.al.|[2402.19464](http://arxiv.org/abs/2402.19464)|**[link](https://github.com/improbable-ai/curiosity_redteam)**|
 |**2024-02-29**|**Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap**|Saurabh Srivastava et.al.|[2402.19450](http://arxiv.org/abs/2402.19450)|**[link](https://github.com/consequentai/fneval)**|
 |**2024-02-29**|**Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models**|Frederik Kunstner et.al.|[2402.19449](http://arxiv.org/abs/2402.19449)|null|
 |**2024-02-29**|**ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL**|Yifei Zhou et.al.|[2402.19446](http://arxiv.org/abs/2402.19446)|**[link](https://github.com/yifeizhou02/archer)**|
