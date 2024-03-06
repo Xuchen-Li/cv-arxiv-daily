@@ -44,6 +44,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
+|**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
+|**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
+|**2024-03-05**|**Reliable, Adaptable, and Attributable Language Models with Retrieval**|Akari Asai et.al.|[2403.03187](http://arxiv.org/abs/2403.03187)|null|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
+|**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170](http://arxiv.org/abs/2403.03170)|null|
+|**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167](http://arxiv.org/abs/2403.03167)|**[link](https://github.com/gglab-ku/paradise)**|
+|**2024-03-05**|**Quantum Many-Body Physics Calculations with Large Language Models**|Haining Pan et.al.|[2403.03154](http://arxiv.org/abs/2403.03154)|null|
+|**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
+|**2024-03-05**|**CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following**|Kaiyan Zhang et.al.|[2403.03129](http://arxiv.org/abs/2403.03129)|null|
+|**2024-03-05**|**Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution**|Flor Miriam Plaza-del-Arco et.al.|[2403.03121](http://arxiv.org/abs/2403.03121)|null|
+|**2024-03-05**|**"In Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning**|Chuanqi Cheng et.al.|[2403.03102](http://arxiv.org/abs/2403.03102)|null|
+|**2024-03-05**|**KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**|Yuqi Zhu et.al.|[2403.03101](http://arxiv.org/abs/2403.03101)|**[link](https://github.com/zjunlp/knowagent)**|
+|**2024-03-05**|**Learning to Use Tools via Cooperative and Interactive Agents**|Zhengliang Shi et.al.|[2403.03031](http://arxiv.org/abs/2403.03031)|null|
+|**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
+|**2024-03-05**|**Word Importance Explains How Prompts Affect Language Model Outputs**|Stefan Hackmann et.al.|[2403.03028](http://arxiv.org/abs/2403.03028)|null|
+|**2024-03-05**|**OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following**|Haochen Shi et.al.|[2403.03017](http://arxiv.org/abs/2403.03017)|null|
+|**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
+|**2024-03-05**|**Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**|Gen Luo et.al.|[2403.03003](http://arxiv.org/abs/2403.03003)|**[link](https://github.com/luogen1996/llava-hr)**|
+|**2024-03-05**|**Localized Zeroth-Order Prompt Optimization**|Wenyang Hu et.al.|[2403.02993](http://arxiv.org/abs/2403.02993)|null|
 |**2024-03-02**|**LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems**|Tasnim Ahmed et.al.|[2403.01342](http://arxiv.org/abs/2403.01342)|null|
 |**2024-03-02**|**Making Hybrid Languages: A Recipe**|Leif Andersen et.al.|[2403.01335](http://arxiv.org/abs/2403.01335)|null|
 |**2024-03-02**|**Chaining thoughts and LLMs to learn DNA structural biophysics**|Tyler D. Ross et.al.|[2403.01332](http://arxiv.org/abs/2403.01332)|null|
@@ -432,6 +452,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives**|Simone Alberto Peirone et.al.|[2403.03037](http://arxiv.org/abs/2403.03037)|null|
+|**2024-03-03**|**MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies**|Zhende Song et.al.|[2403.01422](http://arxiv.org/abs/2403.01422)|null|
 |**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
 |**2024-03-01**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
