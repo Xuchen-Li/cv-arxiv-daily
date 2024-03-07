@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**VastTrack: Vast Category Visual Object Tracking**|Liang Peng et.al.|[2403.03493](http://arxiv.org/abs/2403.03493)|null|
 |**2024-02-28**|**Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks**|Zhewei Wu et.al.|[2402.17976](http://arxiv.org/abs/2402.17976)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|null|
 |**2024-02-26**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392](http://arxiv.org/abs/2402.14392)|null|
@@ -44,6 +45,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956](http://arxiv.org/abs/2403.03956)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models**|Adithya Bhaskar et.al.|[2403.03942](http://arxiv.org/abs/2403.03942)|**[link](https://github.com/princeton-nlp/heuristic-core)**|
+|**2024-03-06**|**Did Translation Models Get More Robust Without Anyone Even Noticing?**|Ben Peters et.al.|[2403.03923](http://arxiv.org/abs/2403.03923)|null|
+|**2024-03-06**|**Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing**|Asmita et.al.|[2403.03897](http://arxiv.org/abs/2403.03897)|null|
+|**2024-03-06**|**IRCoder: Intermediate Representations Make Language Models Robust Multilingual Code Generators**|Indraneil Paul et.al.|[2403.03894](http://arxiv.org/abs/2403.03894)|**[link](https://github.com/UKPLab/arxiv2024-IRCoder)**|
+|**2024-03-06**|**From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models**|Luiza Pozzobon et.al.|[2403.03893](http://arxiv.org/abs/2403.03893)|**[link](https://github.com/for-ai/goodtriever)**|
+|**2024-03-06**|**FaaF: Facts as a Function for the evaluation of RAG systems**|Vasileios Katranidis et.al.|[2403.03888](http://arxiv.org/abs/2403.03888)|null|
+|**2024-03-06**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883](http://arxiv.org/abs/2403.03883)|null|
+|**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870](http://arxiv.org/abs/2403.03870)|**[link](https://github.com/clinicalml/co-llm)**|
+|**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
+|**2024-03-06**|**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions**|Fangyuan Xu et.al.|[2403.03866](http://arxiv.org/abs/2403.03866)|null|
+|**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864](http://arxiv.org/abs/2403.03864)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
+|**2024-03-06**|**X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification**|Hanzi Xu et.al.|[2403.03863](http://arxiv.org/abs/2403.03863)|**[link](https://github.com/xhz0809/x-shot)**|
+|**2024-03-06**|**Designing Informative Metrics for Few-Shot Example Selection**|Rishabh Adiga et.al.|[2403.03861](http://arxiv.org/abs/2403.03861)|null|
+|**2024-03-06**|**Emojinize : Enriching Any Text with Emoji Translations**|Lars Henning Klein et.al.|[2403.03857](http://arxiv.org/abs/2403.03857)|null|
+|**2024-03-06**|**ShortGPT: Layers in Large Language Models are More Redundant Than You Expect**|Xin Men et.al.|[2403.03853](http://arxiv.org/abs/2403.03853)|null|
+|**2024-03-06**|**Evaluating the Elementary Multilingual Capabilities of Large Language Models with MultiQ**|Carolin Holtermann et.al.|[2403.03814](http://arxiv.org/abs/2403.03814)|null|
+|**2024-03-06**|**Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**|Wei Zhang et.al.|[2403.03790](http://arxiv.org/abs/2403.03790)|null|
+|**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
 |**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
