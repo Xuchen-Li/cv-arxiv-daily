@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-09**|**Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline**|Xiao Wang et.al.|[2403.05839](http://arxiv.org/abs/2403.05839)|null|
 |**2024-03-08**|**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**|Liting Lin et.al.|[2403.05231](http://arxiv.org/abs/2403.05231)|null|
 |**2024-03-08**|**Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy**|Yuelin Zhang et.al.|[2403.05146](http://arxiv.org/abs/2403.05146)|null|
 |**2024-03-06**|**VastTrack: Vast Category Visual Object Tracking**|Liang Peng et.al.|[2403.03493](http://arxiv.org/abs/2403.03493)|**[link](https://github.com/henglan/vasttrack)**|
@@ -47,6 +48,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Hybrid Human-LLM Corpus Construction and LLM Evaluation for Rare Linguistic Phenomena**|Leonie Weissweiler et.al.|[2403.06965](http://arxiv.org/abs/2403.06965)|null|
+|**2024-03-11**|**Materials science in the era of large language models: a perspective**|Ge Lei et.al.|[2403.06949](http://arxiv.org/abs/2403.06949)|null|
+|**2024-03-11**|**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**|Xinyao Li et.al.|[2403.06946](http://arxiv.org/abs/2403.06946)|**[link](https://github.com/tl-uestc/unimos)**|
+|**2024-03-11**|**Naming, Describing, and Quantifying Visual Objects in Humans and LLMs**|Alberto Testoni et.al.|[2403.06935](http://arxiv.org/abs/2403.06935)|null|
+|**2024-03-11**|**ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis**|Yanming Liu et.al.|[2403.06932](http://arxiv.org/abs/2403.06932)|**[link](https://github.com/oceanntwt/era-cot)**|
+|**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
+|**2024-03-11**|**Application of Quantum Tensor Networks for Protein Classification**|Debarshi Kundu et.al.|[2403.06890](http://arxiv.org/abs/2403.06890)|null|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|null|
+|**2024-03-11**|**Semantic Residual Prompts for Continual Learning**|Martin Menabue et.al.|[2403.06870](http://arxiv.org/abs/2403.06870)|null|
+|**2024-03-11**|**Learning with Noisy Foundation Models**|Hao Chen et.al.|[2403.06869](http://arxiv.org/abs/2403.06869)|null|
+|**2024-03-11**|**A Geospatial Approach to Predicting Desert Locust Breeding Grounds in Africa**|Ibrahim Salihu Yusuf et.al.|[2403.06860](http://arxiv.org/abs/2403.06860)|null|
+|**2024-03-11**|**Development of a Reliable and Accessible Caregiving Language Model (CaLM)**|Bambang Parmanto et.al.|[2403.06857](http://arxiv.org/abs/2403.06857)|null|
+|**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
+|**2024-03-11**|**RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback**|Yanming Liu et.al.|[2403.06840](http://arxiv.org/abs/2403.06840)|**[link](https://github.com/oceanntwt/ra-isf)**|
+|**2024-03-11**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838](http://arxiv.org/abs/2403.06838)|null|
+|**2024-03-11**|**Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?**|Egor Zverev et.al.|[2403.06833](http://arxiv.org/abs/2403.06833)|**[link](https://github.com/egozverev/shold-it-be-executed-or-processed)**|
+|**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|null|
+|**2024-03-11**|**ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model**|Zhiwei Liu et.al.|[2403.06765](http://arxiv.org/abs/2403.06765)|**[link](https://github.com/lzw108/conspemollm)**|
+|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|null|
+|**2024-03-11**|**ALaRM: Align Language Models via Hierarchical Rewards Modeling**|Yuhang Lai et.al.|[2403.06754](http://arxiv.org/abs/2403.06754)|null|
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
 |**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530](http://arxiv.org/abs/2403.05530)|null|
 |**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|**[link](https://github.com/haokang-timmy/gear)**|
@@ -515,14 +536,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
+|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|null|
 |**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
-|**2024-03-08**|**Beyond MOT: Semantic Multi-Object Tracking**|Yunhao Li et.al.|[2403.05021](http://arxiv.org/abs/2403.05021)|null|
+|**2024-03-11**|**Beyond MOT: Semantic Multi-Object Tracking**|Yunhao Li et.al.|[2403.05021](http://arxiv.org/abs/2403.05021)|null|
 |**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
 |**2024-03-05**|**A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives**|Simone Alberto Peirone et.al.|[2403.03037](http://arxiv.org/abs/2403.03037)|null|
 |**2024-03-03**|**MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies**|Zhende Song et.al.|[2403.01422](http://arxiv.org/abs/2403.01422)|null|
 |**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
-|**2024-03-01**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
+|**2024-03-11**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
 |**2024-02-29**|**Percept, Chat, and then Adapt: Multimodal Knowledge Transfer of Foundation Models for Open-World Video Recognition**|Boyu Chen et.al.|[2402.18951](http://arxiv.org/abs/2402.18951)|null|
 |**2024-02-27**|**MCF-VC: Mitigate Catastrophic Forgetting in Class-Incremental Learning for Multimodal Video Captioning**|Huiyu Xiong et.al.|[2402.17680](http://arxiv.org/abs/2402.17680)|null|
 |**2024-02-25**|**LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding**|Yuxuan Wang et.al.|[2402.16050](http://arxiv.org/abs/2402.16050)|**[link](https://github.com/bigai-nlco/lstp-chat)**|
