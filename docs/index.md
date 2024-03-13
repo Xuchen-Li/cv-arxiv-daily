@@ -549,7 +549,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-11**|**Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions**|Lan Wang et.al.|[2403.07198](http://arxiv.org/abs/2403.07198)|null|
 |**2024-03-12**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
-|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|null|
+|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|**[link](https://github.com/pkunlp-icler/fastv)**|
 |**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
 |**2024-03-11**|**Beyond MOT: Semantic Multi-Object Tracking**|Yunhao Li et.al.|[2403.05021](http://arxiv.org/abs/2403.05021)|null|
 |**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
