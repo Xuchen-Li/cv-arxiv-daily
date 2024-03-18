@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -60,9 +60,9 @@ layout: default
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps**|Ruixuan Liu et.al.|[2403.09562](http://arxiv.org/abs/2403.09562)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
-|**2024-03-14**|**Logits of API-Protected LLMs Leak Proprietary Information**|Matthew Finlayson et.al.|[2403.09539](http://arxiv.org/abs/2403.09539)|null|
+|**2024-03-15**|**Logits of API-Protected LLMs Leak Proprietary Information**|Matthew Finlayson et.al.|[2403.09539](http://arxiv.org/abs/2403.09539)|null|
 |**2024-03-14**|**VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding**|Chris Kelly et.al.|[2403.09530](http://arxiv.org/abs/2403.09530)|null|
-|**2024-03-14**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|null|
+|**2024-03-15**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
