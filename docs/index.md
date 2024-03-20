@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO**|Chaoran Xiong et.al.|[2403.12504](http://arxiv.org/abs/2403.12504)|null|
+|**2024-03-18**|**Pedestrian Tracking with Monocular Camera using Unconstrained 3D Motion Model**|Jan Krejčí et.al.|[2403.11978](http://arxiv.org/abs/2403.11978)|null|
 |**2024-03-16**|**A Spectrum-based Image Denoising Method with Edge Feature Enhancement**|Peter Luvton et.al.|[2403.11036](http://arxiv.org/abs/2403.11036)|null|
 |**2024-03-15**|**Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers**|Jinxia Xie et.al.|[2403.10574](http://arxiv.org/abs/2403.10574)|null|
 |**2024-03-14**|**OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**|Lingyi Hong et.al.|[2403.09634](http://arxiv.org/abs/2403.09634)|null|
@@ -45,6 +47,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
+|**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966](http://arxiv.org/abs/2403.12966)|**[link](https://github.com/dongyh20/chain-of-spot)**|
+|**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964](http://arxiv.org/abs/2403.12964)|**[link](https://github.com/zhangce01/dualadapter)**|
+|**2024-03-19**|**Dated Data: Tracing Knowledge Cutoffs in Large Language Models**|Jeffrey Cheng et.al.|[2403.12958](http://arxiv.org/abs/2403.12958)|null|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936](http://arxiv.org/abs/2403.12936)|null|
+|**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935](http://arxiv.org/abs/2403.12935)|null|
+|**2024-03-19**|**Rapid AIdeation: Generating Ideas With the Self and in Collaboration With Large Language Models**|Gionnieve Lim et.al.|[2403.12928](http://arxiv.org/abs/2403.12928)|null|
+|**2024-03-19**|**Supporting Energy Policy Research with Large Language Models**|Grant Buster et.al.|[2403.12924](http://arxiv.org/abs/2403.12924)|null|
+|**2024-03-19**|**Contextual AD Narration with Interleaved Multimodal Sequence**|Hanlin Wang et.al.|[2403.12922](http://arxiv.org/abs/2403.12922)|null|
+|**2024-03-19**|**Semantic Layering in Room Segmentation via LLMs**|Taehyeon Kim et.al.|[2403.12920](http://arxiv.org/abs/2403.12920)|null|
+|**2024-03-19**|**Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**|Sai Ashish Somayajula et.al.|[2403.12918](http://arxiv.org/abs/2403.12918)|**[link](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**|
+|**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910](http://arxiv.org/abs/2403.12910)|null|
+|**2024-03-19**|**Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference**|Baolin Li et.al.|[2403.12900](http://arxiv.org/abs/2403.12900)|null|
+|**2024-03-19**|**mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**|Anwen Hu et.al.|[2403.12895](http://arxiv.org/abs/2403.12895)|**[link](https://github.com/x-plug/mplug-docowl)**|
+|**2024-03-19**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894](http://arxiv.org/abs/2403.12894)|null|
+|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
+|**2024-03-19**|**Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**|Zehui Chen et.al.|[2403.12881](http://arxiv.org/abs/2403.12881)|**[link](https://github.com/internlm/agent-flan)**|
+|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862](http://arxiv.org/abs/2403.12862)|null|
+|**2024-03-19**|**RASP: A Drone-based Reconfigurable Actuation and Sensing Platform Towards Ambient Intelligent Systems**|Minghui Zhao et.al.|[2403.12853](http://arxiv.org/abs/2403.12853)|null|
 |**2024-03-18**|**Modality-Agnostic fMRI Decoding of Vision and Language**|Mitja Nikolaus et.al.|[2403.11771](http://arxiv.org/abs/2403.11771)|null|
 |**2024-03-18**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
 |**2024-03-18**|**Revisiting The Classics: A Study on Identifying and Rectifying Gender Stereotypes in Rhymes and Poems**|Aditya Narayan Sankaran et.al.|[2403.11752](http://arxiv.org/abs/2403.11752)|null|
@@ -635,6 +657,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042](http://arxiv.org/abs/2403.12042)|null|
+|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|null|
 |**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656](http://arxiv.org/abs/2403.11656)|null|
 |**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517](http://arxiv.org/abs/2403.10517)|null|
