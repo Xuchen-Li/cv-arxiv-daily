@@ -686,8 +686,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042](http://arxiv.org/abs/2403.12042)|null|
-|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|null|
+|**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042](http://arxiv.org/abs/2403.12042)|**[link](https://github.com/buxiangzhiren/vd-it)**|
+|**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-tuning)**|
 |**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656](http://arxiv.org/abs/2403.11656)|null|
 |**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517](http://arxiv.org/abs/2403.10517)|null|
