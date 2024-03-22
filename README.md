@@ -54,6 +54,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
+|**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608](http://arxiv.org/abs/2403.14608)|null|
+|**2024-03-21**|**MyVLM: Personalizing VLMs for User-Specific Queries**|Yuval Alaluf et.al.|[2403.14599](http://arxiv.org/abs/2403.14599)|null|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589](http://arxiv.org/abs/2403.14589)|null|
+|**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582](http://arxiv.org/abs/2403.14582)|null|
+|**2024-03-21**|**RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain**|William James Bolton et.al.|[2403.14578](http://arxiv.org/abs/2403.14578)|**[link](https://github.com/gsk-ai/rambla)**|
+|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565](http://arxiv.org/abs/2403.14565)|null|
+|**2024-03-21**|**The Era of Semantic Decoding**|Maxime Peyrard et.al.|[2403.14562](http://arxiv.org/abs/2403.14562)|null|
+|**2024-03-21**|**Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling**|Chengxu Zhuang et.al.|[2403.14551](http://arxiv.org/abs/2403.14551)|null|
+|**2024-03-21**|**EDT: Improving Large Language Models' Generation by Entropy-based Dynamic Temperature Sampling**|Shimao Zhang et.al.|[2403.14541](http://arxiv.org/abs/2403.14541)|null|
+|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
+|**2024-03-21**|**The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)**|Joschka Haltaufderheide et.al.|[2403.14473](http://arxiv.org/abs/2403.14473)|null|
+|**2024-03-21**|**Detoxifying Large Language Models via Knowledge Editing**|Mengru Wang et.al.|[2403.14472](http://arxiv.org/abs/2403.14472)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-03-21**|**ChatGPT Alternative Solutions: Large Language Models Survey**|Hanieh Alipour et.al.|[2403.14469](http://arxiv.org/abs/2403.14469)|null|
+|**2024-03-21**|**Recourse for reclamation: Chatting with generative language models**|Jennifer Chien et.al.|[2403.14467](http://arxiv.org/abs/2403.14467)|null|
+|**2024-03-21**|**Towards Single-System Illusion in Software-Defined Vehicles -- Automated, AI-Powered Workflow**|Krzysztof Lebioda et.al.|[2403.14460](http://arxiv.org/abs/2403.14460)|null|
+|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459](http://arxiv.org/abs/2403.14459)|null|
+|**2024-03-21**|**gTBLS: Generating Tables from Text by Conditional Question Answering**|Anirudh Sundar et.al.|[2403.14457](http://arxiv.org/abs/2403.14457)|null|
+|**2024-03-21**|**Language Models Can Reduce Asymmetry in Information Markets**|Nasim Rahaman et.al.|[2403.14443](http://arxiv.org/abs/2403.14443)|null|
+|**2024-03-21**|**A Multimodal Approach to Device-Directed Speech Detection with Large Language Models**|Dominik Wager et.al.|[2403.14438](http://arxiv.org/abs/2403.14438)|null|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
 |**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799](http://arxiv.org/abs/2403.13799)|null|
@@ -686,6 +706,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Language Repository for Long Video Understanding**|Kumara Kahatapitiya et.al.|[2403.14622](http://arxiv.org/abs/2403.14622)|**[link](https://github.com/kkahatapitiya/langrepo)**|
+|**2024-03-21**|**Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels**|Tianming Liang et.al.|[2403.14430](http://arxiv.org/abs/2403.14430)|null|
 |**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042](http://arxiv.org/abs/2403.12042)|**[link](https://github.com/buxiangzhiren/vd-it)**|
 |**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-tuning)**|
 |**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656](http://arxiv.org/abs/2403.11656)|null|
