@@ -68,7 +68,7 @@
 |**2024-03-22**|**Imagination Augmented Generation: Learning to Imagine Richer Context for Question Answering over Large Language Models**|Huanxuan Liao et.al.|[2403.15268](http://arxiv.org/abs/2403.15268)|**[link](https://github.com/xnhyacinth/iag)**|
 |**2024-03-22**|**AI Exposure and Strategic Positioning on an Online Work Platform**|Shun Yiu et.al.|[2403.15262](http://arxiv.org/abs/2403.15262)|null|
 |**2024-03-22**|**FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions**|Orion Weller et.al.|[2403.15246](http://arxiv.org/abs/2403.15246)|null|
-|**2024-03-22**|**Shadow Generation for Composite Image Using Diffusion model**|Qingyang Liu et.al.|[2403.15234](http://arxiv.org/abs/2403.15234)|null|
+|**2024-03-22**|**Shadow Generation for Composite Image Using Diffusion model**|Qingyang Liu et.al.|[2403.15234](http://arxiv.org/abs/2403.15234)|**[link](https://github.com/bcmi/object-shadow-generation-dataset-desobav2)**|
 |**2024-03-22**|**An Exploratory Investigation into Code License Infringements in Large Language Model Training Datasets**|Jonathan Katzy et.al.|[2403.15230](http://arxiv.org/abs/2403.15230)|null|
 |**2024-03-22**|**Not All Attention is Needed: Parameter and Computation Efficient Transfer Learning for Multi-modal Large Language Models**|Qiong Wu et.al.|[2403.15226](http://arxiv.org/abs/2403.15226)|null|
 |**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|null|
