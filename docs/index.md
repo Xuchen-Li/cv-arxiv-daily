@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
+|**2024-03-25**|**Multi-attention Associate Prediction Network for Visual Tracking**|Xinglong Sun et.al.|[2403.16395](http://arxiv.org/abs/2403.16395)|null|
+|**2024-03-24**|**SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**|Xiaojun Hou et.al.|[2403.16002](http://arxiv.org/abs/2403.16002)|**[link](https://github.com/hoqolo/sdstrack)**|
+|**2024-03-23**|**Spatio-Temporal Bi-directional Cross-frame Memory for Distractor Filtering Point Cloud Single Object Tracking**|Shaoyu Sun et.al.|[2403.15831](http://arxiv.org/abs/2403.15831)|null|
 |**2024-03-19**|**TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO**|Chaoran Xiong et.al.|[2403.12504](http://arxiv.org/abs/2403.12504)|null|
 |**2024-03-18**|**Pedestrian Tracking with Monocular Camera using Unconstrained 3D Motion Model**|Jan Krejčí et.al.|[2403.11978](http://arxiv.org/abs/2403.11978)|null|
 |**2024-03-16**|**A Spectrum-based Image Denoising Method with Edge Feature Enhancement**|Peter Luvton et.al.|[2403.11036](http://arxiv.org/abs/2403.11036)|null|
@@ -47,6 +51,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**A Robotic Skill Learning System Built Upon Diffusion Policies and Foundation Models**|Nils Ingelhag et.al.|[2403.16730](http://arxiv.org/abs/2403.16730)|null|
+|**2024-03-25**|**ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search**|Zehan Li et.al.|[2403.16702](http://arxiv.org/abs/2403.16702)|null|
+|**2024-03-25**|**Synapse: Learning Preferential Concepts from Visual Demonstrations**|Sadanand Modak et.al.|[2403.16689](http://arxiv.org/abs/2403.16689)|null|
+|**2024-03-25**|**Investigation of the effectiveness of applying ChatGPT in Dialogic Teaching Using Electroencephalography**|Jiayue Zhang et.al.|[2403.16687](http://arxiv.org/abs/2403.16687)|null|
+|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662](http://arxiv.org/abs/2403.16662)|**[link](https://github.com/zeng-yirong/ru22fact)**|
+|**2024-03-25**|**Grammatical vs Spelling Error Correction: An Investigation into the Responsiveness of Transformer-based Language Models using BART and MarianMT**|Rohit Raju et.al.|[2403.16655](http://arxiv.org/abs/2403.16655)|null|
+|**2024-03-25**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
+|**2024-03-25**|**Virtual Co-Pilot: Multimodal Large Language Model-enabled Quick-access Procedures for Single Pilot Operations**|Fan Li et.al.|[2403.16645](http://arxiv.org/abs/2403.16645)|null|
+|**2024-03-25**|**Semantically Enriched Cross-Lingual Sentence Embeddings for Crisis-related Social Media Texts**|Rabindra Lamsal et.al.|[2403.16614](http://arxiv.org/abs/2403.16614)|null|
+|**2024-03-25**|**Conversational Grounding: Annotation and Analysis of Grounding Acts and Grounding Units**|Biswesh Mohapatra et.al.|[2403.16609](http://arxiv.org/abs/2403.16609)|null|
+|**2024-03-25**|**TrustAI at SemEval-2024 Task 8: A Comprehensive Analysis of Multi-domain Machine Generated Text Detection Techniques**|Ashok Urlana et.al.|[2403.16592](http://arxiv.org/abs/2403.16592)|null|
+|**2024-03-25**|**Can Large Language Models (or Humans) Distill Text?**|Nicolas Audinet de Pieuchon et.al.|[2403.16584](http://arxiv.org/abs/2403.16584)|null|
+|**2024-03-25**|**NSINA: A News Corpus for Sinhala**|Hansi Hettiarachchi et.al.|[2403.16571](http://arxiv.org/abs/2403.16571)|**[link](https://github.com/sinhala-nlp/sinhala-headline-generation)**|
+|**2024-03-25**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
+|**2024-03-25**|**DOrA: 3D Visual Grounding with Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
+|**2024-03-25**|**Open-Set Recognition in the Age of Vision-Language Models**|Dimity Miller et.al.|[2403.16528](http://arxiv.org/abs/2403.16528)|null|
+|**2024-03-25**|**Hallucination Detection in Foundation Models for Decision-Making: A Flexible Definition and Review of the State of the Art**|Neeloy Chakraborty et.al.|[2403.16527](http://arxiv.org/abs/2403.16527)|null|
+|**2024-03-25**|**Harnessing the power of LLMs for normative reasoning in MASs**|Bastin Tony Roy Savarimuthu et.al.|[2403.16524](http://arxiv.org/abs/2403.16524)|null|
+|**2024-03-25**|**Norm Violation Detection in Multi-Agent Systems using Large Language Models: A Pilot Study**|Shawn He et.al.|[2403.16517](http://arxiv.org/abs/2403.16517)|null|
+|**2024-03-25**|**Linguistically Differentiating Acts and Recalls of Racial Microaggressions on Social Media**|Uma Sushmitha Gunturi et.al.|[2403.16514](http://arxiv.org/abs/2403.16514)|null|
 |**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
@@ -717,8 +741,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-24**|**AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue**|Yunlong Tang et.al.|[2403.16276](http://arxiv.org/abs/2403.16276)|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
-|**2024-03-21**|**VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding**|Ahmad Mahmood et.al.|[2403.14743](http://arxiv.org/abs/2403.14743)|null|
+|**2024-03-25**|**VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding**|Ahmad Mahmood et.al.|[2403.14743](http://arxiv.org/abs/2403.14743)|null|
 |**2024-03-21**|**Language Repository for Long Video Understanding**|Kumara Kahatapitiya et.al.|[2403.14622](http://arxiv.org/abs/2403.14622)|**[link](https://github.com/kkahatapitiya/langrepo)**|
 |**2024-03-21**|**Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels**|Tianming Liang et.al.|[2403.14430](http://arxiv.org/abs/2403.14430)|null|
 |**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042](http://arxiv.org/abs/2403.12042)|**[link](https://github.com/buxiangzhiren/vd-it)**|
@@ -727,11 +752,11 @@ layout: default
 |**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517](http://arxiv.org/abs/2403.10517)|null|
 |**2024-03-14**|**Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**|Guo Chen et.al.|[2403.09626](http://arxiv.org/abs/2403.09626)|**[link](https://github.com/opengvlab/video-mamba-suite)**|
-|**2024-03-14**|**Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**|Yitian Zhang et.al.|[2403.09506](http://arxiv.org/abs/2403.09506)|**[link](https://github.com/bespontaneous/mca-pytorch)**|
+|**2024-03-25**|**Don't Judge by the Look: Towards Motion Coherent Video Representation**|Yitian Zhang et.al.|[2403.09506](http://arxiv.org/abs/2403.09506)|**[link](https://github.com/bespontaneous/mca-pytorch)**|
 |**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
 |**2024-03-11**|**Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions**|Lan Wang et.al.|[2403.07198](http://arxiv.org/abs/2403.07198)|null|
 |**2024-03-12**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
-|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|**[link](https://github.com/pkunlp-icler/fastv)**|
+|**2024-03-25**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|**[link](https://github.com/pkunlp-icler/fastv)**|
 |**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
 |**2024-03-11**|**Beyond MOT: Semantic Multi-Object Tracking**|Yunhao Li et.al.|[2403.05021](http://arxiv.org/abs/2403.05021)|null|
 |**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
