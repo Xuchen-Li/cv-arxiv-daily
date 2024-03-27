@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935](http://arxiv.org/abs/2403.17935)|**[link](https://github.com/wangjk666/omnivid)**|
+|**2024-03-26**|**Exploring Dynamic Transformer for Efficient Object Tracking**|Jiawen Zhu et.al.|[2403.17651](http://arxiv.org/abs/2403.17651)|null|
 |**2024-03-25**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
 |**2024-03-25**|**Multi-attention Associate Prediction Network for Visual Tracking**|Xinglong Sun et.al.|[2403.16395](http://arxiv.org/abs/2403.16395)|null|
 |**2024-03-24**|**SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**|Xiaojun Hou et.al.|[2403.16002](http://arxiv.org/abs/2403.16002)|**[link](https://github.com/hoqolo/sdstrack)**|
@@ -51,6 +53,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935](http://arxiv.org/abs/2403.17935)|**[link](https://github.com/wangjk666/omnivid)**|
+|**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927](http://arxiv.org/abs/2403.17927)|null|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|null|
+|**2024-03-26**|**Large scale paired antibody language models**|Henry Kenlay et.al.|[2403.17889](http://arxiv.org/abs/2403.17889)|null|
+|**2024-03-26**|**Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation**|Carlos Gomes et.al.|[2403.17886](http://arxiv.org/abs/2403.17886)|null|
+|**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876](http://arxiv.org/abs/2403.17876)|**[link](https://github.com/andreeaiana/xmind)**|
+|**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873](http://arxiv.org/abs/2403.17873)|null|
+|**2024-03-26**|**Exploring LLMs as a Source of Targeted Synthetic Textual Data to Minimize High Confidence Misclassifications**|Philip Lippmann et.al.|[2403.17860](http://arxiv.org/abs/2403.17860)|null|
+|**2024-03-26**|**ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages**|Bhawna Piryani et.al.|[2403.17859](http://arxiv.org/abs/2403.17859)|**[link](https://github.com/datascienceuibk/chroniclingamericaqa)**|
+|**2024-03-26**|**Verbing Weirds Language (Models): Evaluation of English Zero-Derivation in Five LLMs**|David R. Mortensen et.al.|[2403.17856](http://arxiv.org/abs/2403.17856)|null|
+|**2024-03-26**|**ArabicaQA: A Comprehensive Dataset for Arabic Question Answering**|Abdelrahman Abdallah et.al.|[2403.17848](http://arxiv.org/abs/2403.17848)|**[link](https://github.com/datascienceuibk/arabicaqa)**|
+|**2024-03-26**|**Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation**|Abdelrhman Werby et.al.|[2403.17846](http://arxiv.org/abs/2403.17846)|null|
+|**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
+|**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839](http://arxiv.org/abs/2403.17839)|null|
+|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834](http://arxiv.org/abs/2403.17834)|**[link](https://github.com/ibrahimethemhamamci/ct-clip)**|
+|**2024-03-26**|**Assessment of Multimodal Large Language Models in Alignment with Human Values**|Zhelun Shi et.al.|[2403.17830](http://arxiv.org/abs/2403.17830)|null|
+|**2024-03-26**|**Accelerating Radio Spectrum Regulation Workflows with Large Language Models (LLMs)**|Amir Ghasemi et.al.|[2403.17819](http://arxiv.org/abs/2403.17819)|null|
+|**2024-03-26**|**Graph Language Model (GLM): A new graph-based approach to detect social instabilities**|Wallyson Lemes de Oliveira et.al.|[2403.17816](http://arxiv.org/abs/2403.17816)|null|
+|**2024-03-26**|**Are Compressed Language Models Less Subgroup Robust?**|Leonidas Gee et.al.|[2403.17811](http://arxiv.org/abs/2403.17811)|**[link](https://github.com/wearepal/compression-subgroup)**|
 |**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
 |**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
 |**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792](http://arxiv.org/abs/2403.16792)|null|
@@ -745,6 +767,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935](http://arxiv.org/abs/2403.17935)|**[link](https://github.com/wangjk666/omnivid)**|
+|**2024-03-25**|**Understanding Long Videos in One Multimodal Language Model Pass**|Kanchana Ranasinghe et.al.|[2403.16998](http://arxiv.org/abs/2403.16998)|null|
 |**2024-03-24**|**AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue**|Yunlong Tang et.al.|[2403.16276](http://arxiv.org/abs/2403.16276)|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
 |**2024-03-25**|**VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding**|Ahmad Mahmood et.al.|[2403.14743](http://arxiv.org/abs/2403.14743)|null|
