@@ -70,7 +70,7 @@ layout: default
 |**2024-03-29**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253](http://arxiv.org/abs/2403.20253)|null|
 |**2024-03-29**|**Using LLMs to Model the Beliefs and Preferences of Targeted Populations**|Keiichi Namikoshi et.al.|[2403.20252](http://arxiv.org/abs/2403.20252)|null|
 |**2024-03-29**|**Long-Tailed Anomaly Detection with Learnable Class Names**|Chih-Hui Ho et.al.|[2403.20236](http://arxiv.org/abs/2403.20236)|null|
-|**2024-03-29**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|null|
+|**2024-03-29**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|**[link](https://github.com/opendatalab/h2rsvlm)**|
 |**2024-03-29**|**Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**|Yazheng Yang et.al.|[2403.20208](http://arxiv.org/abs/2403.20208)|null|
 |**2024-03-29**|**The Future of Combating Rumors? Retrieval, Discrimination, and Generation**|Junhao Xu et.al.|[2403.20204](http://arxiv.org/abs/2403.20204)|null|
 |**2024-03-29**|**ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**|Shuo Liu et.al.|[2403.20194](http://arxiv.org/abs/2403.20194)|null|
