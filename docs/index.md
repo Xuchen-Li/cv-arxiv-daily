@@ -55,6 +55,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251](http://arxiv.org/abs/2404.04251)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
+|**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237](http://arxiv.org/abs/2404.04237)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234](http://arxiv.org/abs/2404.04234)|null|
+|**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231](http://arxiv.org/abs/2404.04231)|null|
+|**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212](http://arxiv.org/abs/2404.04212)|null|
+|**2024-04-05**|**Social Skill Training with Large Language Models**|Diyi Yang et.al.|[2404.04204](http://arxiv.org/abs/2404.04204)|null|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169](http://arxiv.org/abs/2404.04169)|null|
+|**2024-04-05**|**Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model**|Xinrun Du et.al.|[2404.04167](http://arxiv.org/abs/2404.04167)|null|
+|**2024-04-05**|**Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval**|João Coelho et.al.|[2404.04163](http://arxiv.org/abs/2404.04163)|null|
+|**2024-04-05**|**BEAR: A Unified Framework for Evaluating Relational Knowledge in Causal and Masked Language Models**|Jacek Wiland et.al.|[2404.04113](http://arxiv.org/abs/2404.04113)|null|
+|**2024-04-05**|**Large language models as oracles for instantiating ontologies with domain-specific knowledge**|Giovanni Ciatto et.al.|[2404.04108](http://arxiv.org/abs/2404.04108)|**[link](https://github.com/chistera4-expectation/knowledge-graphs)**|
+|**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
+|**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić et.al.|[2404.04072](http://arxiv.org/abs/2404.04072)|**[link](https://github.com/vladan-stojnic/zlap)**|
+|**2024-04-05**|**Assessing the quality of information extraction**|Filip Seitl et.al.|[2404.04068](http://arxiv.org/abs/2404.04068)|null|
+|**2024-04-05**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|null|
+|**2024-04-05**|**VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots**|Akhil Padmanabha et.al.|[2404.04066](http://arxiv.org/abs/2404.04066)|null|
+|**2024-04-05**|**A Comparison of Methods for Evaluating Generative IR**|Negar Arabzadeh et.al.|[2404.04044](http://arxiv.org/abs/2404.04044)|**[link](https://github.com/narabzad/genir-evaluation)**|
+|**2024-04-05**|**Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer**|Hele-Andra Kuulmets et.al.|[2404.04042](http://arxiv.org/abs/2404.04042)|null|
+|**2024-04-05**|**Willkommens-Merkel, Chaos-Johnson, and Tore-Klose: Modeling the Evaluative Meaning of German Personal Name Compounds**|Annerose Eichel et.al.|[2404.04031](http://arxiv.org/abs/2404.04031)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
@@ -889,11 +909,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Neural-Symbolic VideoQA: Learning Compositional Spatio-Temporal Reasoning for Real-world Video Question Answering**|Lili Liang et.al.|[2404.04007](http://arxiv.org/abs/2404.04007)|null|
 |**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657](http://arxiv.org/abs/2404.03657)|null|
 |**2024-04-04**|**MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens**|Kirolos Ataallah et.al.|[2404.03413](http://arxiv.org/abs/2404.03413)|null|
 |**2024-04-04**|**LongVLM: Efficient Long Video Understanding via Large Language Models**|Yuetian Weng et.al.|[2404.03384](http://arxiv.org/abs/2404.03384)|**[link](https://github.com/ziplab/longvlm)**|
 |**2024-04-03**|**DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement**|Hao Wu et.al.|[2404.02755](http://arxiv.org/abs/2404.02755)|null|
-|**2024-04-02**|**SnAG: Scalable and Accurate Video Grounding**|Fangzhou Mu et.al.|[2404.02257](http://arxiv.org/abs/2404.02257)|null|
+|**2024-04-05**|**SnAG: Scalable and Accurate Video Grounding**|Fangzhou Mu et.al.|[2404.02257](http://arxiv.org/abs/2404.02257)|null|
 |**2024-04-01**|**TraveLER: A Multi-LMM Agent Framework for Video Question-Answering**|Chuyi Shang et.al.|[2404.01476](http://arxiv.org/abs/2404.01476)|null|
 |**2024-04-01**|**CausalChaos! Dataset for Comprehensive Causal Action Question Answering Over Longer Causal Chains Grounded in Dynamic Visual Scenes**|Ting En Lam et.al.|[2404.01299](http://arxiv.org/abs/2404.01299)|null|
 |**2024-04-01**|**Streaming Dense Video Captioning**|Xingyi Zhou et.al.|[2404.01297](http://arxiv.org/abs/2404.01297)|**[link](https://github.com/google-research/scenic)**|
