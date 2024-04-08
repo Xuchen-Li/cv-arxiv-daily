@@ -38,7 +38,7 @@ layout: default
 |**2024-01-18**|**Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking**|Amir M. Mansourian et.al.|[2401.09942](http://arxiv.org/abs/2401.09942)|null|
 |**2024-01-12**|**Dense Optical Flow Estimation Using Sparse Regularizers from Reduced Measurements**|Muhammad Wasim Nawaz et.al.|[2401.06396](http://arxiv.org/abs/2401.06396)|null|
 |**2024-01-18**|**Hold 'em and Fold 'em: Towards Human-scale, Feedback-Controlled Soft Origami Robots**|Immanuel Ampomah Mensah et.al.|[2401.04650](http://arxiv.org/abs/2401.04650)|null|
-|**2024-01-06**|**Explicit Visual Prompts for Visual Object Tracking**|Liangtao Shi et.al.|[2401.03142](http://arxiv.org/abs/2401.03142)|null|
+|**2024-01-06**|**Explicit Visual Prompts for Visual Object Tracking**|Liangtao Shi et.al.|[2401.03142](http://arxiv.org/abs/2401.03142)|**[link](https://github.com/GXNU-ZhongLab/EVPTrack)**|
 |**2024-01-03**|**ODTrack: Online Dense Temporal Token Learning for Visual Tracking**|Yaozong Zheng et.al.|[2401.01686](http://arxiv.org/abs/2401.01686)|**[link](https://github.com/gxnu-zhonglab/odtrack)**|
 |**2023-12-27**|**X Modality Assisting RGBT Object Tracking**|Zhaisheng Ding et.al.|[2312.17273](http://arxiv.org/abs/2312.17273)|null|
 |**2023-12-22**|**Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset**|Lei Liu et.al.|[2312.14446](http://arxiv.org/abs/2312.14446)|**[link](https://github.com/mmic-lcl/datasets-and-benchmark-code)**|
@@ -97,7 +97,7 @@ layout: default
 |**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558](http://arxiv.org/abs/2404.03558)|**[link](https://github.com/harmonbhasin/curriculum_learning_icl)**|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
-|**2024-04-03**|**ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline**|Yifan Xu et.al.|[2404.02893](http://arxiv.org/abs/2404.02893)|null|
+|**2024-04-03**|**ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline**|Yifan Xu et.al.|[2404.02893](http://arxiv.org/abs/2404.02893)|**[link](https://github.com/thudm/chatglm-math)**|
 |**2024-04-03**|**MODNO: Multi Operator Learning With Distributed Neural Operators**|Zecheng Zhang et.al.|[2404.02892](http://arxiv.org/abs/2404.02892)|null|
 |**2024-04-03**|**Linear Attention Sequence Parallelism**|Weigao Sun et.al.|[2404.02882](http://arxiv.org/abs/2404.02882)|**[link](https://github.com/opennlplab/lasp)**|
 |**2024-04-03**|**Integrating Explanations in Learning LTL Specifications from Demonstrations**|Ashutosh Gupta et.al.|[2404.02872](http://arxiv.org/abs/2404.02872)|null|
@@ -186,15 +186,15 @@ layout: default
 |**2024-03-27**|**CheckEval: Robust Evaluation Framework using Large Language Model via Checklist**|Yukyung Lee et.al.|[2403.18771](http://arxiv.org/abs/2403.18771)|null|
 |**2024-03-27**|**MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model**|Yike Wu et.al.|[2403.18760](http://arxiv.org/abs/2403.18760)|**[link](https://github.com/wuyike2000/mldt)**|
 |**2024-03-27**|**CYCLE: Learning to Self-Refine the Code Generation**|Yangruibo Ding et.al.|[2403.18746](http://arxiv.org/abs/2403.18746)|**[link](https://github.com/arise-lab/cycle_oopsla_24)**|
-|**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742](http://arxiv.org/abs/2403.18742)|null|
+|**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742](http://arxiv.org/abs/2403.18742)|**[link](https://github.com/shawn-im/dpo-dynamics)**|
 |**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721](http://arxiv.org/abs/2403.18721)|null|
 |**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
 |**2024-03-27**|**The Invalsi Benchmark: measuring Language Models Mathematical and Language understanding in Italian**|Andrea Esuli et.al.|[2403.18697](http://arxiv.org/abs/2403.18697)|null|
 |**2024-03-27**|**NL-ITI: Optimizing Probing and Intervention for Improvement of ITI Method**|Jakub Hoscilowicz et.al.|[2403.18680](http://arxiv.org/abs/2403.18680)|**[link](https://github.com/samsung/nl-iti)**|
 |**2024-03-27**|**An Exploratory Study on Upper-Level Computing Students' Use of Large Language Models as Tools in a Semester-Long Project**|Ben Arie Tanay et.al.|[2403.18679](http://arxiv.org/abs/2403.18679)|null|
-|**2024-03-27**|**SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**|Chengbo Liu et.al.|[2403.18647](http://arxiv.org/abs/2403.18647)|null|
+|**2024-03-27**|**SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**|Chengbo Liu et.al.|[2403.18647](http://arxiv.org/abs/2403.18647)|**[link](https://github.com/ainergy-ml/sdsat)**|
 |**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628](http://arxiv.org/abs/2403.18628)|null|
-|**2024-03-27**|**Vulnerability Detection with Code Language Models: How Far Are We?**|Yangruibo Ding et.al.|[2403.18624](http://arxiv.org/abs/2403.18624)|null|
+|**2024-03-27**|**Vulnerability Detection with Code Language Models: How Far Are We?**|Yangruibo Ding et.al.|[2403.18624](http://arxiv.org/abs/2403.18624)|**[link](https://github.com/dlvuldet/primevul)**|
 |**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935](http://arxiv.org/abs/2403.17935)|**[link](https://github.com/wangjk666/omnivid)**|
 |**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
 |**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927](http://arxiv.org/abs/2403.17927)|null|
@@ -216,11 +216,11 @@ layout: default
 |**2024-03-26**|**Graph Language Model (GLM): A new graph-based approach to detect social instabilities**|Wallyson Lemes de Oliveira et.al.|[2403.17816](http://arxiv.org/abs/2403.17816)|null|
 |**2024-03-26**|**Are Compressed Language Models Less Subgroup Robust?**|Leonidas Gee et.al.|[2403.17811](http://arxiv.org/abs/2403.17811)|**[link](https://github.com/wearepal/compression-subgroup)**|
 |**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
-|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|**[link](https://github.com/happyeureka/llm_digital_twin)**|
 |**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792](http://arxiv.org/abs/2403.16792)|null|
 |**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
 |**2024-03-25**|**A Robotic Skill Learning System Built Upon Diffusion Policies and Foundation Models**|Nils Ingelhag et.al.|[2403.16730](http://arxiv.org/abs/2403.16730)|null|
-|**2024-03-25**|**ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search**|Zehan Li et.al.|[2403.16702](http://arxiv.org/abs/2403.16702)|null|
+|**2024-03-25**|**ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search**|Zehan Li et.al.|[2403.16702](http://arxiv.org/abs/2403.16702)|**[link](https://github.com/jordane95/procqa)**|
 |**2024-03-25**|**Synapse: Learning Preferential Concepts from Visual Demonstrations**|Sadanand Modak et.al.|[2403.16689](http://arxiv.org/abs/2403.16689)|null|
 |**2024-03-25**|**Investigation of the effectiveness of applying ChatGPT in Dialogic Teaching Using Electroencephalography**|Jiayue Zhang et.al.|[2403.16687](http://arxiv.org/abs/2403.16687)|null|
 |**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662](http://arxiv.org/abs/2403.16662)|**[link](https://github.com/zeng-yirong/ru22fact)**|
@@ -608,7 +608,7 @@ layout: default
 |**2024-02-26**|**On Languaging a Simulation Engine**|Han Liu et.al.|[2402.16482](http://arxiv.org/abs/2402.16482)|null|
 |**2024-02-26**|**Unveiling ChatGPT's Usage in Open Source Projects: A Mining-based Study**|Rosalia Tufano et.al.|[2402.16480](http://arxiv.org/abs/2402.16480)|null|
 |**2024-02-26**|**mEdIT: Multilingual Text Editing via Instruction Tuning**|Vipul Raheja et.al.|[2402.16472](http://arxiv.org/abs/2402.16472)|null|
-|**2024-02-26**|**Unveiling Vulnerability of Self-Attention**|Khai Jiet Liong et.al.|[2402.16470](http://arxiv.org/abs/2402.16470)|null|
+|**2024-02-26**|**Unveiling Vulnerability of Self-Attention**|Khai Jiet Liong et.al.|[2402.16470](http://arxiv.org/abs/2402.16470)|**[link](https://github.com/liongkj/hackattend)**|
 |**2024-02-26**|**Defending LLMs against Jailbreaking Attacks via Backtranslation**|Yihan Wang et.al.|[2402.16459](http://arxiv.org/abs/2402.16459)|**[link](https://github.com/yihanwang617/llm-jailbreaking-defense-backtranslation)**|
 |**2024-02-26**|**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**|Liuzhenghao Lv et.al.|[2402.16445](http://arxiv.org/abs/2402.16445)|**[link](https://github.com/lyu6poshao/prollama)**|
 |**2024-02-26**|**ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors**|Zhexin Zhang et.al.|[2402.16444](http://arxiv.org/abs/2402.16444)|**[link](https://github.com/thu-coai/shieldlm)**|
