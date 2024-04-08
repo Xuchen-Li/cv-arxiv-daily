@@ -65,7 +65,7 @@ layout: default
 |**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169](http://arxiv.org/abs/2404.04169)|null|
 |**2024-04-05**|**Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model**|Xinrun Du et.al.|[2404.04167](http://arxiv.org/abs/2404.04167)|null|
 |**2024-04-05**|**Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval**|João Coelho et.al.|[2404.04163](http://arxiv.org/abs/2404.04163)|null|
-|**2024-04-05**|**BEAR: A Unified Framework for Evaluating Relational Knowledge in Causal and Masked Language Models**|Jacek Wiland et.al.|[2404.04113](http://arxiv.org/abs/2404.04113)|null|
+|**2024-04-05**|**BEAR: A Unified Framework for Evaluating Relational Knowledge in Causal and Masked Language Models**|Jacek Wiland et.al.|[2404.04113](http://arxiv.org/abs/2404.04113)|**[link](https://github.com/lm-pub-quiz/lm-pub-quiz)**|
 |**2024-04-05**|**Large language models as oracles for instantiating ontologies with domain-specific knowledge**|Giovanni Ciatto et.al.|[2404.04108](http://arxiv.org/abs/2404.04108)|**[link](https://github.com/chistera4-expectation/knowledge-graphs)**|
 |**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
 |**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić et.al.|[2404.04072](http://arxiv.org/abs/2404.04072)|**[link](https://github.com/vladan-stojnic/zlap)**|
