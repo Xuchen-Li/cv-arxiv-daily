@@ -70,7 +70,7 @@
 |**2024-04-08**|**Retrieval-Augmented Open-Vocabulary Object Detection**|Jooyeon Kim et.al.|[2404.05687](http://arxiv.org/abs/2404.05687)|**[link](https://github.com/mlvlab/RALF)**|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
 |**2024-04-08**|**CoReS: Orchestrating the Dance of Reasoning and Segmentation**|Xiaoyi Bao et.al.|[2404.05673](http://arxiv.org/abs/2404.05673)|null|
-|**2024-04-08**|**Fighting crime with Transformers: Empirical analysis of address parsing methods in payment data**|Haitham Hammami et.al.|[2404.05632](http://arxiv.org/abs/2404.05632)|null|
+|**2024-04-08**|**Fighting crime with Transformers: Empirical analysis of address parsing methods in payment data**|Haitham Hammami et.al.|[2404.05632](http://arxiv.org/abs/2404.05632)|**[link](https://github.com/hm-haitham/Fighting-crime-with-Transformers-Empirical-analysis-of-address-parsing-methods-in-payment-data)**|
 |**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
 |**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|null|
 |**2024-04-08**|**SpeechAlign: Aligning Speech Generation to Human Preferences**|Dong Zhang et.al.|[2404.05600](http://arxiv.org/abs/2404.05600)|**[link](https://github.com/0nutation/speechgpt)**|
@@ -79,7 +79,7 @@
 |**2024-04-08**|**Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model**|Yue-Hua Han et.al.|[2404.05583](http://arxiv.org/abs/2404.05583)|null|
 |**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
 |**2024-04-08**|**Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**|Bowen Pan et.al.|[2404.05567](http://arxiv.org/abs/2404.05567)|null|
-|**2024-04-08**|**Chinese Sequence Labeling with Semi-Supervised Boundary-Aware Language Model Pre-training**|Longhui Zhang et.al.|[2404.05560](http://arxiv.org/abs/2404.05560)|null|
+|**2024-04-08**|**Chinese Sequence Labeling with Semi-Supervised Boundary-Aware Language Model Pre-training**|Longhui Zhang et.al.|[2404.05560](http://arxiv.org/abs/2404.05560)|**[link](https://github.com/modelscope/adaseq)**|
 |**2024-04-08**|**Evaluating Interventional Reasoning Capabilities of Large Language Models**|Tejas Kasetty et.al.|[2404.05545](http://arxiv.org/abs/2404.05545)|null|
 |**2024-04-08**|**OPSD: an Offensive Persian Social media Dataset and its baseline evaluations**|Mehran Safayani et.al.|[2404.05540](http://arxiv.org/abs/2404.05540)|null|
 |**2024-04-08**|**Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data**|Tim Baumgärtner et.al.|[2404.05530](http://arxiv.org/abs/2404.05530)|null|
