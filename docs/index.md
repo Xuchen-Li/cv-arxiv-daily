@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks**|Jianlang Chen et.al.|[2404.06247](http://arxiv.org/abs/2404.06247)|**[link](https://github.com/tsingqguo/robustot)**|
 |**2024-04-08**|**Semi-Supervised Novelty Detection for Precise Ultra-Wideband Error Signal Prediction**|Umberto Albertin et.al.|[2404.05351](http://arxiv.org/abs/2404.05351)|null|
 |**2024-03-29**|**Context-Aware Integration of Language and Visual References for Natural Language Tracking**|Yanyan Shao et.al.|[2403.19975](http://arxiv.org/abs/2403.19975)|null|
 |**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
@@ -56,6 +57,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**|Xiaoyi Dong et.al.|[2404.06512](http://arxiv.org/abs/2404.06512)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-04-09**|**Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?**|Yuan-Hong Liao et.al.|[2404.06510](http://arxiv.org/abs/2404.06510)|null|
+|**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508](http://arxiv.org/abs/2404.06508)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
+|**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488](http://arxiv.org/abs/2404.06488)|null|
+|**2024-04-09**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480](http://arxiv.org/abs/2404.06480)|**[link](https://github.com/open-compass/ada-leval)**|
+|**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479](http://arxiv.org/abs/2404.06479)|null|
+|**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
+|**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
+|**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411](http://arxiv.org/abs/2404.06411)|**[link](https://github.com/nec-research/agentquest)**|
+|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|null|
+|**2024-04-09**|**Apprentices to Research Assistants: Advancing Research with Large Language Models**|M. Namvarpour et.al.|[2404.06404](http://arxiv.org/abs/2404.06404)|null|
+|**2024-04-09**|**MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies**|Shengding Hu et.al.|[2404.06395](http://arxiv.org/abs/2404.06395)|**[link](https://github.com/openbmb/minicpm)**|
+|**2024-04-09**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|
+|**2024-04-09**|**Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis**|Mikel Zubillaga et.al.|[2404.06392](http://arxiv.org/abs/2404.06392)|null|
+|**2024-04-09**|**Latent Distance Guided Alignment Training for Large Language Models**|Haotian Luo et.al.|[2404.06390](http://arxiv.org/abs/2404.06390)|null|
+|**2024-04-09**|**Model Generation from Requirements with LLMs: an Exploratory Study**|Alessio Ferrari et.al.|[2404.06371](http://arxiv.org/abs/2404.06371)|null|
+|**2024-04-09**|**Enhancing Decision Analysis with a Large Language Model: pyDecision a Comprehensive Library of MCDA Methods in Python**|Valdecy Pereira et.al.|[2404.06370](http://arxiv.org/abs/2404.06370)|null|
+|**2024-04-09**|**VISION2UI: A Real-World Dataset with Layout for Code Generation from UI Designs**|Yi Gui et.al.|[2404.06369](http://arxiv.org/abs/2404.06369)|null|
+|**2024-04-09**|**ClinLinker: Medical Entity Linking of Clinical Concept Mentions in Spanish**|Fernando Gallego et.al.|[2404.06367](http://arxiv.org/abs/2404.06367)|null|
+|**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362](http://arxiv.org/abs/2404.06362)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
 |**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
 |**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
@@ -930,6 +951,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
+|**2024-04-07**|**X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model**|Jan Held et.al.|[2404.06332](http://arxiv.org/abs/2404.06332)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
 |**2024-04-06**|**SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos**|Tao Wu et.al.|[2404.04565](http://arxiv.org/abs/2404.04565)|null|
 |**2024-04-05**|**Koala: Key frame-conditioned long video-LLM**|Reuben Tan et.al.|[2404.04346](http://arxiv.org/abs/2404.04346)|null|
