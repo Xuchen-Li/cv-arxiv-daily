@@ -63,6 +63,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046](http://arxiv.org/abs/2404.13046)|**[link](https://github.com/templex98/mova)**|
+|**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
+|**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
+|**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033](http://arxiv.org/abs/2404.13033)|**[link](https://github.com/beyondguo/llm-tuning)**|
+|**2024-04-19**|**When Life gives you LLMs, make LLM-ADE: Large Language Models with Adaptive Data Engineering**|Stephen Choi et.al.|[2404.13028](http://arxiv.org/abs/2404.13028)|null|
+|**2024-04-19**|**Stronger Random Baselines for In-Context Learning**|Gregory Yauney et.al.|[2404.13020](http://arxiv.org/abs/2404.13020)|**[link](https://github.com/gyauney/max-random-baseline)**|
+|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|null|
+|**2024-04-19**|**Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs**|Clemencia Siro et.al.|[2404.12994](http://arxiv.org/abs/2404.12994)|**[link](https://github.com/clemenciah/llmcrowddialogueeval)**|
+|**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975](http://arxiv.org/abs/2404.12975)|null|
+|**2024-04-19**|**Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models**|Yian Li et.al.|[2404.12966](http://arxiv.org/abs/2404.12966)|null|
+|**2024-04-19**|**Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction**|Qinyuan Wu et.al.|[2404.12957](http://arxiv.org/abs/2404.12957)|null|
+|**2024-04-19**|**Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models**|Konstantinos Vilouras et.al.|[2404.12920](http://arxiv.org/abs/2404.12920)|null|
+|**2024-04-19**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[2404.12916](http://arxiv.org/abs/2404.12916)|null|
+|**2024-04-19**|**Large Language Models for Networking: Workflow, Advances and Challenges**|Chang Liu et.al.|[2404.12901](http://arxiv.org/abs/2404.12901)|null|
+|**2024-04-19**|**Enabling Natural Zero-Shot Prompting on Encoder Models via Statement-Tuning**|Ahmed Elshabrawy et.al.|[2404.12897](http://arxiv.org/abs/2404.12897)|null|
+|**2024-04-19**|**Unlocking Multi-View Insights in Knowledge-Dense Retrieval-Augmented Generation**|Guanhua Chen et.al.|[2404.12879](http://arxiv.org/abs/2404.12879)|null|
+|**2024-04-19**|**LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency**|Zhaodonghui Li et.al.|[2404.12872](http://arxiv.org/abs/2404.12872)|**[link](https://github.com/damo-nlp-sg/llm-r2)**|
+|**2024-04-19**|**How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?**|Yang Luo et.al.|[2404.12866](http://arxiv.org/abs/2404.12866)|null|
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861](http://arxiv.org/abs/2404.12861)|null|
+|**2024-04-19**|**TartuNLP @ SIGTYP 2024 Shared Task: Adapting XLM-RoBERTa for Ancient and Historical Languages**|Aleksei Dorkin et.al.|[2404.12845](http://arxiv.org/abs/2404.12845)|null|
 |**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390](http://arxiv.org/abs/2404.12390)|null|
 |**2024-04-18**|**Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models**|Aitor Ormazabal et.al.|[2404.12387](http://arxiv.org/abs/2404.12387)|null|
 |**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
@@ -1116,7 +1136,7 @@ layout: default
 |**2024-04-07**|**X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model**|Jan Held et.al.|[2404.06332](http://arxiv.org/abs/2404.06332)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|**[link](https://github.com/boheumd/MA-LMM)**|
 |**2024-04-06**|**SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos**|Tao Wu et.al.|[2404.04565](http://arxiv.org/abs/2404.04565)|null|
-|**2024-04-05**|**Koala: Key frame-conditioned long video-LLM**|Reuben Tan et.al.|[2404.04346](http://arxiv.org/abs/2404.04346)|null|
+|**2024-04-19**|**Koala: Key frame-conditioned long video-LLM**|Reuben Tan et.al.|[2404.04346](http://arxiv.org/abs/2404.04346)|null|
 |**2024-04-05**|**Neural-Symbolic VideoQA: Learning Compositional Spatio-Temporal Reasoning for Real-world Video Question Answering**|Lili Liang et.al.|[2404.04007](http://arxiv.org/abs/2404.04007)|null|
 |**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657](http://arxiv.org/abs/2404.03657)|null|
 |**2024-04-04**|**MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens**|Kirolos Ataallah et.al.|[2404.03413](http://arxiv.org/abs/2404.03413)|null|
