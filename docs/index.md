@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -82,7 +82,7 @@ layout: default
 |**2024-04-30**|**MoST: Multi-modality Scene Tokenization for Motion Prediction**|Norman Mu et.al.|[2404.19531](http://arxiv.org/abs/2404.19531)|null|
 |**2024-04-30**|**Do Large Language Models Understand Conversational Implicature -- A case study with a chinese sitcom**|Shisen Yue et.al.|[2404.19509](http://arxiv.org/abs/2404.19509)|null|
 |**2024-04-30**|**More Compute Is What You Need**|Zhen Guo et.al.|[2404.19484](http://arxiv.org/abs/2404.19484)|null|
-|**2024-04-30**|**Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings**|Guobin Shen et.al.|[2404.19438](http://arxiv.org/abs/2404.19438)|null|
+|**2024-05-01**|**Neuro-Vision to Language: Image Reconstruction and Language enabled Interaction via Brain Recordings**|Guobin Shen et.al.|[2404.19438](http://arxiv.org/abs/2404.19438)|null|
 |**2024-04-30**|**Can Large Language Models put 2 and 2 together? Probing for Entailed Arithmetical Relationships**|D. Panas et.al.|[2404.19432](http://arxiv.org/abs/2404.19432)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**Holmes: Benchmark the Linguistic Competence of Language Models**|Andreas Waldis et.al.|[2404.18923](http://arxiv.org/abs/2404.18923)|null|
