@@ -1385,3 +1385,28 @@ layout: default
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
+## Multi-modal Learning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Deep Predictive Model Learning with Parametric Bias: Handling Modeling Difficulties and Temporal Model Changes**|Kento Kawaharazuka et.al.|[2404.15726](http://arxiv.org/abs/2404.15726)|null|
+|**2024-04-19**|**MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model**|Kang Zeng et.al.|[2404.12794](http://arxiv.org/abs/2404.12794)|**[link](https://github.com/terminal-k/mambamos)**|
+|**2024-04-13**|**Understanding Human-COVID-19 Dynamics using Geospatial Big Data: A Systematic Literature Review**|Binbin Lin et.al.|[2404.10013](http://arxiv.org/abs/2404.10013)|null|
+|**2024-04-15**|**A spatio-temporal model to detect potential outliers in disease mapping**|Victoire Michal et.al.|[2404.09882](http://arxiv.org/abs/2404.09882)|null|
+|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645](http://arxiv.org/abs/2404.07645)|null|
+|**2024-04-05**|**Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling**|Jiuyun Hu et.al.|[2404.04403](http://arxiv.org/abs/2404.04403)|null|
+|**2024-04-03**|**Spatio-temporal Modeling of Count Data**|Steffen Maletz et.al.|[2404.02982](http://arxiv.org/abs/2404.02982)|**[link](https://github.com/stmaletz/poissonstarma)**|
+|**2024-03-31**|**$R^2$ -Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding**|Ye Liu et.al.|[2404.00801](http://arxiv.org/abs/2404.00801)|**[link](https://github.com/yeliudev/R2-Tuning)**|
+|**2024-03-30**|**ST-LLM: Large Language Models Are Effective Temporal Learners**|Ruyang Liu et.al.|[2404.00308](http://arxiv.org/abs/2404.00308)|**[link](https://github.com/TencentARC/ST-LLM)**|
+|**2024-03-28**|**X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization**|Anna Kukleva et.al.|[2403.19811](http://arxiv.org/abs/2403.19811)|**[link](https://github.com/annusha/xmic)**|
+|**2024-03-25**|**TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models**|Zhongwei Zhang et.al.|[2403.17005](http://arxiv.org/abs/2403.17005)|null|
+|**2024-04-13**|**Recursive Joint Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition**|R. Gnana Praveen et.al.|[2403.13659](http://arxiv.org/abs/2403.13659)|**[link](https://github.com/praveena2j/rjcma)**|
+|**2024-03-19**|**SUN Team's Contribution to ABAW 2024 Competition: Audio-visual Valence-Arousal Estimation and Expression Recognition**|Denis Dresvyanskiy et.al.|[2403.12609](http://arxiv.org/abs/2403.12609)|null|
+|**2024-03-18**|**Bayesian Optimization Sequential Surrogate (BOSS) Algorithm: Fast Bayesian Inference for a Broad Class of Bayesian Hierarchical Models**|Dayi Li et.al.|[2403.12250](http://arxiv.org/abs/2403.12250)|null|
+|**2024-03-19**|**Exploring Facial Expression Recognition through Semi-Supervised Pretraining and Temporal Modeling**|Jun Yu et.al.|[2403.11942](http://arxiv.org/abs/2403.11942)|null|
+|**2024-03-15**|**Spatio-temporal Occupancy Models with INLA**|Jafet Belmont et.al.|[2403.10680](http://arxiv.org/abs/2403.10680)|null|
+|**2024-03-15**|**Multivariate Bayesian models with flexible shared interactions for analyzing spatio-temporal patterns of rare cancers**|Garazi Retegui et.al.|[2403.10440](http://arxiv.org/abs/2403.10440)|**[link](https://github.com/spatialstatisticsupna/shared_interactions)**|
+|**2024-03-13**|**Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting**|Guy P Nason et.al.|[2403.08630](http://arxiv.org/abs/2403.08630)|null|
+|**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
+|**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
+
