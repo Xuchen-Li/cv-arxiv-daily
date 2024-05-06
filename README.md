@@ -1,4 +1,4 @@
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@
 |**2024-04-15**|**Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**|Fangwei Zhong et.al.|[2404.09857](http://arxiv.org/abs/2404.09857)|null|
 |**2024-04-15**|**Learning Tracking Representations from Single Point Annotations**|Qiangqiang Wu et.al.|[2404.09504](http://arxiv.org/abs/2404.09504)|null|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/abs/2404.07495)|**[link](https://github.com/stiphyjay/pillartrack)**|
-|**2024-04-10**|**ChildCIdbLong: Longitudinal Child-Computer Interaction Database and Quantitative Analysis for Child Development**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
+|**2024-05-02**|**Longitudinal Analysis and Quantitative Assessment of Child Development through Mobile Interaction**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
 |**2024-04-09**|**LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks**|Jianlang Chen et.al.|[2404.06247](http://arxiv.org/abs/2404.06247)|**[link](https://github.com/tsingqguo/robustot)**|
 |**2024-04-08**|**Semi-Supervised Novelty Detection for Precise Ultra-Wideband Error Signal Prediction**|Umberto Albertin et.al.|[2404.05351](http://arxiv.org/abs/2404.05351)|null|
 |**2024-03-29**|**Context-Aware Integration of Language and Visual References for Natural Language Tracking**|Yanyan Shao et.al.|[2403.19975](http://arxiv.org/abs/2403.19975)|null|
@@ -66,7 +66,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -1299,7 +1299,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1415,7 +1415,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -1443,5 +1443,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ layout: default
 |**2024-04-15**|**Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**|Fangwei Zhong et.al.|[2404.09857](http://arxiv.org/abs/2404.09857)|null|
 |**2024-04-15**|**Learning Tracking Representations from Single Point Annotations**|Qiangqiang Wu et.al.|[2404.09504](http://arxiv.org/abs/2404.09504)|null|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/abs/2404.07495)|**[link](https://github.com/stiphyjay/pillartrack)**|
-|**2024-04-10**|**ChildCIdbLong: Longitudinal Child-Computer Interaction Database and Quantitative Analysis for Child Development**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
+|**2024-05-02**|**Longitudinal Analysis and Quantitative Assessment of Child Development through Mobile Interaction**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
 |**2024-04-09**|**LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks**|Jianlang Chen et.al.|[2404.06247](http://arxiv.org/abs/2404.06247)|**[link](https://github.com/tsingqguo/robustot)**|
 |**2024-04-08**|**Semi-Supervised Novelty Detection for Precise Ultra-Wideband Error Signal Prediction**|Umberto Albertin et.al.|[2404.05351](http://arxiv.org/abs/2404.05351)|null|
 |**2024-03-29**|**Context-Aware Integration of Language and Visual References for Natural Language Tracking**|Yanyan Shao et.al.|[2403.19975](http://arxiv.org/abs/2403.19975)|null|
