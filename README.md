@@ -1,4 +1,4 @@
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -66,7 +66,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -82,7 +82,7 @@
 |**2024-05-06**|**GREEN: Generative Radiology Report Evaluation and Error Notation**|Sophie Ostmeier et.al.|[2405.03595](http://arxiv.org/abs/2405.03595)|null|
 |**2024-05-06**|**Enabling High-Sparsity Foundational Llama Models with Efficient Pretraining and Deployment**|Abhinav Agarwalla et.al.|[2405.03594](http://arxiv.org/abs/2405.03594)|null|
 |**2024-05-06**|**Liberating Seen Classes: Boosting Few-Shot and Zero-Shot Text Classification via Anchor Generation and Classification Reframing**|Han Liu et.al.|[2405.03565](http://arxiv.org/abs/2405.03565)|null|
-|**2024-05-06**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
+|**2024-05-07**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|null|
 |**2024-05-06**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 |**2024-05-06**|**Position Paper: Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions**|Xingyou Song et.al.|[2405.03547](http://arxiv.org/abs/2405.03547)|null|
@@ -90,7 +90,7 @@
 |**2024-05-06**|**UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images**|Yiting Qu et.al.|[2405.03486](http://arxiv.org/abs/2405.03486)|null|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
 |**2024-05-06**|**Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search**|Hideaki Joko et.al.|[2405.03480](http://arxiv.org/abs/2405.03480)|null|
-|**2024-05-06**|**Large Language Models (LLMs) as Agents for Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2405.03452](http://arxiv.org/abs/2405.03452)|null|
+|**2024-05-07**|**Large Language Models (LLMs) as Agents for Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2405.03452](http://arxiv.org/abs/2405.03452)|null|
 |**2024-05-06**|**SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence**|Hangyuan Ji et.al.|[2405.03446](http://arxiv.org/abs/2405.03446)|null|
 |**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287](http://arxiv.org/abs/2405.02287)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
 |**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
@@ -1339,7 +1339,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1457,7 +1457,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -1486,5 +1486,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
