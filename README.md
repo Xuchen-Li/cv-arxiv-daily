@@ -88,7 +88,7 @@
 |**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325](http://arxiv.org/abs/2405.04325)|null|
 |**2024-05-07**|**Granite Code Models: A Family of Open Foundation Models for Code Intelligence**|Mayank Mishra et.al.|[2405.04324](http://arxiv.org/abs/2405.04324)|**[link](https://github.com/ibm-granite/granite-code-models)**|
 |**2024-05-07**|**Accelerating Speculative Decoding using Dynamic Speculation Length**|Jonathan Mamou et.al.|[2405.04304](http://arxiv.org/abs/2405.04304)|null|
-|**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294](http://arxiv.org/abs/2405.04294)|null|
+|**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294](http://arxiv.org/abs/2405.04294)|**[link](https://github.com/elricwan/audit)**|
 |**2024-05-07**|**Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore**|Junchao Wu et.al.|[2405.04286](http://arxiv.org/abs/2405.04286)|null|
 |**2024-05-07**|**On the Foundations of Earth and Climate Foundation Models**|Xiao Xiang Zhu et.al.|[2405.04285](http://arxiv.org/abs/2405.04285)|null|
 |**2024-05-07**|**Semantic API Alignment: Linking High-level User Goals to APIs**|Robert Feldt et.al.|[2405.04236](http://arxiv.org/abs/2405.04236)|null|
