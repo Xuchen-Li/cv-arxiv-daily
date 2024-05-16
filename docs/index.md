@@ -65,6 +65,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
+|**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
+|**2024-05-15**|**Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**|Donya Rooein et.al.|[2405.09482](http://arxiv.org/abs/2405.09482)|null|
+|**2024-05-15**|**Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**|Majid Zarharan et.al.|[2405.09454](http://arxiv.org/abs/2405.09454)|null|
+|**2024-05-15**|**M $^4$ oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**|Yufeng Jiang et.al.|[2405.09446](http://arxiv.org/abs/2405.09446)|null|
+|**2024-05-15**|**Facilitating Opinion Diversity through Hybrid NLP Approaches**|Michiel van der Meer et.al.|[2405.09439](http://arxiv.org/abs/2405.09439)|null|
+|**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
+|**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|null|
+|**2024-05-15**|**Matching domain experts by training from scratch on domain knowledge**|Xiaoliang Luo et.al.|[2405.09395](http://arxiv.org/abs/2405.09395)|null|
+|**2024-05-15**|**Compositional imprecise probability**|Jack Liell-Cock et.al.|[2405.09391](http://arxiv.org/abs/2405.09391)|null|
+|**2024-05-15**|**PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models**|Devansh Jain et.al.|[2405.09373](http://arxiv.org/abs/2405.09373)|null|
+|**2024-05-15**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Weijie L et.al.|[2405.09365](http://arxiv.org/abs/2405.09365)|null|
+|**2024-05-15**|**Large Language Model Bias Mitigation from the Perspective of Knowledge Editing**|Ruizhe Chen et.al.|[2405.09341](http://arxiv.org/abs/2405.09341)|null|
+|**2024-05-15**|**Prompting-based Synthetic Data Generation for Few-Shot Question Answering**|Maximilian Schmidt et.al.|[2405.09335](http://arxiv.org/abs/2405.09335)|null|
+|**2024-05-15**|**Transfer Learning in Pre-Trained Large Language Models for Malware Detection Based on System Calls**|Pedro Miguel Sánchez Sánchez et.al.|[2405.09318](http://arxiv.org/abs/2405.09318)|null|
+|**2024-05-15**|**Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support**|Birger Moell et.al.|[2405.09300](http://arxiv.org/abs/2405.09300)|null|
+|**2024-05-15**|**Do language models capture implied discourse meanings? An investigation with exhaustivity implicatures of Korean morphology**|Hagyeong Shin et.al.|[2405.09293](http://arxiv.org/abs/2405.09293)|null|
+|**2024-05-15**|**Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection**|Dylan Phelps et.al.|[2405.09279](http://arxiv.org/abs/2405.09279)|null|
+|**2024-05-15**|**Dynamic Activation Pitfalls in LLaMA Models: An Empirical Study**|Chi Ma et.al.|[2405.09274](http://arxiv.org/abs/2405.09274)|null|
+|**2024-05-15**|**New Textual Corpora for Serbian Language Modeling**|Mihailo Škorić et.al.|[2405.09250](http://arxiv.org/abs/2405.09250)|null|
 |**2024-05-14**|**Efficient Vision-Language Pre-training by Cluster Masking**|Zihao Wei et.al.|[2405.08815](http://arxiv.org/abs/2405.08815)|**[link](https://github.com/zi-hao-wei/efficient-vision-language-pre-training-by-cluster-masking)**|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
@@ -1456,6 +1476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis**|Yao Fu et.al.|[2405.08944](http://arxiv.org/abs/2405.08944)|null|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
 |**2024-05-14**|**No Time to Waste: Squeeze Time into Channel for Mobile Video Understanding**|Yingjie Zhai et.al.|[2405.08344](http://arxiv.org/abs/2405.08344)|**[link](https://github.com/xinghaochen/squeezetime)**|
 |**2024-05-13**|**FreeVA: Offline MLLM as Training-Free Video Assistant**|Wenhao Wu et.al.|[2405.07798](http://arxiv.org/abs/2405.07798)|**[link](https://github.com/whwu95/freeva)**|
