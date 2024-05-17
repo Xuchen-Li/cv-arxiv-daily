@@ -73,6 +73,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
+|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|null|
+|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
+|**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
+|**2024-05-16**|**Revisiting OPRO: The Limitations of Small-Scale LLMs as Optimizers**|Tuo Zhang et.al.|[2405.10276](http://arxiv.org/abs/2405.10276)|null|
+|**2024-05-16**|**Keep It Private: Unsupervised Privatization of Online Text**|Calvin Bao et.al.|[2405.10260](http://arxiv.org/abs/2405.10260)|**[link](https://github.com/csbao/kip-privatization)**|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
+|**2024-05-16**|**PRISM: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology**|George Shaikovski et.al.|[2405.10254](http://arxiv.org/abs/2405.10254)|null|
+|**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
+|**2024-05-16**|**IntelliExplain: Enhancing Interactive Code Generation through Natural Language Explanations for Non-Professional Programmers**|Hao Yan et.al.|[2405.10250](http://arxiv.org/abs/2405.10250)|null|
+|**2024-05-16**|**A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts**|Xinru Zhang et.al.|[2405.10246](http://arxiv.org/abs/2405.10246)|null|
+|**2024-05-16**|**DocuMint: Docstring Generation for Python using Small Language Models**|Bibek Poudel et.al.|[2405.10243](http://arxiv.org/abs/2405.10243)|**[link](https://github.com/docu-mint/documint)**|
+|**2024-05-16**|**Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting**|Divij Gupta et.al.|[2405.10216](http://arxiv.org/abs/2405.10216)|null|
+|**2024-05-16**|**CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations**|Jiahao Zhao et.al.|[2405.10212](http://arxiv.org/abs/2405.10212)|null|
+|**2024-05-16**|**LFED: A Literary Fiction Evaluation Dataset for Large Language Models**|Linhao Yu et.al.|[2405.10166](http://arxiv.org/abs/2405.10166)|**[link](https://github.com/tjunlp-lab/lfed)**|
+|**2024-05-16**|**PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning**|Jiancheng Pan et.al.|[2405.10160](http://arxiv.org/abs/2405.10160)|**[link](https://github.com/jaychempan/pir-clip)**|
+|**2024-05-16**|**Speaker Verification in Agent-Generated Conversations**|Yizhe Yang et.al.|[2405.10150](http://arxiv.org/abs/2405.10150)|null|
 |**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
 |**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
 |**2024-05-15**|**Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**|Donya Rooein et.al.|[2405.09482](http://arxiv.org/abs/2405.09482)|null|
@@ -1615,6 +1635,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Biomarker Selection for Adaptive Systems**|Joshua Pickard et.al.|[2405.09809](http://arxiv.org/abs/2405.09809)|null|
 |**2024-05-14**|**No Time to Waste: Squeeze Time into Channel for Mobile Video Understanding**|Yingjie Zhai et.al.|[2405.08344](http://arxiv.org/abs/2405.08344)|**[link](https://github.com/xinghaochen/squeezetime)**|
 |**2024-05-13**|**Improved Bound for Robust Causal Bandits with Linear Models**|Zirui Yan et.al.|[2405.07795](http://arxiv.org/abs/2405.07795)|null|
 |**2024-05-10**|**Residual-based Attention Physics-informed Neural Networks for Efficient Spatio-Temporal Lifetime Assessment of Transformers Operated in Renewable Power Plants**|Ibai Ramirez et.al.|[2405.06443](http://arxiv.org/abs/2405.06443)|null|
