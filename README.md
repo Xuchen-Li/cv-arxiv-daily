@@ -1,4 +1,4 @@
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -70,22 +70,22 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209](http://arxiv.org/abs/2405.12209)|**[link](https://github.com/open-compass/mathbench)**|
 |**2024-05-20**|**Developers' Perceptions on the Impact of ChatGPT in Software Development: A Survey**|Thiago S. Vaillant et.al.|[2405.12195](http://arxiv.org/abs/2405.12195)|null|
 |**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174](http://arxiv.org/abs/2405.12174)|null|
 |**2024-05-20**|**Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**|Xiaobo Liang et.al.|[2405.12163](http://arxiv.org/abs/2405.12163)|**[link](https://github.com/dropreg/fennec)**|
 |**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
 |**2024-05-20**|**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2405.12139](http://arxiv.org/abs/2405.12139)|null|
-|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130](http://arxiv.org/abs/2405.12130)|null|
+|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130](http://arxiv.org/abs/2405.12130)|**[link](https://github.com/kongds/mora)**|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
-|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107](http://arxiv.org/abs/2405.12107)|null|
+|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107](http://arxiv.org/abs/2405.12107)|**[link](https://github.com/milvlg/imp)**|
 |**2024-05-20**|**DOP: Diagnostic-Oriented Prompting for Large Language Models in Mathematical Correction**|Hao Chen et.al.|[2405.12100](http://arxiv.org/abs/2405.12100)|null|
 |**2024-05-20**|**Distributional Semantics, Holism, and the Instability of Meaning**|Jumbly Grindrod et.al.|[2405.12084](http://arxiv.org/abs/2405.12084)|null|
 |**2024-05-20**|**PARALLELGPUOS: A Concurrent OS-level GPU Checkpoint and Restore System using Validated Speculation**|Zhuobin Huang et.al.|[2405.12079](http://arxiv.org/abs/2405.12079)|null|
@@ -1543,7 +1543,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1673,7 +1673,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -1709,5 +1709,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
