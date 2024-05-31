@@ -1703,7 +1703,7 @@
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
 |**2024-05-22**|**Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline**|Dingyi Yang et.al.|[2405.14040](http://arxiv.org/abs/2405.14040)|null|
 |**2024-05-22**|**TOPA: Extend Large Language Models for Video Understanding via Text-Only Pre-Alignment**|Wei Li et.al.|[2405.13911](http://arxiv.org/abs/2405.13911)|null|
-|**2024-05-22**|**Dense Connector for MLLMs**|Huanjin Yao et.al.|[2405.13800](http://arxiv.org/abs/2405.13800)|null|
+|**2024-05-22**|**Dense Connector for MLLMs**|Huanjin Yao et.al.|[2405.13800](http://arxiv.org/abs/2405.13800)|**[link](https://github.com/HJYao00/DenseConnector)**|
 |**2024-05-22**|**VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding**|Yongxin Guo et.al.|[2405.13382](http://arxiv.org/abs/2405.13382)|null|
 |**2024-05-21**|**Anticipating Object State Changes**|Victoria Manousaki et.al.|[2405.12789](http://arxiv.org/abs/2405.12789)|null|
 |**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832](http://arxiv.org/abs/2405.10832)|null|
