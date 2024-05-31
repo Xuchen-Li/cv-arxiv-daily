@@ -79,6 +79,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340](http://arxiv.org/abs/2405.20340)|null|
+|**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339](http://arxiv.org/abs/2405.20339)|null|
+|**2024-05-30**|**Xwin-LM: Strong and Scalable Alignment Practice for LLMs**|Bolin Ni et.al.|[2405.20335](http://arxiv.org/abs/2405.20335)|**[link](https://github.com/xwin-lm/xwin-lm)**|
+|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319](http://arxiv.org/abs/2405.20319)|null|
+|**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318](http://arxiv.org/abs/2405.20318)|**[link](https://github.com/roberto-ceraolo/causal-quest)**|
+|**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315](http://arxiv.org/abs/2405.20315)|**[link](https://github.com/open-compass/anah)**|
+|**2024-05-30**|**Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation**|Guillaume Huguet et.al.|[2405.20313](http://arxiv.org/abs/2405.20313)|null|
+|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309](http://arxiv.org/abs/2405.20309)|null|
+|**2024-05-30**|**Can't make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models**|Himangi Mittal et.al.|[2405.20305](http://arxiv.org/abs/2405.20305)|null|
+|**2024-05-30**|**Group Robust Preference Optimization in Reward-free RLHF**|Shyam Sundhar Ramesh et.al.|[2405.20304](http://arxiv.org/abs/2405.20304)|null|
+|**2024-05-30**|**Who Writes the Review, Human or AI?**|Panagiotis C. Theocharopoulos et.al.|[2405.20285](http://arxiv.org/abs/2405.20285)|null|
+|**2024-05-30**|**ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**|Massimo Bini et.al.|[2405.20271](http://arxiv.org/abs/2405.20271)|**[link](https://github.com/mwbini/ether)**|
+|**2024-05-30**|**Evaluating Large Language Model Biases in Persona-Steered Generation**|Andy Liu et.al.|[2405.20253](http://arxiv.org/abs/2405.20253)|**[link](https://github.com/andyjliu/persona-steered-generation-bias)**|
+|**2024-05-30**|**Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization**|Yuchi Liu et.al.|[2405.20252](http://arxiv.org/abs/2405.20252)|null|
+|**2024-05-30**|**Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use**|Franz Louis Cesista et.al.|[2405.20245](http://arxiv.org/abs/2405.20245)|null|
+|**2024-05-30**|**Context Injection Attacks on Large Language Models**|Cheng'an Wei et.al.|[2405.20234](http://arxiv.org/abs/2405.20234)|null|
+|**2024-05-30**|**Data-efficient fine-tuning of foundational models for first-principles quality sublimation enthalpies**|Harveen Kaur et.al.|[2405.20217](http://arxiv.org/abs/2405.20217)|null|
+|**2024-05-30**|**TS-Align: A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models**|Chen Zhang et.al.|[2405.20215](http://arxiv.org/abs/2405.20215)|null|
+|**2024-05-30**|**One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments**|Ke Yi et.al.|[2405.20202](http://arxiv.org/abs/2405.20202)|null|
+|**2024-05-30**|**Using Large Language Models for Humanitarian Frontline Negotiation: Opportunities and Considerations**|Zilin Ma et.al.|[2405.20195](http://arxiv.org/abs/2405.20195)|null|
 |**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335](http://arxiv.org/abs/2405.19335)|null|
 |**2024-05-29**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334](http://arxiv.org/abs/2405.19334)|**[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)**|
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
@@ -1672,6 +1692,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794](http://arxiv.org/abs/2405.19794)|null|
+|**2024-05-30**|**Encoding and Controlling Global Semantics for Long-form Video Question Answering**|Thong Thanh Nguyen et.al.|[2405.19723](http://arxiv.org/abs/2405.19723)|null|
+|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644](http://arxiv.org/abs/2405.19644)|null|
 |**2024-05-29**|**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos**|Ziyang Wang et.al.|[2405.19209](http://arxiv.org/abs/2405.19209)|**[link](https://github.com/Ziyang412/VideoTree)**|
 |**2024-05-28**|**MMCTAgent: Multi-modal Critical Thinking Agent Framework for Complex Visual Reasoning**|Somnath Kumar et.al.|[2405.18358](http://arxiv.org/abs/2405.18358)|null|
 |**2024-05-28**|**Hierarchical Action Recognition: A Contrastive Video-Language Approach with Hierarchical Interactions**|Rui Zhang et.al.|[2405.17729](http://arxiv.org/abs/2405.17729)|null|
@@ -1813,6 +1836,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|null|
+|**2024-05-30**|**Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training**|Jinxia Yang et.al.|[2405.19654](http://arxiv.org/abs/2405.19654)|**[link](https://github.com/svt-yang/medst)**|
+|**2024-05-30**|**FTS: A Framework to Find a Faithful TimeSieve**|Songning Lai et.al.|[2405.19647](http://arxiv.org/abs/2405.19647)|null|
 |**2024-05-24**|**Dynamical Analysis of a Cocaine-Heroin Epidemiological Model with Spatial Distributions**|Achraf Zinihi et.al.|[2405.15532](http://arxiv.org/abs/2405.15532)|null|
 |**2024-05-20**|**Biomarker Selection for Adaptive Systems**|Joshua Pickard et.al.|[2405.09809](http://arxiv.org/abs/2405.09809)|null|
 |**2024-05-14**|**No Time to Waste: Squeeze Time into Channel for Mobile Video Understanding**|Yingjie Zhai et.al.|[2405.08344](http://arxiv.org/abs/2405.08344)|**[link](https://github.com/xinghaochen/squeezetime)**|
