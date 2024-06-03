@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|null|
 |**2024-05-27**|**LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking**|Shaohua Dong et.al.|[2405.17660](http://arxiv.org/abs/2405.17660)|null|
-|**2024-05-31**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[2405.14200](http://arxiv.org/abs/2405.14200)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
+|**2024-05-31**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[2405.14200](http://arxiv.org/abs/2405.14200)|**[link](https://github.com/zhangyong-tang/gmmt)**|
 |**2024-05-20**|**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2405.12139](http://arxiv.org/abs/2405.12139)|null|
 |**2024-05-16**|**A Novel Bounding Box Regression Method for Single Object Tracking**|Omar Abdelaziz et.al.|[2405.10444](http://arxiv.org/abs/2405.10444)|null|
 |**2024-05-16**|**Beyond Traditional Single Object Tracking: A Survey**|Omar Abdelaziz et.al.|[2405.10439](http://arxiv.org/abs/2405.10439)|null|
@@ -79,6 +79,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
+|**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068](http://arxiv.org/abs/2405.21068)|null|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**RydbergGPT**|David Fitzek et.al.|[2405.21052](http://arxiv.org/abs/2405.21052)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
+|**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
+|**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
+|**2024-05-31**|**Direct Alignment of Language Models via Quality-Aware Self-Refinement**|Runsheng Yu et.al.|[2405.21040](http://arxiv.org/abs/2405.21040)|null|
+|**2024-05-31**|**Standards for Belief Representations in LLMs**|Daniel A. Herrmann et.al.|[2405.21030](http://arxiv.org/abs/2405.21030)|null|
+|**2024-05-31**|**LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**|Elias Stengel-Eskin et.al.|[2405.21028](http://arxiv.org/abs/2405.21028)|**[link](https://github.com/esteng/pragmatic_calibration)**|
+|**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022](http://arxiv.org/abs/2405.21022)|null|
+|**2024-05-31**|**Improved Techniques for Optimization-Based Jailbreaking on Large Language Models**|Xiaojun Jia et.al.|[2405.21018](http://arxiv.org/abs/2405.21018)|**[link](https://github.com/jiaxiaojunqaq/i-gcg)**|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
+|**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991](http://arxiv.org/abs/2405.20991)|**[link](https://github.com/kth-rpl/detect_vlm)**|
+|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
+|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|null|
+|**2024-05-31**|**SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**|Tianyang Xu et.al.|[2405.20974](http://arxiv.org/abs/2405.20974)|**[link](https://github.com/xu1868/sayself)**|
+|**2024-05-31**|**LCQ: Low-Rank Codebook based Quantization for Large Language Models**|Wen-Pu Cai et.al.|[2405.20973](http://arxiv.org/abs/2405.20973)|null|
+|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-05-31**|**A Robot Walks into a Bar: Can Language Models Serve asCreativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians**|Piotr Wojciech Mirowski et.al.|[2405.20956](http://arxiv.org/abs/2405.20956)|null|
 |**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340](http://arxiv.org/abs/2405.20340)|null|
 |**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339](http://arxiv.org/abs/2405.20339)|null|
 |**2024-05-30**|**Xwin-LM: Strong and Scalable Alignment Practice for LLMs**|Bolin Ni et.al.|[2405.20335](http://arxiv.org/abs/2405.20335)|**[link](https://github.com/xwin-lm/xwin-lm)**|
@@ -1692,6 +1712,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision Models For Video Captioning and Summarization**|Richard Luo et.al.|[2405.20648](http://arxiv.org/abs/2405.20648)|null|
 |**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794](http://arxiv.org/abs/2405.19794)|null|
 |**2024-05-30**|**Encoding and Controlling Global Semantics for Long-form Video Question Answering**|Thong Thanh Nguyen et.al.|[2405.19723](http://arxiv.org/abs/2405.19723)|null|
 |**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644](http://arxiv.org/abs/2405.19644)|**[link](https://github.com/fujiry0/egosurgery)**|
@@ -1836,6 +1857,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training**|Jinxia Yang et.al.|[2405.19654](http://arxiv.org/abs/2405.19654)|**[link](https://github.com/svt-yang/medst)**|
 |**2024-05-30**|**FTS: A Framework to Find a Faithful TimeSieve**|Songning Lai et.al.|[2405.19647](http://arxiv.org/abs/2405.19647)|null|
