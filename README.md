@@ -80,6 +80,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
+|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
+|**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486](http://arxiv.org/abs/2406.03486)|null|
+|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
+|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
+|**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450](http://arxiv.org/abs/2406.03450)|null|
+|**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445](http://arxiv.org/abs/2406.03445)|null|
+|**2024-06-05**|**Are language models rational? The case of coherence norms and belief revision**|Thomas Hofweber et.al.|[2406.03442](http://arxiv.org/abs/2406.03442)|null|
+|**2024-06-05**|**Cycles of Thought: Measuring LLM Confidence through Stable Explanations**|Evan Becker et.al.|[2406.03441](http://arxiv.org/abs/2406.03441)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430](http://arxiv.org/abs/2406.03430)|**[link](https://github.com/xmindflow/awesome_mamba)**|
+|**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
+|**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397](http://arxiv.org/abs/2406.03397)|null|
+|**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
+|**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368](http://arxiv.org/abs/2406.03368)|null|
+|**2024-06-05**|**CLMASP: Coupling Large Language Models with Answer Set Programming for Robotic Task Planning**|Xinrui Lin et.al.|[2406.03367](http://arxiv.org/abs/2406.03367)|null|
+|**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363](http://arxiv.org/abs/2406.03363)|null|
+|**2024-06-05**|**Save It for the "Hot" Day: An LLM-Empowered Visual Analytics System for Heat Risk Management**|Haobo Li et.al.|[2406.03317](http://arxiv.org/abs/2406.03317)|null|
+|**2024-06-05**|**The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games**|Mikhail Mozikov et.al.|[2406.03299](http://arxiv.org/abs/2406.03299)|null|
+|**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287](http://arxiv.org/abs/2406.03287)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547](http://arxiv.org/abs/2406.02547)|**[link](https://github.com/showlab/VisInContext)**|
@@ -1733,6 +1753,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Story Generation from Visual Inputs: Techniques, Related Tasks, and Challenges**|Daniel A. P. Oliveira et.al.|[2406.02748](http://arxiv.org/abs/2406.02748)|null|
+|**2024-06-04**|**Contrastive Language Video Time Pre-training**|Hengyue Liu et.al.|[2406.02631](http://arxiv.org/abs/2406.02631)|null|
 |**2024-05-21**|**Backpropogation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration**|Wei Ji et.al.|[2406.01601](http://arxiv.org/abs/2406.01601)|null|
 |**2024-06-03**|**Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos**|Luigi Seminara et.al.|[2406.01486](http://arxiv.org/abs/2406.01486)|**[link](https://github.com/fpv-iplab/differentiable-task-graph-learning)**|
 |**2024-06-02**|**Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering**|Xingrui Wang et.al.|[2406.00622](http://arxiv.org/abs/2406.00622)|null|
@@ -1883,6 +1905,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Non-stationary Spatio-Temporal Modeling Using the Stochastic Advection-Diffusion Equation**|Martin Outzen Berild et.al.|[2406.03400](http://arxiv.org/abs/2406.03400)|null|
 |**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
 |**2024-06-03**|**UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**|Xiang Wang et.al.|[2406.01188](http://arxiv.org/abs/2406.01188)|null|
 |**2024-06-01**|**DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation**|Qihang Xie et.al.|[2406.00341](http://arxiv.org/abs/2406.00341)|null|
