@@ -72,6 +72,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344](http://arxiv.org/abs/2406.04344)|null|
+|**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343](http://arxiv.org/abs/2406.04343)|null|
+|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342](http://arxiv.org/abs/2406.04342)|**[link](https://github.com/opengvlab/de-focus-attention-networks)**|
+|**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
+|**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
+|**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334](http://arxiv.org/abs/2406.04334)|null|
+|**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
+|**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
+|**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
+|**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|null|
+|**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
+|**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
+|**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|null|
+|**2024-06-06**|**Quixer: A Quantum Transformer Model**|Nikhil Khatri et.al.|[2406.04305](http://arxiv.org/abs/2406.04305)|null|
+|**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[2406.04300](http://arxiv.org/abs/2406.04300)|null|
+|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
+|**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291](http://arxiv.org/abs/2406.04291)|null|
+|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
+|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|null|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
@@ -1743,6 +1763,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
+|**2024-06-06**|**MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding**|Junjie Zhou et.al.|[2406.04264](http://arxiv.org/abs/2406.04264)|null|
+|**2024-06-06**|**3rd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Ruipu Wu et.al.|[2406.04002](http://arxiv.org/abs/2406.04002)|null|
 |**2024-06-04**|**Story Generation from Visual Inputs: Techniques, Related Tasks, and Challenges**|Daniel A. P. Oliveira et.al.|[2406.02748](http://arxiv.org/abs/2406.02748)|null|
 |**2024-06-04**|**Contrastive Language Video Time Pre-training**|Hengyue Liu et.al.|[2406.02631](http://arxiv.org/abs/2406.02631)|null|
 |**2024-05-21**|**Backpropogation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration**|Wei Ji et.al.|[2406.01601](http://arxiv.org/abs/2406.01601)|null|
