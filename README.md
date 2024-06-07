@@ -1,4 +1,4 @@
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -74,14 +74,14 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
-|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486](http://arxiv.org/abs/2406.03486)|null|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
@@ -1747,7 +1747,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1759,7 +1759,7 @@
 |**2024-06-03**|**Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos**|Luigi Seminara et.al.|[2406.01486](http://arxiv.org/abs/2406.01486)|**[link](https://github.com/fpv-iplab/differentiable-task-graph-learning)**|
 |**2024-06-02**|**Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering**|Xingrui Wang et.al.|[2406.00622](http://arxiv.org/abs/2406.00622)|null|
 |**2024-06-01**|**2nd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Biao Wu et.al.|[2406.00500](http://arxiv.org/abs/2406.00500)|null|
-|**2024-06-01**|**HENASY: Learning to Assemble Scene-Entities for Egocentric Video-Language Model**|Khoa Vo et.al.|[2406.00307](http://arxiv.org/abs/2406.00307)|null|
+|**2024-06-06**|**HENASY: Learning to Assemble Scene-Entities for Egocentric Video-Language Model**|Khoa Vo et.al.|[2406.00307](http://arxiv.org/abs/2406.00307)|null|
 |**2024-05-31**|**Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision Models For Video Captioning and Summarization**|Richard Luo et.al.|[2405.20648](http://arxiv.org/abs/2405.20648)|null|
 |**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794](http://arxiv.org/abs/2405.19794)|null|
 |**2024-05-30**|**Encoding and Controlling Global Semantics for Long-form Video Question Answering**|Thong Thanh Nguyen et.al.|[2405.19723](http://arxiv.org/abs/2405.19723)|null|
@@ -1899,7 +1899,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -1946,5 +1946,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 

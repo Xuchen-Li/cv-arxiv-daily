@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -73,7 +73,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
-|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486](http://arxiv.org/abs/2406.03486)|null|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
@@ -1749,7 +1749,7 @@ layout: default
 |**2024-06-03**|**Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos**|Luigi Seminara et.al.|[2406.01486](http://arxiv.org/abs/2406.01486)|**[link](https://github.com/fpv-iplab/differentiable-task-graph-learning)**|
 |**2024-06-02**|**Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering**|Xingrui Wang et.al.|[2406.00622](http://arxiv.org/abs/2406.00622)|null|
 |**2024-06-01**|**2nd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Biao Wu et.al.|[2406.00500](http://arxiv.org/abs/2406.00500)|null|
-|**2024-06-01**|**HENASY: Learning to Assemble Scene-Entities for Egocentric Video-Language Model**|Khoa Vo et.al.|[2406.00307](http://arxiv.org/abs/2406.00307)|null|
+|**2024-06-06**|**HENASY: Learning to Assemble Scene-Entities for Egocentric Video-Language Model**|Khoa Vo et.al.|[2406.00307](http://arxiv.org/abs/2406.00307)|null|
 |**2024-05-31**|**Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision Models For Video Captioning and Summarization**|Richard Luo et.al.|[2405.20648](http://arxiv.org/abs/2405.20648)|null|
 |**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794](http://arxiv.org/abs/2405.19794)|null|
 |**2024-05-30**|**Encoding and Controlling Global Semantics for Long-form Video Question Answering**|Thong Thanh Nguyen et.al.|[2405.19723](http://arxiv.org/abs/2405.19723)|null|
