@@ -1,4 +1,4 @@
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -74,7 +74,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -98,7 +98,7 @@
 |**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[2406.04300](http://arxiv.org/abs/2406.04300)|null|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291](http://arxiv.org/abs/2406.04291)|null|
-|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
+|**2024-06-07**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
 |**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|**[link](https://github.com/jacobyn/SamplingTonesACL)**|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
@@ -1767,7 +1767,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1775,7 +1775,7 @@
 |---|---|---|---|---|
 |**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
 |**2024-06-06**|**MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding**|Junjie Zhou et.al.|[2406.04264](http://arxiv.org/abs/2406.04264)|null|
-|**2024-06-06**|**3rd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Ruipu Wu et.al.|[2406.04002](http://arxiv.org/abs/2406.04002)|null|
+|**2024-06-07**|**3rd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Ruipu Wu et.al.|[2406.04002](http://arxiv.org/abs/2406.04002)|null|
 |**2024-06-04**|**Story Generation from Visual Inputs: Techniques, Related Tasks, and Challenges**|Daniel A. P. Oliveira et.al.|[2406.02748](http://arxiv.org/abs/2406.02748)|null|
 |**2024-06-04**|**Contrastive Language Video Time Pre-training**|Hengyue Liu et.al.|[2406.02631](http://arxiv.org/abs/2406.02631)|null|
 |**2024-05-21**|**Backpropogation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration**|Wei Ji et.al.|[2406.01601](http://arxiv.org/abs/2406.01601)|null|
@@ -1922,7 +1922,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -1969,5 +1969,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
