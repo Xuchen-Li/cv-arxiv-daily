@@ -82,6 +82,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418](http://arxiv.org/abs/2406.09418)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|
+|**2024-06-13**|**Explore the Limits of Omni-modal Pretraining at Scale**|Yiyuan Zhang et.al.|[2406.09412](http://arxiv.org/abs/2406.09412)|**[link](https://github.com/invictus717/MiCo)**|
+|**2024-06-13**|**4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**|Roman Bachmann et.al.|[2406.09406](http://arxiv.org/abs/2406.09406)|null|
+|**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403](http://arxiv.org/abs/2406.09403)|null|
+|**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399](http://arxiv.org/abs/2406.09399)|**[link](https://github.com/foundationvision/omnitokenizer)**|
+|**2024-06-13**|**Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms**|Miaosen Zhang et.al.|[2406.09397](http://arxiv.org/abs/2406.09397)|null|
+|**2024-06-13**|**Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA**|Jongwoo Park et.al.|[2406.09396](http://arxiv.org/abs/2406.09396)|null|
+|**2024-06-13**|**Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition**|Youngtaek Oh et.al.|[2406.09388](http://arxiv.org/abs/2406.09388)|**[link](https://github.com/ytaek-oh/vl_compo)**|
+|**2024-06-13**|**Towards Vision-Language Geo-Foundation Model: A Survey**|Yue Zhou et.al.|[2406.09385](http://arxiv.org/abs/2406.09385)|**[link](https://github.com/zytx121/awesome-vlgfm)**|
+|**2024-06-13**|**Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models**|Lukas Thede et.al.|[2406.09384](http://arxiv.org/abs/2406.09384)|null|
+|**2024-06-13**|**Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs**|Zijia Zhao et.al.|[2406.09367](http://arxiv.org/abs/2406.09367)|**[link](https://github.com/joez17/videoniah)**|
+|**2024-06-13**|**ElicitationGPT: Text Elicitation Mechanisms via Language Models**|Yifan Wu et.al.|[2406.09363](http://arxiv.org/abs/2406.09363)|null|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
+|**2024-06-13**|**Separations in the Representational Capabilities of Transformers and Recurrent Architectures**|Satwik Bhattamishra et.al.|[2406.09347](http://arxiv.org/abs/2406.09347)|null|
+|**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345](http://arxiv.org/abs/2406.09345)|null|
+|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334](http://arxiv.org/abs/2406.09334)|null|
+|**2024-06-13**|**REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space**|Tomer Ashuach et.al.|[2406.09325](http://arxiv.org/abs/2406.09325)|null|
+|**2024-06-13**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/bag_of_tricks_for_llm_jailbreaking)**|
+|**2024-06-13**|**JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models**|Delong Ran et.al.|[2406.09321](http://arxiv.org/abs/2406.09321)|**[link](https://github.com/thuccslab/jailbreakeval)**|
+|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
@@ -1855,8 +1875,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418](http://arxiv.org/abs/2406.09418)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|
+|**2024-06-13**|**Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA**|Jongwoo Park et.al.|[2406.09396](http://arxiv.org/abs/2406.09396)|null|
+|**2024-06-13**|**Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs**|Zijia Zhao et.al.|[2406.09367](http://arxiv.org/abs/2406.09367)|**[link](https://github.com/joez17/videoniah)**|
 |**2024-06-13**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407](http://arxiv.org/abs/2406.08407)|**[link](https://github.com/eric-ai-lab/mmworld)**|
-|**2024-06-12**|**Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams**|Haoji Zhang et.al.|[2406.08085](http://arxiv.org/abs/2406.08085)|null|
+|**2024-06-12**|**Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams**|Haoji Zhang et.al.|[2406.08085](http://arxiv.org/abs/2406.08085)|**[link](https://github.com/zhang9302002/Flash-VStream)**|
 |**2024-06-12**|**LVBench: An Extreme Long Video Understanding Benchmark**|Weihan Wang et.al.|[2406.08035](http://arxiv.org/abs/2406.08035)|**[link](https://github.com/THUDM/LVBench)**|
 |**2024-06-12**|**Fewer Tokens and Fewer Videos: Extending Video Understanding Abilities in Large Vision-Language Models**|Shimin Chen et.al.|[2406.08024](http://arxiv.org/abs/2406.08024)|null|
 |**2024-06-12**|**Labeling Comic Mischief Content in Online Videos with a Multimodal Hierarchical-Cross-Attention Model**|Elaheh Baharlouei et.al.|[2406.07841](http://arxiv.org/abs/2406.07841)|**[link](https://github.com/RiTUAL-UH/Comic-Mischief-Prediction)**|
@@ -2021,6 +2044,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399](http://arxiv.org/abs/2406.09399)|**[link](https://github.com/foundationvision/omnitokenizer)**|
+|**2024-06-13**|**Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs**|Zijia Zhao et.al.|[2406.09367](http://arxiv.org/abs/2406.09367)|**[link](https://github.com/joez17/videoniah)**|
 |**2024-06-11**|**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**|Zesen Cheng et.al.|[2406.07476](http://arxiv.org/abs/2406.07476)|**[link](https://github.com/damo-nlp-sg/videollama2)**|
 |**2024-06-11**|**RecMoDiffuse: Recurrent Flow Diffusion for Human Motion Generation**|Mirgahney Mohamed et.al.|[2406.07169](http://arxiv.org/abs/2406.07169)|null|
 |**2024-06-11**|**AutoTVG: A New Vision-language Pre-training Paradigm for Temporal Video Grounding**|Xing Zhang et.al.|[2406.07091](http://arxiv.org/abs/2406.07091)|null|
