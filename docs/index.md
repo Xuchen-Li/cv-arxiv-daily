@@ -76,6 +76,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
+|**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
+|**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
+|**2024-06-18**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
+|**2024-06-18**|**LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation**|Seyedarmin Azizi et.al.|[2406.12832](http://arxiv.org/abs/2406.12832)|**[link](https://github.com/arminazizi98/lamda)**|
+|**2024-06-18**|**What Are the Odds? Language Models Are Capable of Probabilistic Reasoning**|Akshay Paruchuri et.al.|[2406.12830](http://arxiv.org/abs/2406.12830)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824](http://arxiv.org/abs/2406.12824)|null|
+|**2024-06-18**|**Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?**|Pinzhen Chen et.al.|[2406.12822](http://arxiv.org/abs/2406.12822)|null|
+|**2024-06-18**|**Adversarial Attacks on Multimodal Agents**|Chen Henry Wu et.al.|[2406.12814](http://arxiv.org/abs/2406.12814)|**[link](https://github.com/chenwu98/agent-attack)**|
+|**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809](http://arxiv.org/abs/2406.12809)|null|
+|**2024-06-18**|**Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents**|Zehao Wang et.al.|[2406.12806](http://arxiv.org/abs/2406.12806)|null|
+|**2024-06-18**|**Supporting Human Raters with the Detection of Harmful Content using Large Language Models**|Kurt Thomas et.al.|[2406.12800](http://arxiv.org/abs/2406.12800)|null|
+|**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793](http://arxiv.org/abs/2406.12793)|null|
+|**2024-06-18**|**In-Context Learning of Energy Functions**|Rylan Schaeffer et.al.|[2406.12785](http://arxiv.org/abs/2406.12785)|null|
+|**2024-06-18**|**UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions**|Xunzhi Wang et.al.|[2406.12784](http://arxiv.org/abs/2406.12784)|null|
+|**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775](http://arxiv.org/abs/2406.12775)|null|
+|**2024-06-18**|**Towards Exact Gradient-based Training on Analog In-memory Computing**|Zhaoxian Wu et.al.|[2406.12774](http://arxiv.org/abs/2406.12774)|null|
+|**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756](http://arxiv.org/abs/2406.12756)|null|
+|**2024-06-18**|**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**|Zhen Huang et.al.|[2406.12753](http://arxiv.org/abs/2406.12753)|**[link](https://github.com/gair-nlp/olympicarena)**|
+|**2024-06-18**|**Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**|Bingchen Zhao et.al.|[2406.12742](http://arxiv.org/abs/2406.12742)|**[link](https://github.com/dtennant/mirb_eval)**|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
 |**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
@@ -1907,6 +1927,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
+|**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|null|
+|**2024-06-18**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
+|**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235](http://arxiv.org/abs/2406.12235)|**[link](https://github.com/pipixin321/holmesvad)**|
 |**2024-06-17**|**Task Me Anything**|Jieyu Zhang et.al.|[2406.11775](http://arxiv.org/abs/2406.11775)|**[link](https://github.com/jieyuz2/taskmeanything)**|
 |**2024-06-17**|**Hallucination Mitigation Prompts Long-term Video Understanding**|Yiwei Sun et.al.|[2406.11333](http://arxiv.org/abs/2406.11333)|null|
 |**2024-06-17**|**VideoVista: A Versatile Benchmark for Video Understanding and Reasoning**|Yunxin Li et.al.|[2406.11303](http://arxiv.org/abs/2406.11303)|null|
@@ -2085,6 +2109,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes**|Xiaoshan Yu et.al.|[2406.12465](http://arxiv.org/abs/2406.12465)|null|
+|**2024-06-18**|**Translation Equivariant Transformer Neural Processes**|Matthew Ashman et.al.|[2406.12409](http://arxiv.org/abs/2406.12409)|null|
+|**2024-06-18**|**LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**|Yunze Deng et.al.|[2406.12355](http://arxiv.org/abs/2406.12355)|null|
 |**2024-06-15**|**X-Ray spectral and temporal properties of LMXB 4U 1608-52- observed with AstroSat and NICER**|Sree Bhattacherjee et.al.|[2406.10666](http://arxiv.org/abs/2406.10666)|null|
 |**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399](http://arxiv.org/abs/2406.09399)|**[link](https://github.com/foundationvision/omnitokenizer)**|
 |**2024-06-13**|**Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs**|Zijia Zhao et.al.|[2406.09367](http://arxiv.org/abs/2406.09367)|**[link](https://github.com/joez17/videoniah)**|
