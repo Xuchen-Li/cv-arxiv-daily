@@ -76,6 +76,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563](http://arxiv.org/abs/2406.14563)|null|
+|**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562](http://arxiv.org/abs/2406.14562)|null|
+|**2024-06-20**|**How to Compute the Probability of a Word**|Tiago Pimentel et.al.|[2406.14561](http://arxiv.org/abs/2406.14561)|null|
+|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/abs/2406.14556)|null|
+|**2024-06-20**|**GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**|Shilong Li et.al.|[2406.14550](http://arxiv.org/abs/2406.14550)|null|
+|**2024-06-20**|**Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in Large Language Models**|Sunny Duan et.al.|[2406.14549](http://arxiv.org/abs/2406.14549)|null|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|null|
+|**2024-06-20**|**Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems**|Đorđe Klisura et.al.|[2406.14545](http://arxiv.org/abs/2406.14545)|null|
+|**2024-06-20**|**Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**|Yuxuan Qiao et.al.|[2406.14544](http://arxiv.org/abs/2406.14544)|**[link](https://github.com/sparksjoe/prism)**|
+|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541](http://arxiv.org/abs/2406.14541)|null|
+|**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517](http://arxiv.org/abs/2406.14517)|**[link](https://github.com/lilakk/postmark)**|
+|**2024-06-20**|**MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**|Xinyu Fang et.al.|[2406.14515](http://arxiv.org/abs/2406.14515)|**[link](https://github.com/open-compass/vlmevalkit)**|
+|**2024-06-20**|**Evidence of a log scaling law for political persuasion with large language models**|Kobi Hackenburg et.al.|[2406.14508](http://arxiv.org/abs/2406.14508)|**[link](https://github.com/kobihackenburg/scaling-llm-persuasion)**|
+|**2024-06-20**|**Overview of the CAIL 2023 Argument Mining Track**|Jingcong Liang et.al.|[2406.14503](http://arxiv.org/abs/2406.14503)|null|
+|**2024-06-20**|**Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary**|Xingmeng Zhao et.al.|[2406.14500](http://arxiv.org/abs/2406.14500)|null|
+|**2024-06-20**|**LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**|Sheikh Asif Imran et.al.|[2406.14498](http://arxiv.org/abs/2406.14498)|**[link](https://github.com/bashlab/llasa)**|
+|**2024-06-20**|**CodeRAG-Bench: Can Retrieval Augment Code Generation?**|Zora Zhiruo Wang et.al.|[2406.14497](http://arxiv.org/abs/2406.14497)|null|
+|**2024-06-20**|**African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification**|Gregor Geigle et.al.|[2406.14496](http://arxiv.org/abs/2406.14496)|null|
+|**2024-06-20**|**Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?**|Gregor Geigle et.al.|[2406.14492](http://arxiv.org/abs/2406.14492)|null|
+|**2024-06-20**|**Instruction Pre-Training: Language Models are Supervised Multitask Learners**|Daixuan Cheng et.al.|[2406.14491](http://arxiv.org/abs/2406.14491)|**[link](https://github.com/microsoft/lmops)**|
 |**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
 |**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
@@ -1927,9 +1947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**|Xinyu Fang et.al.|[2406.14515](http://arxiv.org/abs/2406.14515)|**[link](https://github.com/open-compass/vlmevalkit)**|
+|**2024-06-20**|**Live Video Captioning**|Eduardo Blanco-Fernández et.al.|[2406.14206](http://arxiv.org/abs/2406.14206)|null|
+|**2024-06-20**|**Towards Event-oriented Long Video Understanding**|Yifan Du et.al.|[2406.14129](http://arxiv.org/abs/2406.14129)|**[link](https://github.com/rucaibox/event-bench)**|
+|**2024-06-19**|**Towards Holistic Language-video Representation: the language model-enhanced MSR-Video to Text Dataset**|Yuchen Yang et.al.|[2406.13809](http://arxiv.org/abs/2406.13809)|null|
+|**2024-06-19**|**AlanaVLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding**|Alessandro Suglia et.al.|[2406.13807](http://arxiv.org/abs/2406.13807)|null|
+|**2024-06-19**|**GUI Action Narrator: Where and When Did That Action Take Place?**|Qinchen Wu et.al.|[2406.13719](http://arxiv.org/abs/2406.13719)|null|
+|**2024-06-19**|**GVT2RPM: An Empirical Study for General Video Transformer Adaptation to Remote Physiological Measurement**|Hao Wang et.al.|[2406.13136](http://arxiv.org/abs/2406.13136)|null|
 |**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
 |**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|null|
-|**2024-06-18**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
+|**2024-06-19**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
 |**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235](http://arxiv.org/abs/2406.12235)|**[link](https://github.com/pipixin321/holmesvad)**|
 |**2024-06-17**|**Task Me Anything**|Jieyu Zhang et.al.|[2406.11775](http://arxiv.org/abs/2406.11775)|**[link](https://github.com/jieyuz2/taskmeanything)**|
 |**2024-06-17**|**Hallucination Mitigation Prompts Long-term Video Understanding**|Yiwei Sun et.al.|[2406.11333](http://arxiv.org/abs/2406.11333)|null|
@@ -2109,6 +2136,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|null|
+|**2024-06-20**|**LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**|Kuang Wu et.al.|[2406.13988](http://arxiv.org/abs/2406.13988)|null|
 |**2024-06-18**|**RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes**|Xiaoshan Yu et.al.|[2406.12465](http://arxiv.org/abs/2406.12465)|null|
 |**2024-06-18**|**Translation Equivariant Transformer Neural Processes**|Matthew Ashman et.al.|[2406.12409](http://arxiv.org/abs/2406.12409)|null|
 |**2024-06-18**|**LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**|Yunze Deng et.al.|[2406.12355](http://arxiv.org/abs/2406.12355)|null|
