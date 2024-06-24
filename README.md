@@ -1,4 +1,4 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -78,7 +78,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -87,7 +87,7 @@
 |**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563](http://arxiv.org/abs/2406.14563)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562](http://arxiv.org/abs/2406.14562)|null|
 |**2024-06-20**|**How to Compute the Probability of a Word**|Tiago Pimentel et.al.|[2406.14561](http://arxiv.org/abs/2406.14561)|null|
-|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/abs/2406.14556)|null|
+|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/abs/2406.14556)|null|
 |**2024-06-20**|**GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**|Shilong Li et.al.|[2406.14550](http://arxiv.org/abs/2406.14550)|null|
 |**2024-06-20**|**Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in Large Language Models**|Sunny Duan et.al.|[2406.14549](http://arxiv.org/abs/2406.14549)|null|
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
@@ -1951,7 +1951,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1961,7 +1961,7 @@
 |**2024-06-20**|**Live Video Captioning**|Eduardo Blanco-Fernández et.al.|[2406.14206](http://arxiv.org/abs/2406.14206)|**[link](https://github.com/gramuah/lvc)**|
 |**2024-06-20**|**Towards Event-oriented Long Video Understanding**|Yifan Du et.al.|[2406.14129](http://arxiv.org/abs/2406.14129)|**[link](https://github.com/rucaibox/event-bench)**|
 |**2024-06-19**|**Towards Holistic Language-video Representation: the language model-enhanced MSR-Video to Text Dataset**|Yuchen Yang et.al.|[2406.13809](http://arxiv.org/abs/2406.13809)|null|
-|**2024-06-19**|**AlanaVLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding**|Alessandro Suglia et.al.|[2406.13807](http://arxiv.org/abs/2406.13807)|null|
+|**2024-06-21**|**AlanaVLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding**|Alessandro Suglia et.al.|[2406.13807](http://arxiv.org/abs/2406.13807)|null|
 |**2024-06-19**|**GUI Action Narrator: Where and When Did That Action Take Place?**|Qinchen Wu et.al.|[2406.13719](http://arxiv.org/abs/2406.13719)|null|
 |**2024-06-19**|**GVT2RPM: An Empirical Study for General Video Transformer Adaptation to Remote Physiological Measurement**|Hao Wang et.al.|[2406.13136](http://arxiv.org/abs/2406.13136)|null|
 |**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
@@ -2142,7 +2142,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -2203,5 +2203,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
