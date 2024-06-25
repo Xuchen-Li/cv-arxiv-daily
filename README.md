@@ -84,7 +84,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|null|
+|**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|**[link](https://github.com/cambrian-mllm/cambrian)**|
 |**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
 |**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852](http://arxiv.org/abs/2406.16852)|**[link](https://github.com/evolvinglmms-lab/longva)**|
 |**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851](http://arxiv.org/abs/2406.16851)|null|
