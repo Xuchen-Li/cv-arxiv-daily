@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1986,7 +1986,7 @@ layout: default
 |**2024-06-15**|**EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos**|Vineet Parikh et.al.|[2406.10750](http://arxiv.org/abs/2406.10750)|null|
 |**2024-06-15**|**Beyond Raw Videos: Understanding Edited Videos with Large Multimodal Model**|Lu Xu et.al.|[2406.10484](http://arxiv.org/abs/2406.10484)|null|
 |**2024-06-14**|**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding**|Ridouane Ghermi et.al.|[2406.10221](http://arxiv.org/abs/2406.10221)|null|
-|**2024-06-14**|**Localizing Events in Videos with Multimodal Queries**|Gengyuan Zhang et.al.|[2406.10079](http://arxiv.org/abs/2406.10079)|null|
+|**2024-06-22**|**Localizing Events in Videos with Multimodal Queries**|Gengyuan Zhang et.al.|[2406.10079](http://arxiv.org/abs/2406.10079)|null|
 |**2024-06-14**|**GPT-4o: Visual perception performance of multimodal large language models in piglet activity understanding**|Yiqi Wu et.al.|[2406.09781](http://arxiv.org/abs/2406.09781)|null|
 |**2024-06-14**|**A Survey of Video Datasets for Grounded Event Understanding**|Kate Sanders et.al.|[2406.09646](http://arxiv.org/abs/2406.09646)|**[link](https://github.com/katesanders9/grounded-events)**|
 |**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418](http://arxiv.org/abs/2406.09418)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|

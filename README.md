@@ -1,4 +1,4 @@
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -78,7 +78,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -1971,7 +1971,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -1996,7 +1996,7 @@
 |**2024-06-15**|**EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos**|Vineet Parikh et.al.|[2406.10750](http://arxiv.org/abs/2406.10750)|null|
 |**2024-06-15**|**Beyond Raw Videos: Understanding Edited Videos with Large Multimodal Model**|Lu Xu et.al.|[2406.10484](http://arxiv.org/abs/2406.10484)|null|
 |**2024-06-14**|**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding**|Ridouane Ghermi et.al.|[2406.10221](http://arxiv.org/abs/2406.10221)|null|
-|**2024-06-14**|**Localizing Events in Videos with Multimodal Queries**|Gengyuan Zhang et.al.|[2406.10079](http://arxiv.org/abs/2406.10079)|null|
+|**2024-06-22**|**Localizing Events in Videos with Multimodal Queries**|Gengyuan Zhang et.al.|[2406.10079](http://arxiv.org/abs/2406.10079)|null|
 |**2024-06-14**|**GPT-4o: Visual perception performance of multimodal large language models in piglet activity understanding**|Yiqi Wu et.al.|[2406.09781](http://arxiv.org/abs/2406.09781)|null|
 |**2024-06-14**|**A Survey of Video Datasets for Grounded Event Understanding**|Kate Sanders et.al.|[2406.09646](http://arxiv.org/abs/2406.09646)|**[link](https://github.com/katesanders9/grounded-events)**|
 |**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418](http://arxiv.org/abs/2406.09418)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|
@@ -2162,7 +2162,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -2223,5 +2223,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
