@@ -1,4 +1,4 @@
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -78,7 +78,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -1991,13 +1991,13 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## Video Understanding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-24**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
+|**2024-06-25**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
 |**2024-06-24**|**Directed Domain Fine-Tuning: Tailoring Separate Modalities for Specific Training Tasks**|Daniel Wen et.al.|[2406.16346](http://arxiv.org/abs/2406.16346)|null|
 |**2024-06-24**|**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**|Yuxuan Wang et.al.|[2406.16338](http://arxiv.org/abs/2406.16338)|null|
 |**2024-06-22**|**HCQA @ Ego4D EgoSchema Challenge 2024**|Haoyu Zhang et.al.|[2406.15771](http://arxiv.org/abs/2406.15771)|**[link](https://github.com/hyu-zhang/hcqa)**|
@@ -2187,7 +2187,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -2249,5 +2249,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 

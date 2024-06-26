@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1987,7 +1987,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-24**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
+|**2024-06-25**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
 |**2024-06-24**|**Directed Domain Fine-Tuning: Tailoring Separate Modalities for Specific Training Tasks**|Daniel Wen et.al.|[2406.16346](http://arxiv.org/abs/2406.16346)|null|
 |**2024-06-24**|**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**|Yuxuan Wang et.al.|[2406.16338](http://arxiv.org/abs/2406.16338)|null|
 |**2024-06-22**|**HCQA @ Ego4D EgoSchema Challenge 2024**|Haoyu Zhang et.al.|[2406.15771](http://arxiv.org/abs/2406.15771)|**[link](https://github.com/hyu-zhang/hcqa)**|
