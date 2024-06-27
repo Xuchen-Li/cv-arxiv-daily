@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2023,7 +2023,7 @@ layout: default
 |**2024-06-19**|**GVT2RPM: An Empirical Study for General Video Transformer Adaptation to Remote Physiological Measurement**|Hao Wang et.al.|[2406.13136](http://arxiv.org/abs/2406.13136)|null|
 |**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
 |**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|null|
-|**2024-06-19**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
+|**2024-06-26**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
 |**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235](http://arxiv.org/abs/2406.12235)|**[link](https://github.com/pipixin321/holmesvad)**|
 |**2024-06-17**|**Task Me Anything**|Jieyu Zhang et.al.|[2406.11775](http://arxiv.org/abs/2406.11775)|**[link](https://github.com/jieyuz2/taskmeanything)**|
 |**2024-06-17**|**Hallucination Mitigation Prompts Long-term Video Understanding**|Yiwei Sun et.al.|[2406.11333](http://arxiv.org/abs/2406.11333)|null|
