@@ -2061,7 +2061,7 @@
 |**2024-06-27**|**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**|Tao Zhang et.al.|[2406.19389](http://arxiv.org/abs/2406.19389)|null|
 |**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006](http://arxiv.org/abs/2406.19006)|null|
 |**2024-06-25**|**Zero-Shot Long-Form Video Understanding through Screenplay**|Yongliang Wu et.al.|[2406.17309](http://arxiv.org/abs/2406.17309)|null|
-|**2024-06-24**|**PVUW 2024 Challenge on Complex Video Understanding: Methods and Results**|Henghui Ding et.al.|[2406.17005](http://arxiv.org/abs/2406.17005)|null|
+|**2024-06-24**|**PVUW 2024 Challenge on Complex Video Understanding: Methods and Results**|Henghui Ding et.al.|[2406.17005](http://arxiv.org/abs/2406.17005)|**[link](https://github.com/henghuiding/MOSE-api)**|
 |**2024-06-25**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620](http://arxiv.org/abs/2406.16620)|null|
 |**2024-06-24**|**Directed Domain Fine-Tuning: Tailoring Separate Modalities for Specific Training Tasks**|Daniel Wen et.al.|[2406.16346](http://arxiv.org/abs/2406.16346)|null|
 |**2024-06-24**|**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**|Yuxuan Wang et.al.|[2406.16338](http://arxiv.org/abs/2406.16338)|null|
@@ -2075,7 +2075,7 @@
 |**2024-06-19**|**GUI Action Narrator: Where and When Did That Action Take Place?**|Qinchen Wu et.al.|[2406.13719](http://arxiv.org/abs/2406.13719)|null|
 |**2024-06-19**|**GVT2RPM: An Empirical Study for General Video Transformer Adaptation to Remote Physiological Measurement**|Hao Wang et.al.|[2406.13136](http://arxiv.org/abs/2406.13136)|null|
 |**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
-|**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|null|
+|**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|**[link](https://github.com/Yxxxb/VoCo-LLaMA)**|
 |**2024-06-26**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
 |**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235](http://arxiv.org/abs/2406.12235)|**[link](https://github.com/pipixin321/holmesvad)**|
 |**2024-06-17**|**Task Me Anything**|Jieyu Zhang et.al.|[2406.11775](http://arxiv.org/abs/2406.11775)|**[link](https://github.com/jieyuz2/taskmeanything)**|
