@@ -16,7 +16,7 @@
 |**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024](http://arxiv.org/abs/2406.20024)|null|
 |**2024-06-14**|**Constrained Motion Planning for a Robotic Endoscope Holder based on Hierarchical Quadratic Programming**|Jacinto Colan et.al.|[2406.09982](http://arxiv.org/abs/2406.09982)|null|
 |**2024-06-14**|**Robust compressive tracking via online weighted multiple instance learning**|Sandeep Singh Sengar et.al.|[2406.09914](http://arxiv.org/abs/2406.09914)|null|
-|**2024-06-12**|**Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking**|Xiangyang Yang et.al.|[2406.08037](http://arxiv.org/abs/2406.08037)|null|
+|**2024-07-01**|**Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking**|Xiangyang Yang et.al.|[2406.08037](http://arxiv.org/abs/2406.08037)|null|
 |**2024-06-07**|**Multi-Granularity Language-Guided Multi-Object Tracking**|Yuhao Li et.al.|[2406.04844](http://arxiv.org/abs/2406.04844)|**[link](https://github.com/weslee88524/lg-mot)**|
 |**2024-06-02**|**Robust Visual Tracking via Iterative Gradient Descent and Threshold Selection**|Zhuang Qi et.al.|[2406.00589](http://arxiv.org/abs/2406.00589)|null|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|**[link](https://github.com/GuoLab-UESTC/MMHT)**|
@@ -95,7 +95,7 @@
 |**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
 |**2024-06-28**|**To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models**|Bastien Liétard et.al.|[2406.20054](http://arxiv.org/abs/2406.20054)|null|
 |**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053](http://arxiv.org/abs/2406.20053)|null|
-|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041](http://arxiv.org/abs/2406.20041)|null|
+|**2024-07-01**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041](http://arxiv.org/abs/2406.20041)|null|
 |**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038](http://arxiv.org/abs/2406.20038)|null|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015](http://arxiv.org/abs/2406.20015)|**[link](https://github.com/toolbehonest/toolbehonest)**|
