@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**FlowTrack: Point-level Flow Network for 3D Single Object Tracking**|Shuo Li et.al.|[2407.01959](http://arxiv.org/abs/2407.01959)|null|
 |**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024](http://arxiv.org/abs/2406.20024)|null|
 |**2024-06-14**|**Constrained Motion Planning for a Robotic Endoscope Holder based on Hierarchical Quadratic Programming**|Jacinto Colan et.al.|[2406.09982](http://arxiv.org/abs/2406.09982)|null|
 |**2024-06-14**|**Robust compressive tracking via online weighted multiple instance learning**|Sandeep Singh Sengar et.al.|[2406.09914](http://arxiv.org/abs/2406.09914)|null|
@@ -77,6 +78,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
+|**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
+|**2024-07-02**|**RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs**|Yue Yu et.al.|[2407.02485](http://arxiv.org/abs/2407.02485)|null|
+|**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483](http://arxiv.org/abs/2407.02483)|null|
+|**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
+|**2024-07-02**|**Open Scene Graphs for Open World Object-Goal Navigation**|Joel Loo et.al.|[2407.02473](http://arxiv.org/abs/2407.02473)|null|
+|**2024-07-02**|**ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**|Chan Young Park et.al.|[2407.02472](http://arxiv.org/abs/2407.02472)|**[link](https://github.com/stellali7/valueScope)**|
+|**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464](http://arxiv.org/abs/2407.02464)|null|
+|**2024-07-02**|**Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**|Kheir Eddine Daouadi et.al.|[2407.02448](http://arxiv.org/abs/2407.02448)|null|
+|**2024-07-02**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
+|**2024-07-02**|**CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models**|Song Wang et.al.|[2407.02408](http://arxiv.org/abs/2407.02408)|null|
+|**2024-07-02**|**Assessing the Code Clone Detection Capability of Large Language Models**|Zixian Zhang et.al.|[2407.02402](http://arxiv.org/abs/2407.02402)|null|
+|**2024-07-02**|**Learning to Refine with Fine-Grained Natural Language Feedback**|Manya Wadhwa et.al.|[2407.02397](http://arxiv.org/abs/2407.02397)|**[link](https://github.com/manyawadhwa/dcr)**|
+|**2024-07-02**|**Is Your AI-Generated Code Really Secure? Evaluating Large Language Models on Secure Code Generation with CodeSecEval**|Jiexin Wang et.al.|[2407.02395](http://arxiv.org/abs/2407.02395)|null|
+|**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392](http://arxiv.org/abs/2407.02392)|**[link](https://github.com/circleradon/tokenpacker)**|
+|**2024-07-02**|**Talking to Machines: do you read me?**|Lina M. Rojas-Barahona et.al.|[2407.02354](http://arxiv.org/abs/2407.02354)|null|
+|**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352](http://arxiv.org/abs/2407.02352)|null|
+|**2024-07-02**|**Generative Large Language Models in Automated Fact-Checking: A Survey**|Ivan Vykopal et.al.|[2407.02351](http://arxiv.org/abs/2407.02351)|null|
+|**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350](http://arxiv.org/abs/2407.02350)|null|
+|**2024-07-02**|**MORPHEUS: Modeling Role from Personalized Dialogue History by Exploring and Utilizing Latent Space**|Yihong Tang et.al.|[2407.02345](http://arxiv.org/abs/2407.02345)|null|
 |**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098](http://arxiv.org/abs/2406.20098)|**[link](https://github.com/mbzuai-llm/web2code)**|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
 |**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
@@ -2068,6 +2089,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
+|**2024-07-02**|**The Solution for the ICCV 2023 Perception Test Challenge 2023 -- Task 6 -- Grounded videoQA**|Hailiang Zhang et.al.|[2407.01907](http://arxiv.org/abs/2407.01907)|null|
+|**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872](http://arxiv.org/abs/2407.01872)|**[link](https://github.com/kpeng9510/ravar)**|
+|**2024-06-30**|**Tarsier: Recipes for Training and Evaluating Large Video Description Models**|Jiawei Wang et.al.|[2407.00634](http://arxiv.org/abs/2407.00634)|null|
+|**2024-06-30**|**Hierarchical Memory for Long Video QA**|Yiqin Wang et.al.|[2407.00603](http://arxiv.org/abs/2407.00603)|null|
 |**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|
 |**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391](http://arxiv.org/abs/2406.19391)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
 |**2024-06-27**|**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**|Tao Zhang et.al.|[2406.19389](http://arxiv.org/abs/2406.19389)|null|
@@ -2268,6 +2294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077](http://arxiv.org/abs/2407.02077)|**[link](https://github.com/arlo0o/htcl)**|
 |**2024-06-25**|**SKD-TSTSAN: Three-Stream Temporal-Shift Attention Network Based on Self-Knowledge Distillation for Micro-Expression Recognition**|Guanghao Zhu et.al.|[2406.17538](http://arxiv.org/abs/2406.17538)|null|
 |**2024-06-23**|**Multi-Scale Temporal Difference Transformer for Video-Text Retrieval**|Ni Wang et.al.|[2406.16111](http://arxiv.org/abs/2406.16111)|null|
 |**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
