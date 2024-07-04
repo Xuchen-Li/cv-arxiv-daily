@@ -78,6 +78,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321](http://arxiv.org/abs/2407.03321)|**[link](https://github.com/batsresearch/planetarium)**|
+|**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320](http://arxiv.org/abs/2407.03320)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
+|**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310](http://arxiv.org/abs/2407.03310)|null|
+|**2024-07-03**|**Large Language Models for JSON Schema Discovery**|Michael J. Mior et.al.|[2407.03286](http://arxiv.org/abs/2407.03286)|null|
+|**2024-07-03**|**LLM Internal States Reveal Hallucination Risk Faced With a Query**|Ziwei Ji et.al.|[2407.03282](http://arxiv.org/abs/2407.03282)|null|
+|**2024-07-03**|**STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**|Kheir Eddine Daouadi et.al.|[2407.03253](http://arxiv.org/abs/2407.03253)|null|
+|**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227](http://arxiv.org/abs/2407.03227)|null|
+|**2024-07-03**|**How Does Quantization Affect Multilingual LLMs?**|Kelly Marchisio et.al.|[2407.03211](http://arxiv.org/abs/2407.03211)|null|
+|**2024-07-03**|**TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts**|Ruida Wang et.al.|[2407.03203](http://arxiv.org/abs/2407.03203)|**[link](https://github.com/RickySkywalker/TheoremLlama)**|
+|**2024-07-03**|**Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models**|Haritz Puerto et.al.|[2407.03181](http://arxiv.org/abs/2407.03181)|**[link](https://github.com/ukplab/arxiv2024-divergent-cot)**|
+|**2024-07-03**|**Investigating Decoder-only Large Language Models for Speech-to-text Translation**|Chao-Wei Huang et.al.|[2407.03169](http://arxiv.org/abs/2407.03169)|null|
+|**2024-07-03**|**SOS! Soft Prompt Attack Against Open-Source Large Language Models**|Ziqing Yang et.al.|[2407.03160](http://arxiv.org/abs/2407.03160)|null|
+|**2024-07-03**|**Let the Code LLM Edit Itself When You Edit the Code**|Zhenyu He et.al.|[2407.03157](http://arxiv.org/abs/2407.03157)|null|
+|**2024-07-03**|**Reinforcement Learning for Sequence Design Leveraging Protein Language Models**|Jithendaraa Subramanian et.al.|[2407.03154](http://arxiv.org/abs/2407.03154)|null|
+|**2024-07-03**|**Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data**|Minato Kondo et.al.|[2407.03145](http://arxiv.org/abs/2407.03145)|null|
+|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|null|
+|**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
+|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|null|
+|**2024-07-03**|**ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text Monitoring**|Le Fang et.al.|[2407.03063](http://arxiv.org/abs/2407.03063)|null|
 |**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
 |**2024-07-02**|**RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs**|Yue Yu et.al.|[2407.02485](http://arxiv.org/abs/2407.02485)|null|
@@ -2089,6 +2109,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320](http://arxiv.org/abs/2407.03320)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
+|**2024-07-03**|**Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question-Answering**|Zhaohe Liao et.al.|[2407.03008](http://arxiv.org/abs/2407.03008)|null|
+|**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
 |**2024-07-03**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
 |**2024-07-02**|**The Solution for the ICCV 2023 Perception Test Challenge 2023 -- Task 6 -- Grounded videoQA**|Hailiang Zhang et.al.|[2407.01907](http://arxiv.org/abs/2407.01907)|null|
 |**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872](http://arxiv.org/abs/2407.01872)|**[link](https://github.com/kpeng9510/ravar)**|
@@ -2294,6 +2318,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990](http://arxiv.org/abs/2407.02990)|null|
+|**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
 |**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077](http://arxiv.org/abs/2407.02077)|**[link](https://github.com/arlo0o/htcl)**|
 |**2024-06-25**|**SKD-TSTSAN: Three-Stream Temporal-Shift Attention Network Based on Self-Knowledge Distillation for Micro-Expression Recognition**|Guanghao Zhu et.al.|[2406.17538](http://arxiv.org/abs/2406.17538)|null|
 |**2024-06-23**|**Multi-Scale Temporal Difference Transformer for Video-Text Retrieval**|Ni Wang et.al.|[2406.16111](http://arxiv.org/abs/2406.16111)|null|
