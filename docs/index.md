@@ -94,9 +94,9 @@ layout: default
 |**2024-07-03**|**Let the Code LLM Edit Itself When You Edit the Code**|Zhenyu He et.al.|[2407.03157](http://arxiv.org/abs/2407.03157)|null|
 |**2024-07-03**|**Reinforcement Learning for Sequence Design Leveraging Protein Language Models**|Jithendaraa Subramanian et.al.|[2407.03154](http://arxiv.org/abs/2407.03154)|null|
 |**2024-07-03**|**Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data**|Minato Kondo et.al.|[2407.03145](http://arxiv.org/abs/2407.03145)|null|
-|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|null|
+|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|**[link](https://github.com/rem-h4/llm_socialbias_prompts)**|
 |**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
-|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|null|
+|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|**[link](https://github.com/coding-groot/cactus)**|
 |**2024-07-03**|**ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text Monitoring**|Le Fang et.al.|[2407.03063](http://arxiv.org/abs/2407.03063)|null|
 |**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
