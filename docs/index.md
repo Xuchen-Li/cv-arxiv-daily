@@ -141,19 +141,19 @@ layout: default
 |**2024-07-02**|**MORPHEUS: Modeling Role from Personalized Dialogue History by Exploring and Utilizing Latent Space**|Yihong Tang et.al.|[2407.02345](http://arxiv.org/abs/2407.02345)|null|
 |**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098](http://arxiv.org/abs/2406.20098)|**[link](https://github.com/mbzuai-llm/web2code)**|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
-|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
+|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|**[link](https://github.com/tencent-ailab/persona-hub)**|
 |**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092](http://arxiv.org/abs/2406.20092)|**[link](https://github.com/beckschen/llavolta)**|
 |**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087](http://arxiv.org/abs/2406.20087)|null|
 |**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085](http://arxiv.org/abs/2406.20085)|null|
 |**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079](http://arxiv.org/abs/2406.20079)|**[link](https://github.com/anisha2102/molecular_facts)**|
-|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|**[link](https://github.com/hustvl/evf-sam)**|
 |**2024-06-28**|**To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models**|Bastien Liétard et.al.|[2406.20054](http://arxiv.org/abs/2406.20054)|null|
 |**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053](http://arxiv.org/abs/2406.20053)|null|
 |**2024-07-01**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041](http://arxiv.org/abs/2406.20041)|null|
 |**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038](http://arxiv.org/abs/2406.20038)|null|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
 |**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015](http://arxiv.org/abs/2406.20015)|**[link](https://github.com/toolbehonest/toolbehonest)**|
-|**2024-06-28**|**The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models**|Xinyi Chen et.al.|[2406.19999](http://arxiv.org/abs/2406.19999)|null|
+|**2024-06-28**|**The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models**|Xinyi Chen et.al.|[2406.19999](http://arxiv.org/abs/2406.19999)|**[link](https://github.com/shin-ee-chen/SIFo)**|
 |**2024-06-28**|**Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model**|Habib Hajimolahoseini et.al.|[2406.19995](http://arxiv.org/abs/2406.19995)|null|
 |**2024-06-28**|**ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting**|Rui Pan et.al.|[2406.19976](http://arxiv.org/abs/2406.19976)|null|
 |**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973](http://arxiv.org/abs/2406.19973)|null|
@@ -172,7 +172,7 @@ layout: default
 |**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
 |**2024-06-27**|**VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation**|Yixiao Song et.al.|[2406.19276](http://arxiv.org/abs/2406.19276)|**[link](https://github.com/Yixiao-Song/VeriScore)**|
 |**2024-06-27**|**AutoPureData: Automated Filtering of Web Data for LLM Fine-tuning**|Praneeth Vadlapati et.al.|[2406.19271](http://arxiv.org/abs/2406.19271)|**[link](https://github.com/Pro-GenAI/AutoPureData)**|
-|**2024-06-27**|**Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding**|Yue Fan et.al.|[2406.19263](http://arxiv.org/abs/2406.19263)|null|
+|**2024-06-27**|**Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding**|Yue Fan et.al.|[2406.19263](http://arxiv.org/abs/2406.19263)|**[link](https://github.com/eric-ai-lab/Screen-Point-and-Read)**|
 |**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255](http://arxiv.org/abs/2406.19255)|null|
 |**2024-06-27**|**AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation**|Jia Fu et.al.|[2406.19251](http://arxiv.org/abs/2406.19251)|null|
 |**2024-06-27**|**Revealing Fine-Grained Values and Opinions in Large Language Models**|Dustin Wright et.al.|[2406.19238](http://arxiv.org/abs/2406.19238)|**[link](https://github.com/copenlu/llm-pct-tropes)**|
@@ -188,7 +188,7 @@ layout: default
 |**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
 |**2024-06-26**|**Role-Play Zero-Shot Prompting with Large Language Models for Open-Domain Human-Machine Conversation**|Ahmed Njifenjou et.al.|[2406.18460](http://arxiv.org/abs/2406.18460)|null|
-|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449](http://arxiv.org/abs/2406.18449)|null|
+|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449](http://arxiv.org/abs/2406.18449)|**[link](https://github.com/xingwei-warwick/callmsae)**|
 |**2024-06-26**|**New intelligent empowerment for digital transformation**|Peng Yifeng et.al.|[2406.18440](http://arxiv.org/abs/2406.18440)|null|
 |**2024-06-26**|**IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons**|Dan Shi et.al.|[2406.18406](http://arxiv.org/abs/2406.18406)|null|
 |**2024-06-26**|**Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers**|Yibo Jiang et.al.|[2406.18400](http://arxiv.org/abs/2406.18400)|null|
@@ -358,12 +358,12 @@ layout: default
 |**2024-06-13**|**REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space**|Tomer Ashuach et.al.|[2406.09325](http://arxiv.org/abs/2406.09325)|null|
 |**2024-06-13**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/bag_of_tricks_for_llm_jailbreaking)**|
 |**2024-06-13**|**JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models**|Delong Ran et.al.|[2406.09321](http://arxiv.org/abs/2406.09321)|**[link](https://github.com/thuccslab/jailbreakeval)**|
-|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
+|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|**[link](https://github.com/LooKing9218/RetiZero)**|
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
 |**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|null|
-|**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|null|
+|**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|**[link](https://github.com/magpie-align/magpie)**|
 |**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455](http://arxiv.org/abs/2406.08455)|null|
 |**2024-06-12**|**OLMES: A Standard for Language Model Evaluations**|Yuling Gu et.al.|[2406.08446](http://arxiv.org/abs/2406.08446)|null|
 |**2024-06-12**|**SVSNet+: Enhancing Speaker Voice Similarity Assessment Models with Representations from Speech Foundation Models**|Chun Yin et.al.|[2406.08445](http://arxiv.org/abs/2406.08445)|null|
@@ -514,7 +514,7 @@ layout: default
 |**2024-06-03**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
 |**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991](http://arxiv.org/abs/2405.20991)|**[link](https://github.com/kth-rpl/detect_vlm)**|
 |**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
-|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|null|
+|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|**[link](https://github.com/calubkk/raat)**|
 |**2024-05-31**|**SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**|Tianyang Xu et.al.|[2405.20974](http://arxiv.org/abs/2405.20974)|**[link](https://github.com/xu1868/sayself)**|
 |**2024-05-31**|**LCQ: Low-Rank Codebook based Quantization for Large Language Models**|Wen-Pu Cai et.al.|[2405.20973](http://arxiv.org/abs/2405.20973)|null|
 |**2024-06-03**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962](http://arxiv.org/abs/2405.20962)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
@@ -1184,7 +1184,7 @@ layout: default
 |**2024-04-12**|**Pathological Primitive Segmentation Based on Visual Foundation Model with Zero-Shot Mask Generation**|Abu Bakor Hayat Arnob et.al.|[2404.08584](http://arxiv.org/abs/2404.08584)|**[link](https://github.com/learner-codec/autoprom_sam)**|
 |**2024-04-12**|**FashionFail: Addressing Failure Cases in Fashion Object Detection and Segmentation**|Riza Velioglu et.al.|[2404.08582](http://arxiv.org/abs/2404.08582)|**[link](https://github.com/rizavelioglu/fashionfail)**|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
-|**2024-04-12**|**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**|Hanlin Tian et.al.|[2404.08570](http://arxiv.org/abs/2404.08570)|null|
+|**2024-04-12**|**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**|Hanlin Tian et.al.|[2404.08570](http://arxiv.org/abs/2404.08570)|**[link](https://github.com/zachtian/critical)**|
 |**2024-04-12**|**RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**|Shreyas Chaudhari et.al.|[2404.08555](http://arxiv.org/abs/2404.08555)|null|
 |**2024-04-12**|**Memory Traces: Are Transformers Tulving Machines?**|Jean-Marie Chauvet et.al.|[2404.08543](http://arxiv.org/abs/2404.08543)|null|
 |**2024-04-12**|**Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward**|Xuan Xie et.al.|[2404.08517](http://arxiv.org/abs/2404.08517)|null|
@@ -1295,7 +1295,7 @@ layout: default
 |**2024-04-05**|**VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots**|Akhil Padmanabha et.al.|[2404.04066](http://arxiv.org/abs/2404.04066)|null|
 |**2024-04-05**|**A Comparison of Methods for Evaluating Generative IR**|Negar Arabzadeh et.al.|[2404.04044](http://arxiv.org/abs/2404.04044)|**[link](https://github.com/narabzad/genir-evaluation)**|
 |**2024-04-05**|**Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer**|Hele-Andra Kuulmets et.al.|[2404.04042](http://arxiv.org/abs/2404.04042)|**[link](https://github.com/tartunlp/llammas)**|
-|**2024-04-05**|**Willkommens-Merkel, Chaos-Johnson, and Tore-Klose: Modeling the Evaluative Meaning of German Personal Name Compounds**|Annerose Eichel et.al.|[2404.04031](http://arxiv.org/abs/2404.04031)|null|
+|**2024-04-05**|**Willkommens-Merkel, Chaos-Johnson, and Tore-Klose: Modeling the Evaluative Meaning of German Personal Name Compounds**|Annerose Eichel et.al.|[2404.04031](http://arxiv.org/abs/2404.04031)|**[link](https://github.com/anneroseeichel/lrec-coling2024)**|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
@@ -1352,7 +1352,7 @@ layout: default
 |**2024-04-02**|**Deconstructing In-Context Learning: Understanding Prompts via Corruption**|Namrata Shivagunde et.al.|[2404.02054](http://arxiv.org/abs/2404.02054)|**[link](https://github.com/text-machine-lab/understanding_prompts_via_corruption)**|
 |**2024-04-02**|**A Survey on Large Language Model-Based Game Agents**|Sihao Hu et.al.|[2404.02039](http://arxiv.org/abs/2404.02039)|**[link](https://github.com/git-disl/awesome-llm-game-agent-papers)**|
 |**2024-04-02**|**MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages**|Daryna Dementieva et.al.|[2404.02037](http://arxiv.org/abs/2404.02037)|null|
-|**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022](http://arxiv.org/abs/2404.02022)|null|
+|**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022](http://arxiv.org/abs/2404.02022)|**[link](https://github.com/alibaba-nlp/vec-ra-odqa)**|
 |**2024-04-02**|**Large Language Models for Orchestrating Bimanual Robots**|Kun Chu et.al.|[2404.02018](http://arxiv.org/abs/2404.02018)|null|
 |**2024-04-02**|**MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving**|Jiangfei Duan et.al.|[2404.02015](http://arxiv.org/abs/2404.02015)|**[link](https://github.com/hao-ai-lab/muxserve)**|
 |**2024-04-02**|**Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models**|Stephan Linzbach et.al.|[2404.01992](http://arxiv.org/abs/2404.01992)|null|
@@ -1886,7 +1886,7 @@ layout: default
 |**2024-02-22**|**Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models**|Seungduk Kim et.al.|[2402.14714](http://arxiv.org/abs/2402.14714)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-02-22**|**IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus**|Honghao Gui et.al.|[2402.14710](http://arxiv.org/abs/2402.14710)|**[link](https://github.com/zjunlp/iepile)**|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
-|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
+|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|**[link](https://github.com/rainavyas/attack-comparative-assessment)**|
 |**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|**[link](https://github.com/openbmb/olympiadbench)**|
 |**2024-02-21**|**Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**|Zhiwei He et.al.|[2402.14007](http://arxiv.org/abs/2402.14007)|**[link](https://github.com/zwhe99/x-sir)**|
 |**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002](http://arxiv.org/abs/2402.14002)|null|
@@ -1980,7 +1980,7 @@ layout: default
 |**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
 |**2024-02-15**|**ControlLM: Crafting Diverse Personalities for Language Models**|Yixuan Weng et.al.|[2402.10151](http://arxiv.org/abs/2402.10151)|**[link](https://github.com/wengsyx/controllm)**|
 |**2024-02-15**|**TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles**|Yinhong Liu et.al.|[2402.10137](http://arxiv.org/abs/2402.10137)|null|
-|**2024-02-15**|**Zero-Shot Reasoning: Personalized Content Generation Without the Cold Start Problem**|Davor Hafnar et.al.|[2402.10133](http://arxiv.org/abs/2402.10133)|null|
+|**2024-02-15**|**Zero-Shot Reasoning: Personalized Content Generation Without the Cold Start Problem**|Davor Hafnar et.al.|[2402.10133](http://arxiv.org/abs/2402.10133)|**[link](https://github.com/dhafnar/match3)**|
 |**2024-02-15**|**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**|Ming Li et.al.|[2402.10110](http://arxiv.org/abs/2402.10110)|**[link](https://github.com/tianyi-lab/reflection_tuning)**|
 |**2024-02-15**|**Quantized Embedding Vectors for Controllable Diffusion Language Models**|Cheng Kang et.al.|[2402.10107](http://arxiv.org/abs/2402.10107)|null|
 |**2024-02-15**|**GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving**|Jiaxin Zhang et.al.|[2402.10104](http://arxiv.org/abs/2402.10104)|**[link](https://github.com/geoeval/geoeval)**|
@@ -2139,7 +2139,7 @@ layout: default
 |**2024-07-03**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
 |**2024-07-02**|**The Solution for the ICCV 2023 Perception Test Challenge 2023 -- Task 6 -- Grounded videoQA**|Hailiang Zhang et.al.|[2407.01907](http://arxiv.org/abs/2407.01907)|null|
 |**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872](http://arxiv.org/abs/2407.01872)|**[link](https://github.com/kpeng9510/ravar)**|
-|**2024-06-30**|**Tarsier: Recipes for Training and Evaluating Large Video Description Models**|Jiawei Wang et.al.|[2407.00634](http://arxiv.org/abs/2407.00634)|null|
+|**2024-06-30**|**Tarsier: Recipes for Training and Evaluating Large Video Description Models**|Jiawei Wang et.al.|[2407.00634](http://arxiv.org/abs/2407.00634)|**[link](https://github.com/bytedance/tarsier)**|
 |**2024-06-30**|**Hierarchical Memory for Long Video QA**|Yiqin Wang et.al.|[2407.00603](http://arxiv.org/abs/2407.00603)|null|
 |**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|
 |**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391](http://arxiv.org/abs/2406.19391)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
