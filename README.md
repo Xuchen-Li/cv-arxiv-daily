@@ -2151,7 +2151,7 @@
 |**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872](http://arxiv.org/abs/2407.01872)|**[link](https://github.com/kpeng9510/ravar)**|
 |**2024-06-30**|**Tarsier: Recipes for Training and Evaluating Large Video Description Models**|Jiawei Wang et.al.|[2407.00634](http://arxiv.org/abs/2407.00634)|**[link](https://github.com/bytedance/tarsier)**|
 |**2024-06-30**|**Hierarchical Memory for Long Video QA**|Yiqin Wang et.al.|[2407.00603](http://arxiv.org/abs/2407.00603)|null|
-|**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|
+|**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|**[link](https://github.com/Vision-CAIR/InfiniBench)**|
 |**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391](http://arxiv.org/abs/2406.19391)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
 |**2024-06-27**|**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**|Tao Zhang et.al.|[2406.19389](http://arxiv.org/abs/2406.19389)|null|
 |**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006](http://arxiv.org/abs/2406.19006)|**[link](https://github.com/hotfinda/videomambapro)**|
