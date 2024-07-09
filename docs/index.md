@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2343,7 +2343,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990](http://arxiv.org/abs/2407.02990)|null|
 |**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
-|**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077](http://arxiv.org/abs/2407.02077)|**[link](https://github.com/arlo0o/htcl)**|
+|**2024-07-07**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077](http://arxiv.org/abs/2407.02077)|**[link](https://github.com/arlo0o/htcl)**|
 |**2024-06-25**|**SKD-TSTSAN: Three-Stream Temporal-Shift Attention Network Based on Self-Knowledge Distillation for Micro-Expression Recognition**|Guanghao Zhu et.al.|[2406.17538](http://arxiv.org/abs/2406.17538)|null|
 |**2024-06-23**|**Multi-Scale Temporal Difference Transformer for Video-Text Retrieval**|Ni Wang et.al.|[2406.16111](http://arxiv.org/abs/2406.16111)|null|
 |**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
