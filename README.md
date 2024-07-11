@@ -91,6 +91,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890](http://arxiv.org/abs/2407.07890)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
+|**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
+|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
+|**2024-07-10**|**FACTS About Building Retrieval Augmented Generation-based Chatbots**|Rama Akkiraju et.al.|[2407.07858](http://arxiv.org/abs/2407.07858)|null|
+|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
+|**2024-07-10**|**Natural Language Mechanisms via Self-Resolution with Foundation Models**|Nicolas Della Penna et.al.|[2407.07845](http://arxiv.org/abs/2407.07845)|null|
+|**2024-07-10**|**Benchmarking Embedding Aggregation Methods in Computational Pathology: A Clinical Data Perspective**|Shengjia Chen et.al.|[2407.07841](http://arxiv.org/abs/2407.07841)|**[link](https://github.com/fuchs-lab-public/cpath_sabenchmark)**|
+|**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
+|**2024-07-10**|**Transformer Alignment in Large Language Models**|Murdock Aubry et.al.|[2407.07810](http://arxiv.org/abs/2407.07810)|null|
+|**2024-07-10**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801](http://arxiv.org/abs/2407.07801)|null|
+|**2024-07-10**|**Attribute or Abstain: Large Language Models as Long Document Assistants**|Jan Buchmann et.al.|[2407.07799](http://arxiv.org/abs/2407.07799)|**[link](https://github.com/ukplab/arxiv2024-attribute-or-abstain)**|
+|**2024-07-10**|**Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard**|Oguzhan Topsakal et.al.|[2407.07796](http://arxiv.org/abs/2407.07796)|**[link](https://github.com/research-outcome/llm-game-benchmark)**|
+|**2024-07-10**|**Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities**|Tianjie Ju et.al.|[2407.07791](http://arxiv.org/abs/2407.07791)|null|
+|**2024-07-10**|**WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment**|Jiefu Ou et.al.|[2407.07778](http://arxiv.org/abs/2407.07778)|null|
+|**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
+|**2024-07-10**|**Can ChatGPT Pass a Theory of Computing Course?**|Matei A. Golesteanu et.al.|[2407.07757](http://arxiv.org/abs/2407.07757)|null|
+|**2024-07-10**|**Fine-Tuning Large Language Models with User-Level Differential Privacy**|Zachary Charles et.al.|[2407.07737](http://arxiv.org/abs/2407.07737)|null|
+|**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
+|**2024-07-10**|**Why should we ever automate moral decision making?**|Vincent Conitzer et.al.|[2407.07671](http://arxiv.org/abs/2407.07671)|null|
+|**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666](http://arxiv.org/abs/2407.07666)|null|
 |**2024-07-09**|**AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning**|Jiaxi Cui et.al.|[2407.07094](http://arxiv.org/abs/2407.07094)|**[link](https://github.com/pandavt/datatager)**|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093](http://arxiv.org/abs/2407.07093)|**[link](https://github.com/liqunma/fbi-llm)**|
 |**2024-07-09**|**CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation**|Tong Chen et.al.|[2407.07087](http://arxiv.org/abs/2407.07087)|null|
@@ -2184,6 +2204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
 |**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|**[link](https://github.com/MCG-NJU/VideoEval)**|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
