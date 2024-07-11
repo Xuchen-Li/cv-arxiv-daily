@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -92,7 +92,7 @@ layout: default
 |**2024-07-09**|**Prompting Techniques for Secure Code Generation: A Systematic Investigation**|Catherine Tony et.al.|[2407.07064](http://arxiv.org/abs/2407.07064)|null|
 |**2024-07-09**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
 |**2024-07-09**|**Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model**|Wenqi Zhang et.al.|[2407.07053](http://arxiv.org/abs/2407.07053)|**[link](https://github.com/zwq2018/multi-modal-self-instruct)**|
-|**2024-07-09**|**ProtoSAM - One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
+|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
 |**2024-07-09**|**Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models**|Yue Zhang et.al.|[2407.07035](http://arxiv.org/abs/2407.07035)|null|
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-09**|**Using Large Language Models for Generating Smart Contracts for Health Insurance from Textual Policies**|Inwon Kang et.al.|[2407.07019](http://arxiv.org/abs/2407.07019)|null|

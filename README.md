@@ -1,4 +1,4 @@
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -85,7 +85,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -100,7 +100,7 @@
 |**2024-07-09**|**Prompting Techniques for Secure Code Generation: A Systematic Investigation**|Catherine Tony et.al.|[2407.07064](http://arxiv.org/abs/2407.07064)|null|
 |**2024-07-09**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
 |**2024-07-09**|**Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model**|Wenqi Zhang et.al.|[2407.07053](http://arxiv.org/abs/2407.07053)|**[link](https://github.com/zwq2018/multi-modal-self-instruct)**|
-|**2024-07-09**|**ProtoSAM - One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
+|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
 |**2024-07-09**|**Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models**|Yue Zhang et.al.|[2407.07035](http://arxiv.org/abs/2407.07035)|null|
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-09**|**Using Large Language Models for Generating Smart Contracts for Health Insurance from Textual Policies**|Inwon Kang et.al.|[2407.07019](http://arxiv.org/abs/2407.07019)|null|
@@ -2178,7 +2178,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -2395,7 +2395,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -2463,5 +2463,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
