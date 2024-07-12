@@ -107,7 +107,7 @@ layout: default
 |**2024-07-11**|**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision**|Jay Shah et.al.|[2407.08608](http://arxiv.org/abs/2407.08608)|null|
 |**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890](http://arxiv.org/abs/2407.07890)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
+|**2024-07-11**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
 |**2024-07-10**|**FACTS About Building Retrieval Augmented Generation-based Chatbots**|Rama Akkiraju et.al.|[2407.07858](http://arxiv.org/abs/2407.07858)|null|
 |**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
 |**2024-07-10**|**Natural Language Mechanisms via Self-Resolution with Foundation Models**|Nicolas Della Penna et.al.|[2407.07845](http://arxiv.org/abs/2407.07845)|null|
