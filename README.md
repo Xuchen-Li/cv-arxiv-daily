@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers**|Zhengbo Zhang et.al.|[2407.08394](http://arxiv.org/abs/2407.08394)|null|
+|**2024-07-11**|**PINN-Ray: A Physics-Informed Neural Network to Model Soft Robotic Fin Ray Fingers**|Xing Wang et.al.|[2407.08222](http://arxiv.org/abs/2407.08222)|null|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518](http://arxiv.org/abs/2407.05518)|null|
 |**2024-07-07**|**Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking**|You Wu et.al.|[2407.05383](http://arxiv.org/abs/2407.05383)|null|
 |**2024-07-09**|**P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds**|Jiahao Nie et.al.|[2407.05238](http://arxiv.org/abs/2407.05238)|**[link](https://github.com/haooozi/P2P)**|
@@ -91,6 +93,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**MAVIS: Mathematical Visual Instruction Tuning**|Renrui Zhang et.al.|[2407.08739](http://arxiv.org/abs/2407.08739)|**[link](https://github.com/zrrskywalker/mavis)**|
+|**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735](http://arxiv.org/abs/2407.08735)|null|
+|**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
+|**2024-07-11**|**A Taxonomy for Data Contamination in Large Language Models**|Medha Palavalli et.al.|[2407.08716](http://arxiv.org/abs/2407.08716)|null|
+|**2024-07-11**|**GTA: A Benchmark for General Tool Agents**|Jize Wang et.al.|[2407.08713](http://arxiv.org/abs/2407.08713)|**[link](https://github.com/open-compass/GTA)**|
+|**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708](http://arxiv.org/abs/2407.08708)|null|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
+|**2024-07-11**|**Mitigating Catastrophic Forgetting in Language Transfer via Model Merging**|Anton Alexandrov et.al.|[2407.08699](http://arxiv.org/abs/2407.08699)|null|
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
+|**2024-07-11**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Zawalski Michał et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
+|**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683](http://arxiv.org/abs/2407.08683)|**[link](https://github.com/tencentarc/seed-story)**|
+|**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
+|**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662](http://arxiv.org/abs/2407.08662)|null|
+|**2024-07-11**|**Towards Building Specialized Generalist AI with System 1 and System 2 Fusion**|Kaiyan Zhang et.al.|[2407.08642](http://arxiv.org/abs/2407.08642)|null|
+|**2024-07-11**|**$β$-DPO: Direct Preference Optimization with Dynamic $β$**|Junkang Wu et.al.|[2407.08639](http://arxiv.org/abs/2407.08639)|**[link](https://github.com/junkangwu/beta-dpo)**|
+|**2024-07-11**|**RoboMorph: Evolving Robot Morphology using Large Language Models**|Kevin Qiu et.al.|[2407.08626](http://arxiv.org/abs/2407.08626)|null|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
+|**2024-07-11**|**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision**|Jay Shah et.al.|[2407.08608](http://arxiv.org/abs/2407.08608)|null|
 |**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890](http://arxiv.org/abs/2407.07890)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
@@ -2204,6 +2226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
+|**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150](http://arxiv.org/abs/2407.08150)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
 |**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|**[link](https://github.com/MCG-NJU/VideoEval)**|
