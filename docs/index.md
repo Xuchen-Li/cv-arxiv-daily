@@ -2220,7 +2220,7 @@ layout: default
 |**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150](http://arxiv.org/abs/2407.08150)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
-|**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|**[link](https://github.com/MCG-NJU/VideoEval)**|
+|**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|null|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-06**|**OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding**|Tiancheng Zhao et.al.|[2407.04923](http://arxiv.org/abs/2407.04923)|null|
 |**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788](http://arxiv.org/abs/2407.03788)|null|
