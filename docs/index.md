@@ -85,6 +85,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
+|**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|null|
+|**2024-07-12**|**MUSCLE: A Model Update Strategy for Compatible LLM Evolution**|Jessica Echterhoff et.al.|[2407.09435](http://arxiv.org/abs/2407.09435)|null|
+|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434](http://arxiv.org/abs/2407.09434)|null|
+|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429](http://arxiv.org/abs/2407.09429)|null|
+|**2024-07-12**|**TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models**|Hang Zou et.al.|[2407.09424](http://arxiv.org/abs/2407.09424)|null|
+|**2024-07-12**|**Mitigating Entity-Level Hallucination in Large Language Models**|Weihang Su et.al.|[2407.09417](http://arxiv.org/abs/2407.09417)|**[link](https://github.com/oneal2000/entityhallucination)**|
+|**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
+|**2024-07-12**|**Deep Bag-of-Words Model: An Efficient and Interpretable Relevance Architecture for Chinese E-Commerce**|Zhe Lin et.al.|[2407.09395](http://arxiv.org/abs/2407.09395)|null|
+|**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394](http://arxiv.org/abs/2407.09394)|null|
+|**2024-07-12**|**GAVEL: Generating Games Via Evolution and Language Models**|Graham Todd et.al.|[2407.09388](http://arxiv.org/abs/2407.09388)|null|
+|**2024-07-12**|**Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text**|Lucio La Cava et.al.|[2407.09364](http://arxiv.org/abs/2407.09364)|null|
+|**2024-07-12**|**Good Intentions, Risky Inventions: A Method for Assessing the Risks and Benefits of AI in Mobile and Wearable Uses**|Marios Constantinides et.al.|[2407.09322](http://arxiv.org/abs/2407.09322)|null|
+|**2024-07-12**|**Scalability of Bayesian Network Structure Elicitation with Large Language Models: a Novel Methodology and Comparative Analysis**|Nikolay Babakov et.al.|[2407.09311](http://arxiv.org/abs/2407.09311)|null|
+|**2024-07-12**|**Transformer Layers as Painters**|Qi Sun et.al.|[2407.09298](http://arxiv.org/abs/2407.09298)|null|
+|**2024-07-12**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
+|**2024-07-12**|**CEIPA: Counterfactual Explainable Incremental Prompt Attack Analysis on Large Language Models**|Dong Shu et.al.|[2407.09292](http://arxiv.org/abs/2407.09292)|null|
+|**2024-07-12**|**Structuring Authenticity Assessments on Historical Documents using LLMs**|Andrea Schimmenti et.al.|[2407.09290](http://arxiv.org/abs/2407.09290)|null|
+|**2024-07-12**|**WSESeg: Introducing a Dataset for the Segmentation of Winter Sports Equipment with a Baseline for Interactive Segmentation**|Robin Schön et.al.|[2407.09288](http://arxiv.org/abs/2407.09288)|null|
 |**2024-07-11**|**MAVIS: Mathematical Visual Instruction Tuning**|Renrui Zhang et.al.|[2407.08739](http://arxiv.org/abs/2407.08739)|**[link](https://github.com/zrrskywalker/mavis)**|
 |**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735](http://arxiv.org/abs/2407.08735)|null|
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
@@ -2216,6 +2236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
 |**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150](http://arxiv.org/abs/2407.08150)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
@@ -2434,6 +2455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
 |**2024-07-07**|**Efficient Bayesian dynamic closed skew-normal model preserving mean and covariance for spatio-temporal data**|Hajime Kuno et.al.|[2407.05288](http://arxiv.org/abs/2407.05288)|null|
 |**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990](http://arxiv.org/abs/2407.02990)|null|
