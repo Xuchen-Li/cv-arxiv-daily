@@ -93,6 +93,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
+|**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956](http://arxiv.org/abs/2407.10956)|**[link](https://github.com/xlang-ai/spider2-v)**|
+|**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
+|**2024-07-15**|**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**|Yaoting Wang et.al.|[2407.10947](http://arxiv.org/abs/2407.10947)|**[link](https://github.com/gewu-lab/sounding-object-segmentation-preference)**|
+|**2024-07-15**|**Learning from Naturally Occurring Feedback**|Shachar Don-Yehiya et.al.|[2407.10944](http://arxiv.org/abs/2407.10944)|null|
+|**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
+|**2024-07-15**|**Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together**|Dilara Soylu et.al.|[2407.10930](http://arxiv.org/abs/2407.10930)|null|
+|**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920](http://arxiv.org/abs/2407.10920)|null|
+|**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909](http://arxiv.org/abs/2407.10909)|null|
+|**2024-07-15**|**Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique**|Mark Russinovich et.al.|[2407.10887](http://arxiv.org/abs/2407.10887)|null|
+|**2024-07-15**|**SLIP: Securing LLMs IP Using Weights Decomposition**|Yehonathan Refael et.al.|[2407.10886](http://arxiv.org/abs/2407.10886)|null|
+|**2024-07-15**|**Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models**|Rui Zhang et.al.|[2407.10873](http://arxiv.org/abs/2407.10873)|null|
+|**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**Weighted Grouped Query Attention in Transformers**|Sai Sena Chinnakonduru et.al.|[2407.10855](http://arxiv.org/abs/2407.10855)|null|
+|**2024-07-15**|**An Actionable Framework for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2407.10853](http://arxiv.org/abs/2407.10853)|null|
+|**2024-07-15**|**MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs**|Quang H. Nguyen et.al.|[2407.10834](http://arxiv.org/abs/2407.10834)|null|
+|**2024-07-15**|**BiasScanner: Automatic Detection and Classification of News Bias to Strengthen Democracy**|Tim Menzner et.al.|[2407.10829](http://arxiv.org/abs/2407.10829)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
 |**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|null|
@@ -2246,12 +2266,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**TripletViNet: Mitigating Misinformation Video Spread Across Platforms**|Petar Smolovic et.al.|[2407.10644](http://arxiv.org/abs/2407.10644)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
 |**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150](http://arxiv.org/abs/2407.08150)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
-|**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|null|
+|**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|**[link](https://github.com/leexinhao/VideoEval)**|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-06**|**OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding**|Tiancheng Zhao et.al.|[2407.04923](http://arxiv.org/abs/2407.04923)|null|
 |**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788](http://arxiv.org/abs/2407.03788)|null|
@@ -2467,9 +2488,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Human-Centric Transformer for Domain Adaptive Action Recognition**|Kun-Yu Lin et.al.|[2407.10860](http://arxiv.org/abs/2407.10860)|null|
+|**2024-07-15**|**Spatio-temporal neural distance fields for conditional generative modeling of the heart**|Kristine Sørensen et.al.|[2407.10663](http://arxiv.org/abs/2407.10663)|**[link](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model)**|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
-|**2024-07-07**|**Efficient Bayesian dynamic closed skew-normal model preserving mean and covariance for spatio-temporal data**|Hajime Kuno et.al.|[2407.05288](http://arxiv.org/abs/2407.05288)|null|
+|**2024-07-07**|**Efficient Bayesian dynamic closed skew-normal model preserving mean and covariance for spatio-temporal data**|Hajime Kuno et.al.|[2407.05288](http://arxiv.org/abs/2407.05288)|**[link](https://github.com/Kuno3/DFsCsn)**|
 |**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990](http://arxiv.org/abs/2407.02990)|null|
 |**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
 |**2024-07-07**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077](http://arxiv.org/abs/2407.02077)|**[link](https://github.com/arlo0o/htcl)**|
