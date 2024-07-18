@@ -93,6 +93,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**|Kaichen Zhang et.al.|[2407.12772](http://arxiv.org/abs/2407.12772)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
+|**2024-07-17**|**EchoSight: Advancing Visual-Language Models with Wiki Knowledge**|Yibin Yan et.al.|[2407.12735](http://arxiv.org/abs/2407.12735)|null|
+|**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
+|**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725](http://arxiv.org/abs/2407.12725)|null|
+|**2024-07-17**|**The Future of Learning: Large Language Models through the Lens of Students**|He Zhang et.al.|[2407.12723](http://arxiv.org/abs/2407.12723)|null|
+|**2024-07-17**|**MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models**|Leyang Shen et.al.|[2407.12709](http://arxiv.org/abs/2407.12709)|**[link](https://github.com/jiutian-vl/mome)**|
+|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
+|**2024-07-17**|**Patch-Level Training for Large Language Models**|Chenze Shao et.al.|[2407.12665](http://arxiv.org/abs/2407.12665)|**[link](https://github.com/shaochenze/patchtrain)**|
+|**2024-07-17**|**Zero-shot Text-guided Infinite Image Synthesis with LLM guidance**|Soyeong Kwon et.al.|[2407.12642](http://arxiv.org/abs/2407.12642)|null|
+|**2024-07-17**|**Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?**|Aman Sinha et.al.|[2407.12626](http://arxiv.org/abs/2407.12626)|null|
+|**2024-07-17**|**Harnessing the Power of Artificial Intelligence to Vitalize Endangered Indigenous Languages: Technologies and Experiences**|Claudio Pinhanez et.al.|[2407.12620](http://arxiv.org/abs/2407.12620)|null|
+|**2024-07-17**|**AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism**|William Brannon et.al.|[2407.12613](http://arxiv.org/abs/2407.12613)|null|
+|**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
+|**2024-07-17**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588](http://arxiv.org/abs/2407.12588)|**[link](https://github.com/layer6ai-labs/ssl-robustness)**|
+|**2024-07-17**|**E5-V: Universal Embeddings with Multimodal Large Language Models**|Ting Jiang et.al.|[2407.12580](http://arxiv.org/abs/2407.12580)|**[link](https://github.com/kongds/e5-v)**|
+|**2024-07-17**|**Audio Conditioning for Music Generation via Discrete Bottleneck Features**|Simon Rouard et.al.|[2407.12563](http://arxiv.org/abs/2407.12563)|null|
+|**2024-07-17**|**Conspiracy theories and where to find them on TikTok**|Francesco Corso et.al.|[2407.12545](http://arxiv.org/abs/2407.12545)|null|
+|**2024-07-17**|**Abstraction Alignment: Comparing Model and Human Conceptual Relationships**|Angie Boggust et.al.|[2407.12543](http://arxiv.org/abs/2407.12543)|**[link](https://github.com/mitvis/abstraction-alignment)**|
+|**2024-07-17**|**Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models**|Xihe Qiu et.al.|[2407.12532](http://arxiv.org/abs/2407.12532)|null|
+|**2024-07-17**|**Crafting the Path: Robust Query Rewriting for Information Retrieval**|Ingeol Baek et.al.|[2407.12529](http://arxiv.org/abs/2407.12529)|null|
 |**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
 |**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963](http://arxiv.org/abs/2407.11963)|**[link](https://github.com/open-compass/opencompass)**|
 |**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
@@ -2286,6 +2306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**|Kirolos Ataallah et.al.|[2407.12679](http://arxiv.org/abs/2407.12679)|null|
 |**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855](http://arxiv.org/abs/2407.11855)|null|
 |**2024-07-16**|**Video-Language Alignment Pre-training via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|null|
 |**2024-07-04**|**Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case**|Hanxiao Lu et.al.|[2407.11031](http://arxiv.org/abs/2407.11031)|null|
