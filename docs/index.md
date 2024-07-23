@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2352,7 +2352,7 @@ layout: default
 |**2024-07-09**|**VideoEval: Comprehensive Benchmark Suite for Low-Cost Evaluation of Video Foundation Model**|Xinhao Li et.al.|[2407.06491](http://arxiv.org/abs/2407.06491)|**[link](https://github.com/leexinhao/VideoEval)**|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-06**|**OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding**|Tiancheng Zhao et.al.|[2407.04923](http://arxiv.org/abs/2407.04923)|null|
-|**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788](http://arxiv.org/abs/2407.03788)|null|
+|**2024-07-20**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788](http://arxiv.org/abs/2407.03788)|null|
 |**2024-07-04**|**VDMA: Video Question Answering with Dynamically Generated Multi-Agents**|Noriyuki Kugo et.al.|[2407.03610](http://arxiv.org/abs/2407.03610)|null|
 |**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320](http://arxiv.org/abs/2407.03320)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
