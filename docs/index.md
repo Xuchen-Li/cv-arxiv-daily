@@ -85,6 +85,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850](http://arxiv.org/abs/2407.15850)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
+|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847](http://arxiv.org/abs/2407.15847)|null|
+|**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841](http://arxiv.org/abs/2407.15841)|null|
+|**2024-07-22**|**MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity**|Yangzhou Liu et.al.|[2407.15838](http://arxiv.org/abs/2407.15838)|null|
+|**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835](http://arxiv.org/abs/2407.15835)|null|
+|**2024-07-22**|**J-CHAT: Japanese Large-scale Spoken Dialogue Corpus for Spoken Dialogue Language Modeling**|Wataru Nakata et.al.|[2407.15828](http://arxiv.org/abs/2407.15828)|null|
+|**2024-07-22**|**Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight**|Ziyuan Huang et.al.|[2407.15819](http://arxiv.org/abs/2407.15819)|null|
+|**2024-07-22**|**Perceptions of Linguistic Uncertainty by Language Models and Humans**|Catarina G Belem et.al.|[2407.15814](http://arxiv.org/abs/2407.15814)|**[link](https://github.com/ucidatalab/llm-uncertainty-perceptions)**|
+|**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795](http://arxiv.org/abs/2407.15795)|**[link](https://github.com/caoyunkang/adaclip)**|
+|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-07-22**|**Extracting Structured Insights from Financial News: An Augmented LLM Driven Approach**|Rian Dolphin et.al.|[2407.15788](http://arxiv.org/abs/2407.15788)|null|
+|**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
+|**2024-07-22**|**Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning**|Kaiwen Wang et.al.|[2407.15762](http://arxiv.org/abs/2407.15762)|null|
+|**2024-07-22**|**MoRSE: Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation**|Marco Simoni et.al.|[2407.15748](http://arxiv.org/abs/2407.15748)|null|
+|**2024-07-22**|**OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context**|Steffen Kleinle et.al.|[2407.15736](http://arxiv.org/abs/2407.15736)|null|
+|**2024-07-22**|**TaskGen: A Task-Based, Memory-Infused Agentic Framework using StrictJSON**|John Chong Min Tan et.al.|[2407.15734](http://arxiv.org/abs/2407.15734)|null|
+|**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
+|**2024-07-22**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728](http://arxiv.org/abs/2407.15728)|null|
+|**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723](http://arxiv.org/abs/2407.15723)|**[link](https://github.com/plstory/ds2d)**|
+|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
 |**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
 |**2024-07-19**|**On Pre-training of Multimodal Language Models Customized for Chart Understanding**|Wan-Cyuan Fan et.al.|[2407.14506](http://arxiv.org/abs/2407.14506)|null|
 |**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
@@ -2336,6 +2356,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**|Haoning Wu et.al.|[2407.15754](http://arxiv.org/abs/2407.15754)|**[link](https://github.com/longvideobench/longvideobench)**|
+|**2024-07-21**|**End-to-End Video Question Answering with Frame Scoring Mechanisms and Adaptive Sampling**|Jianxin Liang et.al.|[2407.15047](http://arxiv.org/abs/2407.15047)|null|
+|**2024-07-21**|**Audio-visual training for improved grounding in video-text LLMs**|Shivprasad Sagare et.al.|[2407.15046](http://arxiv.org/abs/2407.15046)|null|
 |**2024-07-19**|**EVLM: An Efficient Vision-Language Model for Visual Understanding**|Kaibing Chen et.al.|[2407.14177](http://arxiv.org/abs/2407.14177)|null|
 |**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li et.al.|[2407.13982](http://arxiv.org/abs/2407.13982)|**[link](https://github.com/LinguisticAnomalies/confounding-ASR)**|
 |**2024-07-18**|**Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data**|Wufei Ma et.al.|[2407.13094](http://arxiv.org/abs/2407.13094)|null|
@@ -2563,6 +2586,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Digital Twin-based Driver Risk-Aware Intelligent Mobility Analytics for Urban Transportation Management**|Tao Li et.al.|[2407.15025](http://arxiv.org/abs/2407.15025)|null|
 |**2024-07-18**|**Physics-guided Active Sample Reweighting for Urban Flow Prediction**|Wei Jiang et.al.|[2407.13605](http://arxiv.org/abs/2407.13605)|**[link](https://github.com/WeiJiang01/P-GASR)**|
 |**2024-07-15**|**Human-Centric Transformer for Domain Adaptive Action Recognition**|Kun-Yu Lin et.al.|[2407.10860](http://arxiv.org/abs/2407.10860)|null|
 |**2024-07-15**|**Spatio-temporal neural distance fields for conditional generative modeling of the heart**|Kristine Sørensen et.al.|[2407.10663](http://arxiv.org/abs/2407.10663)|**[link](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model)**|
