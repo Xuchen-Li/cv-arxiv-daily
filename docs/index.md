@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -99,7 +99,7 @@ layout: default
 |**2024-07-23**|**TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**|Eunseop Yoon et.al.|[2407.16574](http://arxiv.org/abs/2407.16574)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
-|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
+|**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537](http://arxiv.org/abs/2407.16537)|null|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
 |**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
@@ -2385,7 +2385,7 @@ layout: default
 |**2024-07-18**|**Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data**|Wufei Ma et.al.|[2407.13094](http://arxiv.org/abs/2407.13094)|null|
 |**2024-07-17**|**Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**|Kirolos Ataallah et.al.|[2407.12679](http://arxiv.org/abs/2407.12679)|null|
 |**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855](http://arxiv.org/abs/2407.11855)|null|
-|**2024-07-16**|**Video-Language Alignment Pre-training via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|null|
+|**2024-07-23**|**Video-Language Alignment via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|null|
 |**2024-07-04**|**Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case**|Hanxiao Lu et.al.|[2407.11031](http://arxiv.org/abs/2407.11031)|null|
 |**2024-07-15**|**TripletViNet: Mitigating Misinformation Video Spread Across Platforms**|Petar Smolovic et.al.|[2407.10644](http://arxiv.org/abs/2407.10644)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|

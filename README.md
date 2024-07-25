@@ -1,4 +1,4 @@
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -87,7 +87,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -107,7 +107,7 @@
 |**2024-07-23**|**TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**|Eunseop Yoon et.al.|[2407.16574](http://arxiv.org/abs/2407.16574)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
-|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
+|**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537](http://arxiv.org/abs/2407.16537)|null|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
 |**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
@@ -2380,7 +2380,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -2395,7 +2395,7 @@
 |**2024-07-18**|**Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data**|Wufei Ma et.al.|[2407.13094](http://arxiv.org/abs/2407.13094)|null|
 |**2024-07-17**|**Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**|Kirolos Ataallah et.al.|[2407.12679](http://arxiv.org/abs/2407.12679)|null|
 |**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855](http://arxiv.org/abs/2407.11855)|null|
-|**2024-07-16**|**Video-Language Alignment Pre-training via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|null|
+|**2024-07-23**|**Video-Language Alignment via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|null|
 |**2024-07-04**|**Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case**|Hanxiao Lu et.al.|[2407.11031](http://arxiv.org/abs/2407.11031)|null|
 |**2024-07-15**|**TripletViNet: Mitigating Misinformation Video Spread Across Platforms**|Petar Smolovic et.al.|[2407.10644](http://arxiv.org/abs/2407.10644)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
@@ -2613,7 +2613,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -2687,5 +2687,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
