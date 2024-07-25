@@ -85,6 +85,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469](http://arxiv.org/abs/2407.17469)|**[link](https://github.com/wenting-zhao/couldask)**|
+|**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
+|**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
+|**2024-07-24**|**$VILA^2$ : VILA Augmented VILA**|Yunhao Fang et.al.|[2407.17453](http://arxiv.org/abs/2407.17453)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|null|
+|**2024-07-24**|**Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?**|Michael-Andrei Panaitescu-Liess et.al.|[2407.17417](http://arxiv.org/abs/2407.17417)|null|
+|**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412](http://arxiv.org/abs/2407.17412)|null|
+|**2024-07-24**|**Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**|Yida Zhao et.al.|[2407.17406](http://arxiv.org/abs/2407.17406)|**[link](https://github.com/zhaoyd1/dep_transformer_grammars)**|
+|**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/abs/2407.17398)|null|
+|**2024-07-24**|**PERSONA: A Reproducible Testbed for Pluralistic Alignment**|Louis Castricato et.al.|[2407.17387](http://arxiv.org/abs/2407.17387)|null|
+|**2024-07-24**|**A Comprehensive Approach to Misspelling Correction with BERT and Levenshtein Distance**|Amirreza Naziri et.al.|[2407.17383](http://arxiv.org/abs/2407.17383)|null|
+|**2024-07-24**|**MMRA: A Benchmark for Multi-granularity Multi-image Relational Association**|Siwei Wu et.al.|[2407.17379](http://arxiv.org/abs/2407.17379)|null|
+|**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
+|**2024-07-24**|**Gradient-based inference of abstract task representations for generalization in neural networks**|Ali Hummos et.al.|[2407.17356](http://arxiv.org/abs/2407.17356)|null|
+|**2024-07-24**|**Scalify: scale propagation for efficient low-precision LLM training**|Paul Balança et.al.|[2407.17353](http://arxiv.org/abs/2407.17353)|**[link](https://github.com/graphcore-research/jax-scalify)**|
+|**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
+|**2024-07-24**|**DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation**|Qian Feng et.al.|[2407.17348](http://arxiv.org/abs/2407.17348)|null|
+|**2024-07-24**|**Label Alignment and Reassignment with Generalist Large Language Model for Enhanced Cross-Domain Named Entity Recognition**|Ke Bao et.al.|[2407.17344](http://arxiv.org/abs/2407.17344)|null|
+|**2024-07-24**|**How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**|Leo Yu-Ho Lo et.al.|[2407.17291](http://arxiv.org/abs/2407.17291)|null|
 |**2024-07-23**|**PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects**|Junyi Li et.al.|[2407.16696](http://arxiv.org/abs/2407.16696)|null|
 |**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
@@ -2385,7 +2405,7 @@ layout: default
 |**2024-07-18**|**Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data**|Wufei Ma et.al.|[2407.13094](http://arxiv.org/abs/2407.13094)|null|
 |**2024-07-17**|**Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**|Kirolos Ataallah et.al.|[2407.12679](http://arxiv.org/abs/2407.12679)|null|
 |**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855](http://arxiv.org/abs/2407.11855)|null|
-|**2024-07-23**|**Video-Language Alignment via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|null|
+|**2024-07-23**|**Video-Language Alignment via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677](http://arxiv.org/abs/2407.11677)|**[link](https://github.com/gxym/stgt)**|
 |**2024-07-04**|**Purification Of Contaminated Convolutional Neural Networks Via Robust Recovery: An Approach with Theoretical Guarantee in One-Hidden-Layer Case**|Hanxiao Lu et.al.|[2407.11031](http://arxiv.org/abs/2407.11031)|null|
 |**2024-07-15**|**TripletViNet: Mitigating Misinformation Video Spread Across Platforms**|Petar Smolovic et.al.|[2407.10644](http://arxiv.org/abs/2407.10644)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
@@ -2607,6 +2627,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2407.17378](http://arxiv.org/abs/2407.17378)|**[link](https://github.com/pnnnnnnn/prevpredmap)**|
+|**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955](http://arxiv.org/abs/2407.16955)|**[link](https://github.com/dop0/dvpe)**|
 |**2024-07-22**|**A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London**|Kapil Gupta et.al.|[2407.15905](http://arxiv.org/abs/2407.15905)|null|
 |**2024-07-03**|**Digital Twin-based Driver Risk-Aware Intelligent Mobility Analytics for Urban Transportation Management**|Tao Li et.al.|[2407.15025](http://arxiv.org/abs/2407.15025)|null|
 |**2024-07-18**|**Physics-guided Active Sample Reweighting for Urban Flow Prediction**|Wei Jiang et.al.|[2407.13605](http://arxiv.org/abs/2407.13605)|**[link](https://github.com/WeiJiang01/P-GASR)**|
