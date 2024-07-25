@@ -89,7 +89,7 @@ layout: default
 |**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
 |**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
 |**2024-07-24**|**$VILA^2$ : VILA Augmented VILA**|Yunhao Fang et.al.|[2407.17453](http://arxiv.org/abs/2407.17453)|null|
-|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|**[link](https://github.com/Confirm-Solutions/flrt)**|
 |**2024-07-24**|**Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?**|Michael-Andrei Panaitescu-Liess et.al.|[2407.17417](http://arxiv.org/abs/2407.17417)|null|
 |**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412](http://arxiv.org/abs/2407.17412)|null|
 |**2024-07-24**|**Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**|Yida Zhao et.al.|[2407.17406](http://arxiv.org/abs/2407.17406)|**[link](https://github.com/zhaoyd1/dep_transformer_grammars)**|
