@@ -85,6 +85,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
+|**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
+|**2024-07-26**|**A Flexible and Scalable Approach for Collecting Wildlife Advertisements on the Web**|Juliana Barbosa et.al.|[2407.18898](http://arxiv.org/abs/2407.18898)|**[link](https://github.com/vida-nyu/wildlife_pipeline)**|
+|**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
+|**2024-07-26**|**Human-artificial intelligence teaming for scientific information extraction from data-driven additive manufacturing research using large language models**|Mutahar Safdar et.al.|[2407.18827](http://arxiv.org/abs/2407.18827)|null|
+|**2024-07-26**|**Automatic Detection of Moral Values in Music Lyrics**|Vjosa Preniqi et.al.|[2407.18787](http://arxiv.org/abs/2407.18787)|null|
+|**2024-07-26**|**The power of Prompts: Evaluating and Mitigating Gender Bias in MT with LLMs**|Aleix Sant et.al.|[2407.18786](http://arxiv.org/abs/2407.18786)|null|
+|**2024-07-26**|**Foundation Models for the Digital Twin Creation of Cyber-Physical Systems**|Shaukat Ali et.al.|[2407.18779](http://arxiv.org/abs/2407.18779)|null|
+|**2024-07-26**|**TAGIFY: LLM-powered Tagging Interface for Improved Data Findability on OGD portals**|Kevin Kliimask et.al.|[2407.18764](http://arxiv.org/abs/2407.18764)|null|
+|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
+|**2024-07-26**|**Towards Effective and Efficient Continual Pre-training of Large Language Models**|Jie Chen et.al.|[2407.18743](http://arxiv.org/abs/2407.18743)|null|
+|**2024-07-26**|**Towards Generalized Offensive Language Identification**|Alphaeus Dmonte et.al.|[2407.18738](http://arxiv.org/abs/2407.18738)|null|
+|**2024-07-26**|**LLASP: Fine-tuning Large Language Models for Answer Set Programming**|Erica Coppolillo et.al.|[2407.18723](http://arxiv.org/abs/2407.18723)|null|
+|**2024-07-26**|**Neurosymbolic AI for Enhancing Instructability in Generative AI**|Amit Sheth et.al.|[2407.18722](http://arxiv.org/abs/2407.18722)|null|
+|**2024-07-26**|**Cluster-norm for Unsupervised Probing of Knowledge**|Walter Laurito et.al.|[2407.18712](http://arxiv.org/abs/2407.18712)|null|
+|**2024-07-26**|**Adaptive Contrastive Search: Uncertainty-Guided Decoding for Open-Ended Text Generation**|Esteban Garces Arias et.al.|[2407.18698](http://arxiv.org/abs/2407.18698)|null|
+|**2024-07-26**|**Collaborative Evolving Strategy for Automatic Data-Centric Development**|Xu Yang et.al.|[2407.18690](http://arxiv.org/abs/2407.18690)|null|
+|**2024-07-26**|**The BIAS Detection Framework: Bias Detection in Word Embeddings and Language Models for European Languages**|Alexandre Puttick et.al.|[2407.18689](http://arxiv.org/abs/2407.18689)|null|
+|**2024-07-26**|**Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift**|Seongho Son et.al.|[2407.18676](http://arxiv.org/abs/2407.18676)|null|
+|**2024-07-26**|**Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models**|Xiang Shi et.al.|[2407.18626](http://arxiv.org/abs/2407.18626)|null|
 |**2024-07-25**|**Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning**|Tianduo Wang et.al.|[2407.18248](http://arxiv.org/abs/2407.18248)|**[link](https://github.com/tianduowang/dpo-st)**|
 |**2024-07-25**|**LoRA-Pro: Are Low-Rank Adapters Properly Optimized?**|Zhengbo Wang et.al.|[2407.18242](http://arxiv.org/abs/2407.18242)|**[link](https://github.com/mrflogs/LoRA-Pro)**|
 |**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
@@ -2416,6 +2436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
 |**2024-07-26**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792](http://arxiv.org/abs/2407.17792)|**[link](https://github.com/sming256/OpenTAD)**|
 |**2024-07-23**|**EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval**|Thomas Hummel et.al.|[2407.16658](http://arxiv.org/abs/2407.16658)|**[link](https://github.com/explainableml/egocvr)**|
 |**2024-07-22**|**LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**|Haoning Wu et.al.|[2407.15754](http://arxiv.org/abs/2407.15754)|**[link](https://github.com/longvideobench/longvideobench)**|
