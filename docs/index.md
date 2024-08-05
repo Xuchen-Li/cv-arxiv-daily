@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -104,7 +104,7 @@ layout: default
 |**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672](http://arxiv.org/abs/2408.00672)|null|
 |**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665](http://arxiv.org/abs/2408.00665)|null|
 |**2024-08-01**|**Disentangling Dense Embeddings with Sparse Autoencoders**|Charles O'Neill et.al.|[2408.00657](http://arxiv.org/abs/2408.00657)|null|
-|**2024-08-01**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
+|**2024-08-02**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
 |**2024-08-01**|**Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning**|Xuri Ge et.al.|[2408.00644](http://arxiv.org/abs/2408.00644)|null|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
