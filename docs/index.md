@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263](http://arxiv.org/abs/2408.02263)|null|
+|**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/abs/2408.02049)|null|
+|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|null|
 |**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|null|
 |**2024-07-30**|**Broadband THz wave generation and detection in organic crystal PNPA at MHz repetition rates**|Lukasz A. Sterczewski et.al.|[2407.20745](http://arxiv.org/abs/2407.20745)|null|
 |**2024-07-16**|**Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers**|Zhengbo Zhang et.al.|[2407.08394](http://arxiv.org/abs/2407.08394)|null|
@@ -87,6 +90,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637](http://arxiv.org/abs/2408.02637)|null|
+|**2024-08-05**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
+|**2024-08-05**|**Language Model Can Listen While Speaking**|Ziyang Ma et.al.|[2408.02622](http://arxiv.org/abs/2408.02622)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599](http://arxiv.org/abs/2408.02599)|null|
+|**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595](http://arxiv.org/abs/2408.02595)|null|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584](http://arxiv.org/abs/2408.02584)|null|
+|**2024-08-05**|**DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions**|Siying Hu et.al.|[2408.02574](http://arxiv.org/abs/2408.02574)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
+|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545](http://arxiv.org/abs/2408.02545)|null|
+|**2024-08-05**|**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions**|Xinbei Ma et.al.|[2408.02544](http://arxiv.org/abs/2408.02544)|null|
+|**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
+|**2024-08-05**|**Practical Attacks against Black-box Code Completion Engines**|Slobodan Jenko et.al.|[2408.02509](http://arxiv.org/abs/2408.02509)|null|
+|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503](http://arxiv.org/abs/2408.02503)|null|
+|**2024-08-05**|**Context Conquers Parameters: Outperforming Proprietary LLM in Commit Message Generation**|Aaron Imani et.al.|[2408.02502](http://arxiv.org/abs/2408.02502)|null|
+|**2024-08-05**|**A First Look at License Compliance Capability of LLMs in Code Generation**|Weiwei Xu et.al.|[2408.02487](http://arxiv.org/abs/2408.02487)|null|
+|**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484](http://arxiv.org/abs/2408.02484)|null|
+|**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423](http://arxiv.org/abs/2408.01423)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
 |**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419](http://arxiv.org/abs/2408.01419)|null|
@@ -2538,6 +2561,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
+|**2024-08-05**|**FE-Adapter: Adapting Image-based Emotion Classifiers to Videos**|Shreyank N Gowda et.al.|[2408.02421](http://arxiv.org/abs/2408.02421)|null|
+|**2024-08-05**|**COM Kitchens: An Unedited Overhead-view Video Dataset as a Vision-Language Benchmark**|Koki Maeda et.al.|[2408.02272](http://arxiv.org/abs/2408.02272)|null|
 |**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759](http://arxiv.org/abs/2408.00759)|null|
 |**2024-08-01**|**Multimodal Fusion and Coherence Modeling for Video Topic Segmentation**|Hai Yu et.al.|[2408.00365](http://arxiv.org/abs/2408.00365)|null|
 |**2024-07-31**|**Learning Video Context as Interleaved Multimodal Sequences**|Kevin Qinghong Lin et.al.|[2407.21757](http://arxiv.org/abs/2407.21757)|null|
@@ -2778,6 +2804,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|null|
 |**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|null|
 |**2024-08-03**|**Unveiling land use dynamics: Insights from a hierarchical Bayesian spatio-temporal modelling of Compositional Data**|Mario Figueira et.al.|[2407.21695](http://arxiv.org/abs/2407.21695)|null|
 |**2024-07-30**|**Autogenic Language Embedding for Coherent Point Tracking**|Zikai Song et.al.|[2407.20730](http://arxiv.org/abs/2407.20730)|**[link](https://github.com/skyesong38/altrack)**|
