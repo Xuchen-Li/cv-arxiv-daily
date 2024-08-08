@@ -9,8 +9,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263](http://arxiv.org/abs/2408.02263)|null|
 |**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/abs/2408.02049)|null|
-|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|null|
-|**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|null|
+|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|**[link](https://github.com/hdu-vrlab/siammo)**|
+|**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|**[link](https://github.com/wqw123wqw/pftrack)**|
 |**2024-08-06**|**Broadband THz wave generation and detection in organic crystal PNPA at MHz repetition rates**|Lukasz A. Sterczewski et.al.|[2407.20745](http://arxiv.org/abs/2407.20745)|null|
 |**2024-07-16**|**Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers**|Zhengbo Zhang et.al.|[2407.08394](http://arxiv.org/abs/2407.08394)|null|
 |**2024-07-11**|**PINN-Ray: A Physics-Informed Neural Network to Model Soft Robotic Fin Ray Fingers**|Xing Wang et.al.|[2407.08222](http://arxiv.org/abs/2407.08222)|null|
@@ -90,6 +90,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
+|**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
+|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910](http://arxiv.org/abs/2408.03910)|**[link](https://github.com/modelscope/modelscope-agent)**|
+|**2024-08-07**|**Decoding Biases: Automated Methods and LLM Judges for Gender Bias Detection in Language Models**|Shachi H Kumar et.al.|[2408.03907](http://arxiv.org/abs/2408.03907)|null|
+|**2024-08-07**|**Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond**|Beomseok Lee et.al.|[2408.03900](http://arxiv.org/abs/2408.03900)|**[link](https://github.com/hlt-mt/speech-massive)**|
+|**2024-08-07**|**Simplifying Scholarly Abstracts for Accessible Digital Libraries**|Haining Wang et.al.|[2408.03899](http://arxiv.org/abs/2408.03899)|null|
+|**2024-08-07**|**From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems**|Leixian Shen et.al.|[2408.03876](http://arxiv.org/abs/2408.03876)|null|
+|**2024-08-07**|**PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training**|Haoran Xu et.al.|[2408.03865](http://arxiv.org/abs/2408.03865)|null|
+|**2024-08-07**|**GAIA -- A Large Language Model for Advanced Power Dispatch**|Yuheng Cheng et.al.|[2408.03847](http://arxiv.org/abs/2408.03847)|null|
+|**2024-08-07**|**MaxMind: A Memory Loop Network to Enhance Software Productivity based on Large Language Models**|Yuchen Dong et.al.|[2408.03841](http://arxiv.org/abs/2408.03841)|null|
+|**2024-08-07**|**WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**|Prannaya Gupta et.al.|[2408.03837](http://arxiv.org/abs/2408.03837)|null|
+|**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834](http://arxiv.org/abs/2408.03834)|null|
+|**2024-08-07**|**Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning**|Simret Araya Gebreegziabher et.al.|[2408.03819](http://arxiv.org/abs/2408.03819)|null|
+|**2024-08-07**|**Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring**|Zifan Wang et.al.|[2408.03811](http://arxiv.org/abs/2408.03811)|null|
+|**2024-08-07**|**'Finance Wizard' at the FinLLM Challenge Task: Financial Text Summarization**|Meisin Lee et.al.|[2408.03762](http://arxiv.org/abs/2408.03762)|null|
+|**2024-08-07**|**MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video**|Xiaoqing Guo et.al.|[2408.03761](http://arxiv.org/abs/2408.03761)|null|
+|**2024-08-07**|**Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation**|Jingjing Xie et.al.|[2408.03735](http://arxiv.org/abs/2408.03735)|**[link](https://github.com/xjjxmu/qslaw)**|
+|**2024-08-07**|**Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**|Zizhang Chen et.al.|[2408.03732](http://arxiv.org/abs/2408.03732)|null|
+|**2024-08-07**|**A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models**|Pengxiang Zhao et.al.|[2408.03728](http://arxiv.org/abs/2408.03728)|null|
+|**2024-08-07**|**Local Topology Measures of Contextual Language Model Latent Spaces With Applications to Dialogue Term Extraction**|Benjamin Matthias Ruppik et.al.|[2408.03706](http://arxiv.org/abs/2408.03706)|null|
 |**2024-08-06**|**CoverBench: A Challenging Benchmark for Complex Claim Verification**|Alon Jacovi et.al.|[2408.03325](http://arxiv.org/abs/2408.03325)|null|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
 |**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302](http://arxiv.org/abs/2408.03302)|null|
@@ -2826,7 +2846,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|null|
+|**2024-08-07**|**Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition**|Shu Yang et.al.|[2408.03867](http://arxiv.org/abs/2408.03867)|**[link](https://github.com/isyangshu/surgformer)**|
+|**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
+|**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|**[link](https://github.com/hdu-vrlab/siammo)**|
 |**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|null|
 |**2024-08-03**|**Unveiling land use dynamics: Insights from a hierarchical Bayesian spatio-temporal modelling of Compositional Data**|Mario Figueira et.al.|[2407.21695](http://arxiv.org/abs/2407.21695)|null|
 |**2024-07-30**|**Autogenic Language Embedding for Coherent Point Tracking**|Zikai Song et.al.|[2407.20730](http://arxiv.org/abs/2407.20730)|**[link](https://github.com/skyesong38/altrack)**|
