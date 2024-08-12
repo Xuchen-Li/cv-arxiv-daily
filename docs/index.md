@@ -90,6 +90,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
+|**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204](http://arxiv.org/abs/2408.05204)|null|
+|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
+|**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
+|**2024-08-09**|**Weak-Annotation of HAR Datasets using Vision Foundation Models**|Marius Bock et.al.|[2408.05169](http://arxiv.org/abs/2408.05169)|**[link](https://github.com/mariusbock/weak_har)**|
+|**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149](http://arxiv.org/abs/2408.05149)|null|
+|**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
+|**2024-08-09**|**Is ChatGPT a Good Software Librarian? An Exploratory Study on the Use of ChatGPT for Software Library Recommendations**|Jasmine Latendresse et.al.|[2408.05128](http://arxiv.org/abs/2408.05128)|null|
+|**2024-08-09**|**Large Language Models and Thematic Analysis: Human-AI Synergy in Researching Hate Speech on Social Media**|Petre Breazu et.al.|[2408.05126](http://arxiv.org/abs/2408.05126)|null|
+|**2024-08-09**|**Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video**|Chunggi Lee et.al.|[2408.05123](http://arxiv.org/abs/2408.05123)|null|
+|**2024-08-09**|**A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**|Xinyu Liu et.al.|[2408.05109](http://arxiv.org/abs/2408.05109)|null|
+|**2024-08-09**|**Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection**|Xincheng Pang et.al.|[2408.05107](http://arxiv.org/abs/2408.05107)|null|
+|**2024-08-09**|**How Well Do LLMs Identify Cultural Unity in Diversity?**|Jialin Li et.al.|[2408.05102](http://arxiv.org/abs/2408.05102)|null|
+|**2024-08-09**|**Hyperbolic Learning with Multimodal Large Language Models**|Paolo Mandica et.al.|[2408.05097](http://arxiv.org/abs/2408.05097)|null|
+|**2024-08-09**|**Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts**|Tingchen Fu et.al.|[2408.05094](http://arxiv.org/abs/2408.05094)|null|
+|**2024-08-09**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093](http://arxiv.org/abs/2408.05093)|**[link](https://github.com/xiezikai/reflexiveprompting)**|
+|**2024-08-09**|**Generating novel experimental hypotheses from language models: A case study on cross-dative generalization**|Kanishka Misra et.al.|[2408.05086](http://arxiv.org/abs/2408.05086)|null|
+|**2024-08-09**|**RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**|Sangjoon Park et.al.|[2408.05074](http://arxiv.org/abs/2408.05074)|null|
+|**2024-08-09**|**Examining the Behavior of LLM Architectures Within the Framework of Standardized National Exams in Brazil**|Marcelo Sartori Locatelli et.al.|[2408.05035](http://arxiv.org/abs/2408.05035)|null|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
 |**2024-08-08**|**Code-switching in text and speech reveals information-theoretic audience design**|Debasmita Bhattacharya et.al.|[2408.04596](http://arxiv.org/abs/2408.04596)|null|
 |**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
