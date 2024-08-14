@@ -98,6 +98,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060](http://arxiv.org/abs/2408.07060)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
+|**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
+|**2024-08-13**|**DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs**|Dongyuan Li et.al.|[2408.06966](http://arxiv.org/abs/2408.06966)|null|
+|**2024-08-13**|**Towards Holistic Disease Risk Prediction using Small Language Models**|Liv Björkdahl et.al.|[2408.06943](http://arxiv.org/abs/2408.06943)|null|
+|**2024-08-13**|**OpenResearcher: Unleashing AI for Accelerated Scientific Research**|Yuxiang Zheng et.al.|[2408.06941](http://arxiv.org/abs/2408.06941)|**[link](https://github.com/gair-nlp/openresearcher)**|
+|**2024-08-13**|**The advantages of context specific language models: the case of the Erasmian Language Model**|João Gonçalves et.al.|[2408.06931](http://arxiv.org/abs/2408.06931)|null|
+|**2024-08-13**|**Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas**|Louis Kwok et.al.|[2408.06929](http://arxiv.org/abs/2408.06929)|null|
+|**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
+|**2024-08-13**|**Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives**|Zhihu Wang et.al.|[2408.06904](http://arxiv.org/abs/2408.06904)|null|
+|**2024-08-13**|**Leveraging Language Models for Emotion and Behavior Analysis in Education**|Kaito Tanaka et.al.|[2408.06874](http://arxiv.org/abs/2408.06874)|null|
+|**2024-08-13**|**LoRA $^2$ : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models**|Jia-Chen Zhang et.al.|[2408.06854](http://arxiv.org/abs/2408.06854)|null|
+|**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849](http://arxiv.org/abs/2408.06849)|**[link](https://github.com/kairong-han/causal_agent)**|
+|**2024-08-13**|**DracoGPT: Extracting Visualization Design Preferences from Large Language Models**|Huichen Will Wang et.al.|[2408.06845](http://arxiv.org/abs/2408.06845)|null|
+|**2024-08-13**|**How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**|Huichen Will Wang et.al.|[2408.06837](http://arxiv.org/abs/2408.06837)|null|
+|**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
+|**2024-08-13**|**MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty**|Yongjin Yang et.al.|[2408.06816](http://arxiv.org/abs/2408.06816)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-13**|**Layerwise Recurrent Router for Mixture-of-Experts**|Zihan Qiu et.al.|[2408.06793](http://arxiv.org/abs/2408.06793)|**[link](https://github.com/qiuzh20/rmoe)**|
 |**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
 |**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
@@ -2671,6 +2691,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437](http://arxiv.org/abs/2408.06437)|**[link](https://github.com/sakibreza/eccv24-hat)**|
 |**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
 |**2024-08-12**|**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**|Zhuoyi Yang et.al.|[2408.06072](http://arxiv.org/abs/2408.06072)|**[link](https://github.com/thudm/cogvideo)**|
 |**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
