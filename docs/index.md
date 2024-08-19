@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2978,7 +2978,7 @@ layout: default
 |**2024-08-14**|**Limit Theorems for Weakly Dependent Non-stationary Random Field Arrays and Asymptotic Inference of Dynamic Spatio-temporal Models**|Yue Pan et.al.|[2408.07429](http://arxiv.org/abs/2408.07429)|null|
 |**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
 |**2024-08-12**|**Spacetime $E(n)$ -Transformer: Equivariant Attention for Spatio-temporal Graphs**|Sergio G. Charles et.al.|[2408.06039](http://arxiv.org/abs/2408.06039)|null|
-|**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
+|**2024-08-16**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
 |**2024-08-07**|**Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition**|Shu Yang et.al.|[2408.03867](http://arxiv.org/abs/2408.03867)|**[link](https://github.com/isyangshu/surgformer)**|
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|**[link](https://github.com/hdu-vrlab/siammo)**|
