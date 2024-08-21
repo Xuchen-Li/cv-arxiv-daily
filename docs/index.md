@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -104,7 +104,7 @@ layout: default
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
 |**2024-08-19**|**Geometry Informed Tokenization of Molecules for Language Model Generation**|Xiner Li et.al.|[2408.10120](http://arxiv.org/abs/2408.10120)|null|
 |**2024-08-19**|**GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization**|Ran Liu et.al.|[2408.10115](http://arxiv.org/abs/2408.10115)|**[link](https://github.com/oswald1997/glimmer)**|
-|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
+|**2024-08-20**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
 |**2024-08-19**|**ARMADA: Attribute-Based Multimodal Data Augmentation**|Xiaomeng Jin et.al.|[2408.10086](http://arxiv.org/abs/2408.10086)|null|
 |**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075](http://arxiv.org/abs/2408.10075)|null|
 |**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
