@@ -8,7 +8,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**Low-Light Object Tracking: A Benchmark**|Pengzhi Zhong et.al.|[2408.11463](http://arxiv.org/abs/2408.11463)|null|
-|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
 |**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263](http://arxiv.org/abs/2408.02263)|null|
 |**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/abs/2408.02049)|null|
 |**2024-08-03**|**SiamMo: Siamese Motion-Centric 3D Object Tracking**|Yuxiang Yang et.al.|[2408.01688](http://arxiv.org/abs/2408.01688)|**[link](https://github.com/hdu-vrlab/siammo)**|
@@ -92,6 +92,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
+|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
+|**2024-08-22**|**GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models**|Kunsheng Tang et.al.|[2408.12494](http://arxiv.org/abs/2408.12494)|**[link](https://github.com/kstanghere/gendercare-ccs24)**|
+|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480](http://arxiv.org/abs/2408.12480)|null|
+|**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
+|**2024-08-22**|**Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning**|Mushui Liu et.al.|[2408.12469](http://arxiv.org/abs/2408.12469)|null|
+|**2024-08-22**|**Enhancing Multi-hop Reasoning through Knowledge Erasure in Large Language Model Editing**|Mengqi Zhang et.al.|[2408.12456](http://arxiv.org/abs/2408.12456)|null|
+|**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
+|**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
+|**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
+|**2024-08-22**|**Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code**|Mahdi Kazemi et.al.|[2408.12416](http://arxiv.org/abs/2408.12416)|null|
+|**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|null|
 |**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$ NN-LMs**|Shangyi Geng et.al.|[2408.11815](http://arxiv.org/abs/2408.11815)|**[link](https://github.com/gsyfate/knnlm-limits)**|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
@@ -2815,7 +2835,7 @@ layout: default
 |**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
 |**2024-08-12**|**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**|Zhuoyi Yang et.al.|[2408.06072](http://arxiv.org/abs/2408.06072)|**[link](https://github.com/thudm/cogvideo)**|
 |**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
-|**2024-08-08**|**VideoQA in the Era of LLMs: An Empirical Study**|Junbin Xiao et.al.|[2408.04223](http://arxiv.org/abs/2408.04223)|null|
+|**2024-08-08**|**VideoQA in the Era of LLMs: An Empirical Study**|Junbin Xiao et.al.|[2408.04223](http://arxiv.org/abs/2408.04223)|**[link](https://github.com/doc-doc/videoqa-llms)**|
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
 |**2024-08-06**|**Dual-path Collaborative Generation Network for Emotional Video Captioning**|Cheng Ye et.al.|[2408.03006](http://arxiv.org/abs/2408.03006)|**[link](https://github.com/kyrieye/MM-2024)**|
 |**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
@@ -3061,10 +3081,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688](http://arxiv.org/abs/2408.10688)|null|
+|**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
+|**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688](http://arxiv.org/abs/2408.10688)|**[link](https://github.com/BBYL9413/TDS-CLIP)**|
 |**2024-08-20**|**DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba**|Shuning Xu et.al.|[2408.10679](http://arxiv.org/abs/2408.10679)|null|
 |**2024-08-20**|**Rethinking Video Segmentation with Masked Video Consistency: Did the Model Learn as Intended?**|Chen Liang et.al.|[2408.10627](http://arxiv.org/abs/2408.10627)|null|
-|**2024-08-19**|**Uncertainty Quantification of Pre-Trained and Fine-Tuned Surrogate Models using Conformal Prediction**|Vignesh Gopakumar et.al.|[2408.09881](http://arxiv.org/abs/2408.09881)|null|
+|**2024-08-19**|**Uncertainty Quantification of Pre-Trained and Fine-Tuned Surrogate Models using Conformal Prediction**|Vignesh Gopakumar et.al.|[2408.09881](http://arxiv.org/abs/2408.09881)|**[link](https://github.com/gitvicky/spatio-temporal-uq)**|
 |**2024-08-14**|**Limit Theorems for Weakly Dependent Non-stationary Random Field Arrays and Asymptotic Inference of Dynamic Spatio-temporal Models**|Yue Pan et.al.|[2408.07429](http://arxiv.org/abs/2408.07429)|null|
 |**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
 |**2024-08-12**|**Spacetime $E(n)$ -Transformer: Equivariant Attention for Spatio-temporal Graphs**|Sergio G. Charles et.al.|[2408.06039](http://arxiv.org/abs/2408.06039)|null|
