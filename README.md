@@ -119,7 +119,7 @@
 |**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
 |**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
 |**2024-08-22**|**Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code**|Mahdi Kazemi et.al.|[2408.12416](http://arxiv.org/abs/2408.12416)|null|
-|**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|null|
+|**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|**[link](https://github.com/usagisukisuki/g-sam)**|
 |**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$ NN-LMs**|Shangyi Geng et.al.|[2408.11815](http://arxiv.org/abs/2408.11815)|**[link](https://github.com/gsyfate/knnlm-limits)**|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
