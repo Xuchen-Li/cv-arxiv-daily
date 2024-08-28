@@ -93,6 +93,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232](http://arxiv.org/abs/2408.15232)|null|
+|**2024-08-27**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
+|**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|null|
+|**2024-08-27**|**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**|Jian Hu et.al.|[2408.15205](http://arxiv.org/abs/2408.15205)|null|
+|**2024-08-27**|**Can Unconfident LLM Annotations Be Used for Confident Conclusions?**|Kristina Gligorić et.al.|[2408.15204](http://arxiv.org/abs/2408.15204)|null|
+|**2024-08-27**|**Infusing Acoustic Pause Context into Text-Based Dementia Assessment**|Franziska Braun et.al.|[2408.15188](http://arxiv.org/abs/2408.15188)|null|
+|**2024-08-27**|**Unlocking Potential in Pre-Trained Music Language Models for Versatile Multi-Track Music Arrangement**|Longshen Ou et.al.|[2408.15176](http://arxiv.org/abs/2408.15176)|null|
+|**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
+|**2024-08-27**|**Measuring text summarization factuality using atomic facts entailment metrics in the context of retrieval augmented generation**|N. E. Kriman et.al.|[2408.15171](http://arxiv.org/abs/2408.15171)|null|
+|**2024-08-27**|**How transformers learn structured data: insights from hierarchical filtering**|Jerome Garnier-Brun et.al.|[2408.15138](http://arxiv.org/abs/2408.15138)|null|
+|**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
+|**2024-08-27**|**Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models**|Xiyu Liu et.al.|[2408.15091](http://arxiv.org/abs/2408.15091)|null|
+|**2024-08-27**|**BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline**|Guosheng Dong et.al.|[2408.15079](http://arxiv.org/abs/2408.15079)|null|
+|**2024-08-27**|**Constraining Participation: Affordances of Feedback Features in Interfaces to Large Language Models**|Ned Cooper et.al.|[2408.15066](http://arxiv.org/abs/2408.15066)|null|
+|**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
+|**2024-08-27**|**DocLayLLM: An Efficient and Effective Multi-modal Extension of Large Language Models for Text-rich Document Understanding**|Wenhui Liao et.al.|[2408.15045](http://arxiv.org/abs/2408.15045)|null|
+|**2024-08-27**|**A Survey of Large Language Models for European Languages**|Wazir Ali et.al.|[2408.15040](http://arxiv.org/abs/2408.15040)|null|
+|**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
 |**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
@@ -2864,6 +2884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
+|**2024-08-27**|**Sec2Sec Co-attention for Video-Based Apparent Affective Prediction**|Mingwei Sun et.al.|[2408.15209](http://arxiv.org/abs/2408.15209)|null|
 |**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
 |**2024-08-26**|**Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2408.14441](http://arxiv.org/abs/2408.14441)|null|
 |**2024-08-26**|**Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos**|Jiajun Fei et.al.|[2408.14023](http://arxiv.org/abs/2408.14023)|**[link](https://github.com/qq-mm/video-ccam)**|
@@ -3128,6 +3150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
 |**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082](http://arxiv.org/abs/2408.13082)|**[link](https://github.com/ljj-cyber/topogdn)**|
 |**2024-08-23**|**Animal Identification with Independent Foreground and Background Modeling**|Lukas Picek et.al.|[2408.12930](http://arxiv.org/abs/2408.12930)|null|
 |**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
