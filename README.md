@@ -113,7 +113,7 @@
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
 |**2024-08-28**|**Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts**|Nikolas Gritsch et.al.|[2408.15901](http://arxiv.org/abs/2408.15901)|null|
 |**2024-08-28**|**Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models**|Sebastian Vallejo Vera et.al.|[2408.15895](http://arxiv.org/abs/2408.15895)|null|
-|**2024-08-28**|**LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**|Fangxun Shu et.al.|[2408.15881](http://arxiv.org/abs/2408.15881)|null|
+|**2024-08-28**|**LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**|Fangxun Shu et.al.|[2408.15881](http://arxiv.org/abs/2408.15881)|**[link](https://github.com/shufangxun/llava-mod)**|
 |**2024-08-28**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879](http://arxiv.org/abs/2408.15879)|null|
 |**2024-08-28**|**Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection**|Sagar Srinivas Sakhinana et.al.|[2408.15866](http://arxiv.org/abs/2408.15866)|null|
 |**2024-08-28**|**Benchmarking foundation models as feature extractors for weakly-supervised computational pathology**|Peter Neidlinger et.al.|[2408.15823](http://arxiv.org/abs/2408.15823)|null|
