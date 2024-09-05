@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-03**|**Ultra-broadband room-temperature Fourier transform spectrometer with watt-level power consumption**|Jakub Mnich et.al.|[2409.01875](http://arxiv.org/abs/2409.01875)|null|
 |**2024-08-25**|**Camouflaged_Object_Tracking__A_Benchmark**|Xiaoyu Guo et.al.|[2408.13877](http://arxiv.org/abs/2408.13877)|null|
 |**2024-08-21**|**Low-Light Object Tracking: A Benchmark**|Pengzhi Zhong et.al.|[2408.11463](http://arxiv.org/abs/2408.11463)|null|
 |**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
@@ -93,6 +94,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently**|Jonathan Zalach et.al.|[2409.02885](http://arxiv.org/abs/2409.02885)|null|
+|**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Historical German Text Normalization Using Type- and Token-Based Language Modeling**|Anton Ehrmanntraut et.al.|[2409.02841](http://arxiv.org/abs/2409.02841)|null|
+|**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836](http://arxiv.org/abs/2409.02836)|null|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
+|**2024-09-04**|**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**|Xing Lan et.al.|[2409.02828](http://arxiv.org/abs/2409.02828)|null|
+|**2024-09-04**|**Design Contradictions: Help or Hindrance?**|Aron E. Owen et.al.|[2409.02823](http://arxiv.org/abs/2409.02823)|null|
+|**2024-09-04**|**Language Understanding as a Constraint on Consensus Size in LLM Societies**|Giordano De Marzo et.al.|[2409.02822](http://arxiv.org/abs/2409.02822)|null|
+|**2024-09-04**|**Towards a Unified View of Preference Learning for Large Language Models: A Survey**|Bofei Gao et.al.|[2409.02795](http://arxiv.org/abs/2409.02795)|null|
+|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727](http://arxiv.org/abs/2409.02727)|**[link](https://github.com/yixuantt/poolingandattn)**|
+|**2024-09-04**|**Pre-training data selection for biomedical domain adaptation using journal impact metrics**|Mathieu Laï-king et.al.|[2409.02725](http://arxiv.org/abs/2409.02725)|null|
+|**2024-09-04**|**Alignment-Aware Model Extraction Attacks on Large Language Models**|Zi Liang et.al.|[2409.02718](http://arxiv.org/abs/2409.02718)|null|
+|**2024-09-04**|**Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for PostNL**|Mohammad Reshadati et.al.|[2409.02711](http://arxiv.org/abs/2409.02711)|null|
+|**2024-09-04**|**LLM-Assisted Visual Analytics: Opportunities and Challenges**|Maeve Hutchinson et.al.|[2409.02691](http://arxiv.org/abs/2409.02691)|null|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437](http://arxiv.org/abs/2408.17437)|**[link](https://github.com/loreley99/syntheval_checklist)**|
 |**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](http://arxiv.org/abs/2408.17433)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
@@ -2944,6 +2965,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-03**|**A Novel Audio-Visual Information Fusion System for Mental Disorders Detection**|Yichun Li et.al.|[2409.02243](http://arxiv.org/abs/2409.02243)|null|
+|**2024-09-02**|**VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges**|Yuxuan Wang et.al.|[2409.01071](http://arxiv.org/abs/2409.01071)|null|
+|**2024-08-31**|**Streamlining Forest Wildfire Surveillance: AI-Enhanced UAVs Utilizing the FLAME Aerial Video Dataset for Lightweight and Efficient Monitoring**|Lemeng Zhao et.al.|[2409.00510](http://arxiv.org/abs/2409.00510)|null|
+|**2024-08-31**|**StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models**|Yuxiang Guo et.al.|[2409.00304](http://arxiv.org/abs/2409.00304)|null|
 |**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443](http://arxiv.org/abs/2408.17443)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-29**|**CogVLM2: Visual Language Models for Image and Video Understanding**|Wenyi Hong et.al.|[2408.16500](http://arxiv.org/abs/2408.16500)|**[link](https://github.com/thudm/cogvlm2)**|
 |**2024-08-29**|**DLM-VMTL:A Double Layer Mapper for heterogeneous data video Multi-task prompt learning**|Zeyi Bo et.al.|[2408.16195](http://arxiv.org/abs/2408.16195)|null|
@@ -3215,6 +3241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-01**|**Searching for MeV-scale Axion-like Particles and Dark Photons with PandaX-4T**|PandaX Collaboration et.al.|[2409.00773](http://arxiv.org/abs/2409.00773)|null|
 |**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
 |**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082](http://arxiv.org/abs/2408.13082)|**[link](https://github.com/ljj-cyber/topogdn)**|
 |**2024-08-23**|**Animal Identification with Independent Foreground and Background Modeling**|Lukas Picek et.al.|[2408.12930](http://arxiv.org/abs/2408.12930)|null|
