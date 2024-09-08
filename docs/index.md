@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.07
+## Updated on 2024.09.08
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
