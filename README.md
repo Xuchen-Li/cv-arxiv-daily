@@ -104,6 +104,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404](http://arxiv.org/abs/2409.11404)|null|
+|**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402](http://arxiv.org/abs/2409.11402)|null|
+|**2024-09-17**|**Says Who? Effective Zero-Shot Annotation of Focalization**|Rebecca M. M. Hicke et.al.|[2409.11390](http://arxiv.org/abs/2409.11390)|null|
+|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|null|
+|**2024-09-17**|**Towards Time Series Reasoning with LLMs**|Winnie Chow et.al.|[2409.11376](http://arxiv.org/abs/2409.11376)|null|
+|**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
+|**2024-09-17**|**Learning Spatially-Aware Language and Audio Embedding**|Bhavika Devnani et.al.|[2409.11369](http://arxiv.org/abs/2409.11369)|null|
+|**2024-09-17**|**CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration**|Jiahui Gao et.al.|[2409.11365](http://arxiv.org/abs/2409.11365)|null|
+|**2024-09-17**|**CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**|Zachary S. Siegel et.al.|[2409.11363](http://arxiv.org/abs/2409.11363)|**[link](https://github.com/siegelz/core-bench)**|
+|**2024-09-17**|**AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances**|Dhruv Agarwal et.al.|[2409.11360](http://arxiv.org/abs/2409.11360)|null|
+|**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
+|**2024-09-17**|**SOAP: Improving and Stabilizing Shampoo using Adam**|Nikhil Vyas et.al.|[2409.11321](http://arxiv.org/abs/2409.11321)|**[link](https://github.com/nikhilvyas/soap)**|
+|**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
+|**2024-09-17**|**Leveraging Distillation Techniques for Document Understanding: A Case Study with FLAN-T5**|Marcel Lamott et.al.|[2409.11282](http://arxiv.org/abs/2409.11282)|null|
+|**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279](http://arxiv.org/abs/2409.11279)|null|
+|**2024-09-17**|**Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments**|Maria Rigaki et.al.|[2409.11276](http://arxiv.org/abs/2409.11276)|null|
+|**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
+|**2024-09-17**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|null|
+|**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
 |**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
 |**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504](http://arxiv.org/abs/2409.10504)|null|
@@ -3137,6 +3157,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**AMEGO: Active Memory from long EGOcentric videos**|Gabriele Goletto et.al.|[2409.10917](http://arxiv.org/abs/2409.10917)|null|
+|**2024-09-16**|**HAVANA: Hierarchical stochastic neighbor embedding for Accelerated Video ANnotAtions**|Alexandru Bobe et.al.|[2409.10641](http://arxiv.org/abs/2409.10641)|null|
+|**2024-09-16**|**SoccerNet 2024 Challenges Results**|Anthony Cioppa et.al.|[2409.10587](http://arxiv.org/abs/2409.10587)|null|
 |**2024-09-14**|**QTG-VQA: Question-Type-Guided Architectural for VideoQA Systems**|Zhixian He et.al.|[2409.09348](http://arxiv.org/abs/2409.09348)|null|
 |**2024-09-12**|**Top-down Activity Representation Learning for Video Question Answering**|Yanan Wang et.al.|[2409.07748](http://arxiv.org/abs/2409.07748)|null|
 |**2024-09-12**|**Multi-object event graph representation learning for Video Question Answering**|Yanan Wang et.al.|[2409.07747](http://arxiv.org/abs/2409.07747)|null|
@@ -3426,7 +3449,7 @@
 |**2024-09-08**|**Estimating velocities of infectious disease spread through spatio-temporal log-Gaussian Cox point processes**|Fernando Rodriguez Avellaneda et.al.|[2409.05036](http://arxiv.org/abs/2409.05036)|null|
 |**2024-09-05**|**TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations**|Mingze Gao et.al.|[2409.03206](http://arxiv.org/abs/2409.03206)|null|
 |**2024-09-01**|**Searching for MeV-scale Axion-like Particles and Dark Photons with PandaX-4T**|PandaX Collaboration et.al.|[2409.00773](http://arxiv.org/abs/2409.00773)|null|
-|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
+|**2024-09-17**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
 |**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082](http://arxiv.org/abs/2408.13082)|**[link](https://github.com/ljj-cyber/topogdn)**|
 |**2024-08-23**|**Animal Identification with Independent Foreground and Background Modeling**|Lukas Picek et.al.|[2408.12930](http://arxiv.org/abs/2408.12930)|null|
 |**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
