@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -110,7 +110,7 @@ layout: default
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-16**|**A Large-Scale Privacy Assessment of Android Third-Party SDKs**|Mark Huasong Meng et.al.|[2409.10411](http://arxiv.org/abs/2409.10411)|null|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
-|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
+|**2024-09-17**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-16**|**The 20 questions game to distinguish large language models**|Gurvan Richardeau et.al.|[2409.10338](http://arxiv.org/abs/2409.10338)|null|
 |**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
