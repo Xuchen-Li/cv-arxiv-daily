@@ -3171,7 +3171,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**AMEGO: Active Memory from long EGOcentric videos**|Gabriele Goletto et.al.|[2409.10917](http://arxiv.org/abs/2409.10917)|null|
 |**2024-09-16**|**HAVANA: Hierarchical stochastic neighbor embedding for Accelerated Video ANnotAtions**|Alexandru Bobe et.al.|[2409.10641](http://arxiv.org/abs/2409.10641)|null|
-|**2024-09-16**|**SoccerNet 2024 Challenges Results**|Anthony Cioppa et.al.|[2409.10587](http://arxiv.org/abs/2409.10587)|null|
+|**2024-09-16**|**SoccerNet 2024 Challenges Results**|Anthony Cioppa et.al.|[2409.10587](http://arxiv.org/abs/2409.10587)|**[link](https://github.com/csjihwanh/soccernet-mlv)**|
 |**2024-09-14**|**QTG-VQA: Question-Type-Guided Architectural for VideoQA Systems**|Zhixian He et.al.|[2409.09348](http://arxiv.org/abs/2409.09348)|null|
 |**2024-09-12**|**Top-down Activity Representation Learning for Video Question Answering**|Yanan Wang et.al.|[2409.07748](http://arxiv.org/abs/2409.07748)|null|
 |**2024-09-12**|**Multi-object event graph representation learning for Video Question Answering**|Yanan Wang et.al.|[2409.07747](http://arxiv.org/abs/2409.07747)|null|
