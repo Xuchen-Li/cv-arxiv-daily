@@ -1,4 +1,4 @@
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -100,13 +100,13 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-19**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
 |**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
@@ -3173,7 +3173,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -3194,7 +3194,7 @@
 |**2024-09-02**|**VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges**|Yuxuan Wang et.al.|[2409.01071](http://arxiv.org/abs/2409.01071)|null|
 |**2024-08-31**|**Streamlining Forest Wildfire Surveillance: AI-Enhanced UAVs Utilizing the FLAME Aerial Video Dataset for Lightweight and Efficient Monitoring**|Lemeng Zhao et.al.|[2409.00510](http://arxiv.org/abs/2409.00510)|null|
 |**2024-08-31**|**StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models**|Yuxiang Guo et.al.|[2409.00304](http://arxiv.org/abs/2409.00304)|null|
-|**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443](http://arxiv.org/abs/2408.17443)|**[link](https://github.com/joslefaure/HERMES)**|
+|**2024-09-20**|**HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics**|Gueter Josmy Faure et.al.|[2408.17443](http://arxiv.org/abs/2408.17443)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-29**|**CogVLM2: Visual Language Models for Image and Video Understanding**|Wenyi Hong et.al.|[2408.16500](http://arxiv.org/abs/2408.16500)|**[link](https://github.com/thudm/cogvlm2)**|
 |**2024-08-29**|**DLM-VMTL:A Double Layer Mapper for heterogeneous data video Multi-task prompt learning**|Zeyi Bo et.al.|[2408.16195](http://arxiv.org/abs/2408.16195)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
@@ -3461,7 +3461,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -3564,5 +3564,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 

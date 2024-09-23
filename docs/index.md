@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -98,7 +98,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-19**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
 |**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
@@ -3184,7 +3184,7 @@ layout: default
 |**2024-09-02**|**VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges**|Yuxuan Wang et.al.|[2409.01071](http://arxiv.org/abs/2409.01071)|null|
 |**2024-08-31**|**Streamlining Forest Wildfire Surveillance: AI-Enhanced UAVs Utilizing the FLAME Aerial Video Dataset for Lightweight and Efficient Monitoring**|Lemeng Zhao et.al.|[2409.00510](http://arxiv.org/abs/2409.00510)|null|
 |**2024-08-31**|**StimuVAR: Spatiotemporal Stimuli-aware Video Affective Reasoning with Multimodal Large Language Models**|Yuxiang Guo et.al.|[2409.00304](http://arxiv.org/abs/2409.00304)|null|
-|**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443](http://arxiv.org/abs/2408.17443)|**[link](https://github.com/joslefaure/HERMES)**|
+|**2024-09-20**|**HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics**|Gueter Josmy Faure et.al.|[2408.17443](http://arxiv.org/abs/2408.17443)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-29**|**CogVLM2: Visual Language Models for Image and Video Understanding**|Wenyi Hong et.al.|[2408.16500](http://arxiv.org/abs/2408.16500)|**[link](https://github.com/thudm/cogvlm2)**|
 |**2024-08-29**|**DLM-VMTL:A Double Layer Mapper for heterogeneous data video Multi-task prompt learning**|Zeyi Bo et.al.|[2408.16195](http://arxiv.org/abs/2408.16195)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
