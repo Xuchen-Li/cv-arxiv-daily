@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -118,7 +118,7 @@ layout: default
 |**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
 |**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
 |**2024-09-25**|**Models Can and Should Embrace the Communicative Nature of Human-Generated Math**|Sasha Boguraev et.al.|[2409.17005](http://arxiv.org/abs/2409.17005)|null|
-|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
+|**2024-09-26**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
 |**2024-09-25**|**Harnessing Diversity for Important Data Selection in Pretraining Large Language Models**|Chi Zhang et.al.|[2409.16986](http://arxiv.org/abs/2409.16986)|null|
 |**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984](http://arxiv.org/abs/2409.16984)|null|
 |**2024-09-25**|**Decoding Large-Language Models: A Systematic Overview of Socio-Technical Impacts, Constraints, and Emerging Questions**|Zeyneb N. Kaya et.al.|[2409.16974](http://arxiv.org/abs/2409.16974)|null|
