@@ -1,4 +1,4 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|null|
 |**2024-09-26**|**General Compression Framework for Efficient Transformer Object Tracking**|Lingyi Hong et.al.|[2409.17564](http://arxiv.org/abs/2409.17564)|null|
 |**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-09-25**|**Conditional Generative Denoiser for Nighttime UAV Tracking**|Yucheng Wang et.al.|[2409.16834](http://arxiv.org/abs/2409.16834)|null|
@@ -105,12 +106,32 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|null|
+|**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
+|**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938](http://arxiv.org/abs/2409.18938)|null|
+|**2024-09-27**|**Social Media Bot Policies: Evaluating Passive and Active Enforcement**|Kristina Radivojevic et.al.|[2409.18931](http://arxiv.org/abs/2409.18931)|null|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
+|**2024-09-27**|**Soft Measures for Extracting Causal Collective Intelligence**|Maryam Berijanian et.al.|[2409.18911](http://arxiv.org/abs/2409.18911)|null|
+|**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|null|
+|**2024-09-27**|**IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation**|Fan Lin et.al.|[2409.18892](http://arxiv.org/abs/2409.18892)|null|
+|**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878](http://arxiv.org/abs/2409.18878)|null|
+|**2024-09-27**|**Predicting and analyzing memorization within fine-tuned Large Language Models**|Jérémie Dentan et.al.|[2409.18858](http://arxiv.org/abs/2409.18858)|null|
+|**2024-09-27**|**Mitigating Selection Bias with Node Pruning and Auxiliary Options**|Hyeong Kyu Choi et.al.|[2409.18857](http://arxiv.org/abs/2409.18857)|null|
+|**2024-09-27**|**LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis**|Hamed Babaei Giglou et.al.|[2409.18812](http://arxiv.org/abs/2409.18812)|null|
+|**2024-09-27**|**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**|Yanyuan Qiao et.al.|[2409.18794](http://arxiv.org/abs/2409.18794)|null|
+|**2024-09-27**|**A Survey on the Honesty of Large Language Models**|Siheng Li et.al.|[2409.18786](http://arxiv.org/abs/2409.18786)|**[link](https://github.com/sihengli99/llm-honesty-survey)**|
+|**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
+|**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743](http://arxiv.org/abs/2409.18743)|null|
+|**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|null|
+|**2024-09-27**|**Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity**|Sergey Berezin et.al.|[2409.18708](http://arxiv.org/abs/2409.18708)|null|
+|**2024-09-27**|**Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models**|Yiming Chen et.al.|[2409.18680](http://arxiv.org/abs/2409.18680)|null|
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119](http://arxiv.org/abs/2409.18119)|null|
@@ -3238,12 +3259,14 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Video Understanding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938](http://arxiv.org/abs/2409.18938)|null|
+|**2024-09-27**|**Temporal2Seq: A Unified Framework for Temporal Video Understanding Tasks**|Min Yang et.al.|[2409.18478](http://arxiv.org/abs/2409.18478)|null|
 |**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|**[link](https://github.com/PolyU-ChenLab/ETBench)**|
 |**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|null|
 |**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987](http://arxiv.org/abs/2409.17987)|null|
@@ -3537,7 +3560,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -3645,5 +3668,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
