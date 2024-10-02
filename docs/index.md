@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -115,7 +115,7 @@ layout: default
 |**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
 |**2024-09-30**|**A Weakly Supervised Data Labeling Framework for Machine Lexical Normalization in Vietnamese Social Media**|Dung Ha Nguyen et.al.|[2409.20467](http://arxiv.org/abs/2409.20467)|null|
 |**2024-09-30**|**Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments**|Mohamed Elnoor et.al.|[2409.20445](http://arxiv.org/abs/2409.20445)|null|
-|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
+|**2024-10-01**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
 |**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429](http://arxiv.org/abs/2409.20429)|null|
 |**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424](http://arxiv.org/abs/2409.20424)|null|
 |**2024-09-30**|**Anti-stereotypical Predictive Text Suggestions Do Not Reliably Yield Anti-stereotypical Writing**|Connor Baumler et.al.|[2409.20390](http://arxiv.org/abs/2409.20390)|null|
