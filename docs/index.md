@@ -106,6 +106,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
+|**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
+|**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
+|**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
+|**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
+|**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|null|
+|**2024-10-04**|**TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**|Jonathan Cook et.al.|[2410.03608](http://arxiv.org/abs/2410.03608)|null|
+|**2024-10-04**|**LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos**|Noriaki Hirose et.al.|[2410.03603](http://arxiv.org/abs/2410.03603)|null|
+|**2024-10-04**|**Efficiently Identifying Watermarked Segments in Mixed-Source Texts**|Xuandong Zhao et.al.|[2410.03600](http://arxiv.org/abs/2410.03600)|null|
+|**2024-10-04**|**Understanding Reasoning in Chain-of-Thought from the Hopfieldian View**|Lijie Hu et.al.|[2410.03595](http://arxiv.org/abs/2410.03595)|null|
+|**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
+|**2024-10-04**|**Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)**|Abrar Rahman et.al.|[2410.03568](http://arxiv.org/abs/2410.03568)|null|
+|**2024-10-04**|**Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding**|Wei Wu et.al.|[2410.03553](http://arxiv.org/abs/2410.03553)|null|
+|**2024-10-04**|**Re-examining Sexism and Misogyny Classification with Annotator Attitudes**|Aiqi Jiang et.al.|[2410.03543](http://arxiv.org/abs/2410.03543)|null|
+|**2024-10-04**|**No Need to Talk: Asynchronous Mixture of Language Models**|Anastasiia Filippova et.al.|[2410.03529](http://arxiv.org/abs/2410.03529)|null|
+|**2024-10-04**|**Steering Large Language Models between Code Execution and Textual Reasoning**|Yongchao Chen et.al.|[2410.03524](http://arxiv.org/abs/2410.03524)|null|
+|**2024-10-04**|**A Probabilistic Perspective on Unlearning and Alignment for Large Language Models**|Yan Scholten et.al.|[2410.03523](http://arxiv.org/abs/2410.03523)|null|
+|**2024-10-04**|**CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios**|Zetian Ouyang et.al.|[2410.03502](http://arxiv.org/abs/2410.03502)|null|
+|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|**[link](https://github.com/sunnyinAI/FedStein)**|
+|**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
 |**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
 |**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761](http://arxiv.org/abs/2410.02761)|null|
 |**2024-10-03**|**Erasing Conceptual Knowledge from Language Models**|Rohit Gandikota et.al.|[2410.02760](http://arxiv.org/abs/2410.02760)|**[link](https://github.com/rohitgandikota/erasing-llm)**|
@@ -3317,6 +3337,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models**|Haibo Wang et.al.|[2410.03290](http://arxiv.org/abs/2410.03290)|**[link](https://github.com/whb139426/grounded-video-llm)**|
+|**2024-10-04**|**Frame-Voyager: Learning to Query Frames for Video Large Language Models**|Sicheng Yu et.al.|[2410.03226](http://arxiv.org/abs/2410.03226)|null|
+|**2024-10-04**|**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**|Wenhao Chai et.al.|[2410.03051](http://arxiv.org/abs/2410.03051)|null|
+|**2024-10-03**|**AirLetters: An Open Video Dataset of Characters Drawn in the Air**|Rishit Dagli et.al.|[2410.02921](http://arxiv.org/abs/2410.02921)|null|
+|**2024-10-01**|**YouTube Video Analytics for Patient Engagement: Evidence from Colonoscopy Preparation Videos**|Yawen Guo et.al.|[2410.02830](http://arxiv.org/abs/2410.02830)|null|
 |**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763](http://arxiv.org/abs/2410.02763)|null|
 |**2024-10-03**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
 |**2024-10-02**|**Deep learning for action spotting in association football videos**|Silvio Giancola et.al.|[2410.01304](http://arxiv.org/abs/2410.01304)|null|
@@ -3627,6 +3652,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models**|Haibo Wang et.al.|[2410.03290](http://arxiv.org/abs/2410.03290)|**[link](https://github.com/whb139426/grounded-video-llm)**|
+|**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160](http://arxiv.org/abs/2410.03160)|**[link](https://github.com/yaofang-liu/fvdm)**|
+|**2024-10-04**|**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**|Wenhao Chai et.al.|[2410.03051](http://arxiv.org/abs/2410.03051)|null|
+|**2024-10-03**|**A Spatio-Temporal Machine Learning Model for Mortgage Credit Risk: Default Probabilities and Loan Portfolios**|Pascal Kündig et.al.|[2410.02846](http://arxiv.org/abs/2410.02846)|null|
 |**2024-09-30**|**Masked Autoregressive Model for Weather Forecasting**|Doyi Kim et.al.|[2409.20117](http://arxiv.org/abs/2409.20117)|null|
 |**2024-09-30**|**SurgPETL: Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition**|Shu Yang et.al.|[2409.20083](http://arxiv.org/abs/2409.20083)|null|
 |**2024-09-29**|**PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond**|Chen Song et.al.|[2409.19772](http://arxiv.org/abs/2409.19772)|null|
