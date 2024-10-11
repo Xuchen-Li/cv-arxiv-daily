@@ -114,6 +114,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
+|**2024-10-10**|**Adam Exploits $\ell_\infty$ -geometry of Loss Landscape via Coordinate-wise Adaptivity**|Shuo Xie et.al.|[2410.08198](http://arxiv.org/abs/2410.08198)|null|
+|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|null|
+|**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
+|**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194](http://arxiv.org/abs/2410.08194)|null|
+|**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
+|**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
+|**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
+|**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172](http://arxiv.org/abs/2410.08172)|null|
+|**2024-10-10**|**Visual Scratchpads: Enabling Global Reasoning in Vision**|Aryo Lotfi et.al.|[2410.08165](http://arxiv.org/abs/2410.08165)|null|
+|**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
+|**2024-10-10**|**The Effect of Surprisal on Reading Times in Information Seeking and Repeated Reading**|Keren Gruteke Klein et.al.|[2410.08162](http://arxiv.org/abs/2410.08162)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**|Amrith Setlur et.al.|[2410.08146](http://arxiv.org/abs/2410.08146)|null|
+|**2024-10-10**|**Insight Over Sight? Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**|Xiaoyuan Liu et.al.|[2410.08145](http://arxiv.org/abs/2410.08145)|null|
+|**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
+|**2024-10-10**|**Mars: Situated Inductive Reasoning in an Open-World Environment**|Xiaojuan Tang et.al.|[2410.08126](http://arxiv.org/abs/2410.08126)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176](http://arxiv.org/abs/2410.07176)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
@@ -3387,6 +3407,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
+|**2024-10-10**|**Scaling Up Your Kernels: Large Kernel Design in ConvNets towards Universal Representations**|Yiyuan Zhang et.al.|[2410.08049](http://arxiv.org/abs/2410.08049)|**[link](https://github.com/ailab-cvc/unireplknet)**|
+|**2024-10-10**|**TVBench: Redesigning Video-Language Evaluation**|Daniel Cores et.al.|[2410.07752](http://arxiv.org/abs/2410.07752)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
 |**2024-10-08**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
