@@ -1,4 +1,4 @@
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -108,7 +108,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -3401,7 +3401,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -3411,8 +3411,8 @@
 |**2024-10-10**|**Scaling Up Your Kernels: Large Kernel Design in ConvNets towards Universal Representations**|Yiyuan Zhang et.al.|[2410.08049](http://arxiv.org/abs/2410.08049)|**[link](https://github.com/ailab-cvc/unireplknet)**|
 |**2024-10-10**|**TVBench: Redesigning Video-Language Evaluation**|Daniel Cores et.al.|[2410.07752](http://arxiv.org/abs/2410.07752)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
-|**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
-|**2024-10-08**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
+|**2024-10-11**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
+|**2024-10-10**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
 |**2024-10-08**|**Enhancing Temporal Modeling of Video LLMs via Time Gating**|Zi-Yuan Hu et.al.|[2410.05714](http://arxiv.org/abs/2410.05714)|**[link](https://github.com/lavi-lab/tg-vid)**|
 |**2024-10-08**|**TRACE: Temporal Grounding Video LLM via Causal Event Modeling**|Yongxin Guo et.al.|[2410.05643](http://arxiv.org/abs/2410.05643)|**[link](https://github.com/gyxxyg/trace)**|
 |**2024-10-09**|**SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference**|Yuan Zhang et.al.|[2410.04417](http://arxiv.org/abs/2410.04417)|**[link](https://github.com/gumpest/sparsevlms)**|
@@ -3728,7 +3728,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -3845,5 +3845,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3401,8 +3401,8 @@ layout: default
 |**2024-10-10**|**Scaling Up Your Kernels: Large Kernel Design in ConvNets towards Universal Representations**|Yiyuan Zhang et.al.|[2410.08049](http://arxiv.org/abs/2410.08049)|**[link](https://github.com/ailab-cvc/unireplknet)**|
 |**2024-10-10**|**TVBench: Redesigning Video-Language Evaluation**|Daniel Cores et.al.|[2410.07752](http://arxiv.org/abs/2410.07752)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
-|**2024-10-09**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
-|**2024-10-08**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
+|**2024-10-11**|**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**|Changli Tang et.al.|[2410.06682](http://arxiv.org/abs/2410.06682)|null|
+|**2024-10-10**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
 |**2024-10-08**|**Enhancing Temporal Modeling of Video LLMs via Time Gating**|Zi-Yuan Hu et.al.|[2410.05714](http://arxiv.org/abs/2410.05714)|**[link](https://github.com/lavi-lab/tg-vid)**|
 |**2024-10-08**|**TRACE: Temporal Grounding Video LLM via Causal Event Modeling**|Yongxin Guo et.al.|[2410.05643](http://arxiv.org/abs/2410.05643)|**[link](https://github.com/gyxxyg/trace)**|
 |**2024-10-09**|**SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference**|Yuan Zhang et.al.|[2410.04417](http://arxiv.org/abs/2410.04417)|**[link](https://github.com/gumpest/sparsevlms)**|
