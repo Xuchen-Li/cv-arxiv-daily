@@ -1,4 +1,4 @@
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -109,7 +109,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -3462,7 +3462,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -3474,7 +3474,7 @@
 |**2024-10-15**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816](http://arxiv.org/abs/2410.10816)|**[link](https://github.com/silentview/lvd-2m)**|
 |**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589](http://arxiv.org/abs/2410.10589)|null|
-|**2024-10-14**|**Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs**|Kai Han et.al.|[2410.10441](http://arxiv.org/abs/2410.10441)|**[link](https://github.com/contrastive/freevideollm)**|
+|**2024-10-16**|**Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs**|Kai Han et.al.|[2410.10441](http://arxiv.org/abs/2410.10441)|**[link](https://github.com/contrastive/freevideollm)**|
 |**2024-10-13**|**ViFi-ReID: A Two-Stream Vision-WiFi Multimodal Approach for Person Re-identification**|Chen Mao et.al.|[2410.09875](http://arxiv.org/abs/2410.09875)|null|
 |**2024-10-13**|**MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**|Hang Hua et.al.|[2410.09733](http://arxiv.org/abs/2410.09733)|null|
 |**2024-10-12**|**Prompting Video-Language Foundation Models with Domain-specific Fine-grained Heuristics for Video Question Answering**|Ting Yu et.al.|[2410.09380](http://arxiv.org/abs/2410.09380)|null|
@@ -3801,7 +3801,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -3919,5 +3919,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 

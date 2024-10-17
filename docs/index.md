@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3464,7 +3464,7 @@ layout: default
 |**2024-10-15**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816](http://arxiv.org/abs/2410.10816)|**[link](https://github.com/silentview/lvd-2m)**|
 |**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589](http://arxiv.org/abs/2410.10589)|null|
-|**2024-10-14**|**Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs**|Kai Han et.al.|[2410.10441](http://arxiv.org/abs/2410.10441)|**[link](https://github.com/contrastive/freevideollm)**|
+|**2024-10-16**|**Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs**|Kai Han et.al.|[2410.10441](http://arxiv.org/abs/2410.10441)|**[link](https://github.com/contrastive/freevideollm)**|
 |**2024-10-13**|**ViFi-ReID: A Two-Stream Vision-WiFi Multimodal Approach for Person Re-identification**|Chen Mao et.al.|[2410.09875](http://arxiv.org/abs/2410.09875)|null|
 |**2024-10-13**|**MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**|Hang Hua et.al.|[2410.09733](http://arxiv.org/abs/2410.09733)|null|
 |**2024-10-12**|**Prompting Video-Language Foundation Models with Domain-specific Fine-grained Heuristics for Video Question Answering**|Ting Yu et.al.|[2410.09380](http://arxiv.org/abs/2410.09380)|null|
