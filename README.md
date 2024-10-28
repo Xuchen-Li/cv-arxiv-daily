@@ -116,6 +116,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**The Potential and Value of AI Chatbot in Personalized Cognitive Training**|Zilong Wang et.al.|[2410.19733](http://arxiv.org/abs/2410.19733)|null|
+|**2024-10-25**|**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2410.19732](http://arxiv.org/abs/2410.19732)|null|
+|**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730](http://arxiv.org/abs/2410.19730)|null|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
+|**2024-10-25**|**2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision**|Shilong Li et.al.|[2410.19720](http://arxiv.org/abs/2410.19720)|null|
+|**2024-10-25**|**Multi-view biomedical foundation models for molecule-target and property prediction**|Parthasarathy Suryanarayanan et.al.|[2410.19704](http://arxiv.org/abs/2410.19704)|null|
+|**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
+|**2024-10-25**|**IPPON: Common Sense Guided Informative Path Planning for Object Goal Navigation**|Kaixian Qu et.al.|[2410.19697](http://arxiv.org/abs/2410.19697)|null|
+|**2024-10-25**|**Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs**|Yifei Zhang et.al.|[2410.19694](http://arxiv.org/abs/2410.19694)|null|
+|**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
+|**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
+|**2024-10-25**|**Take Caution in Using LLMs as Human Surrogates: Scylla Ex Machina**|Yuan Gao et.al.|[2410.19599](http://arxiv.org/abs/2410.19599)|null|
+|**2024-10-25**|**Diverse Sign Language Translation**|Xin Shen et.al.|[2410.19586](http://arxiv.org/abs/2410.19586)|null|
+|**2024-10-25**|**ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems**|Ritvik Aggarwal Ishneet Sukhvinder Singh Ibrahim Allahverdiyev et.al.|[2410.19572](http://arxiv.org/abs/2410.19572)|null|
+|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
+|**2024-10-25**|**Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?**|Antonia Wüst et.al.|[2410.19546](http://arxiv.org/abs/2410.19546)|**[link](https://github.com/ml-research/bongard-in-wonderland)**|
+|**2024-10-25**|**Brain-like Functional Organization within Large Language Models**|H. Sun et.al.|[2410.19542](http://arxiv.org/abs/2410.19542)|null|
+|**2024-10-25**|**Detection of Human and Machine-Authored Fake News in Urdu**|Muhammad Zain Ali et.al.|[2410.19517](http://arxiv.org/abs/2410.19517)|null|
+|**2024-10-25**|**SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models**|Jahyun Koo et.al.|[2410.19503](http://arxiv.org/abs/2410.19503)|null|
+|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
 |**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
 |**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970](http://arxiv.org/abs/2410.18970)|null|
@@ -3609,6 +3629,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
+|**2024-10-24**|**VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks**|Lawrence Jang et.al.|[2410.19100](http://arxiv.org/abs/2410.19100)|null|
 |**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976](http://arxiv.org/abs/2410.18976)|**[link](https://github.com/mbzuai-oryx/CAMEL-Bench)**|
 |**2024-10-22**|**LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**|Xiaoqian Shen et.al.|[2410.17434](http://arxiv.org/abs/2410.17434)|**[link](https://github.com/Vision-CAIR/LongVU)**|
 |**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
@@ -3958,6 +3980,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**UbiHR: Resource-efficient Long-range Heart Rate Sensing on Ubiquitous Devices**|Haoyu Bian et.al.|[2410.19279](http://arxiv.org/abs/2410.19279)|null|
+|**2024-10-24**|**Classifying Bicycle Infrastructure Using On-Bike Street-Level Images**|Kal Backman et.al.|[2410.19194](http://arxiv.org/abs/2410.19194)|null|
 |**2024-10-24**|**Spatio-spectral-temporal Modelling of Two Young Pulsar Wind Nebulae**|A. Kundu et.al.|[2410.18386](http://arxiv.org/abs/2410.18386)|null|
 |**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
 |**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
