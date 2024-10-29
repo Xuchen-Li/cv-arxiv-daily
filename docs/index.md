@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3971,7 +3971,7 @@ layout: default
 |**2024-10-25**|**UbiHR: Resource-efficient Long-range Heart Rate Sensing on Ubiquitous Devices**|Haoyu Bian et.al.|[2410.19279](http://arxiv.org/abs/2410.19279)|null|
 |**2024-10-24**|**Classifying Bicycle Infrastructure Using On-Bike Street-Level Images**|Kal Backman et.al.|[2410.19194](http://arxiv.org/abs/2410.19194)|null|
 |**2024-10-24**|**Spatio-spectral-temporal Modelling of Two Young Pulsar Wind Nebulae**|A. Kundu et.al.|[2410.18386](http://arxiv.org/abs/2410.18386)|null|
-|**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
+|**2024-10-25**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
 |**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
 |**2024-10-21**|**Spectrum and location of ongoing extreme particle acceleration in Cassiopeia A**|Jooyun Woo et.al.|[2410.16522](http://arxiv.org/abs/2410.16522)|null|
 |**2024-10-18**|**Context-Enhanced Multi-View Trajectory Representation Learning: Bridging the Gap through Self-Supervised Models**|Tangwen Qian et.al.|[2410.13196](http://arxiv.org/abs/2410.13196)|null|

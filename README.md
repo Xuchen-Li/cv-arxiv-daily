@@ -1,4 +1,4 @@
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -110,7 +110,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -3623,7 +3623,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -3974,7 +3974,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -3983,7 +3983,7 @@
 |**2024-10-25**|**UbiHR: Resource-efficient Long-range Heart Rate Sensing on Ubiquitous Devices**|Haoyu Bian et.al.|[2410.19279](http://arxiv.org/abs/2410.19279)|null|
 |**2024-10-24**|**Classifying Bicycle Infrastructure Using On-Bike Street-Level Images**|Kal Backman et.al.|[2410.19194](http://arxiv.org/abs/2410.19194)|null|
 |**2024-10-24**|**Spatio-spectral-temporal Modelling of Two Young Pulsar Wind Nebulae**|A. Kundu et.al.|[2410.18386](http://arxiv.org/abs/2410.18386)|null|
-|**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
+|**2024-10-25**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
 |**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
 |**2024-10-21**|**Spectrum and location of ongoing extreme particle acceleration in Cassiopeia A**|Jooyun Woo et.al.|[2410.16522](http://arxiv.org/abs/2410.16522)|null|
 |**2024-10-18**|**Context-Enhanced Multi-View Trajectory Representation Learning: Bridging the Gap through Self-Supervised Models**|Tangwen Qian et.al.|[2410.13196](http://arxiv.org/abs/2410.13196)|null|
@@ -4099,5 +4099,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
