@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -123,7 +123,7 @@ layout: default
 |**2024-10-28**|**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**|Kaifeng Huang et.al.|[2410.21218](http://arxiv.org/abs/2410.21218)|null|
 |**2024-10-28**|**BongLLaMA: LLaMA for Bangla Language**|Abdullah Khan Zehady et.al.|[2410.21200](http://arxiv.org/abs/2410.21200)|null|
 |**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195](http://arxiv.org/abs/2410.21195)|null|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
+|**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-28**|**M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation**|Jiaheng Liu et.al.|[2410.21157](http://arxiv.org/abs/2410.21157)|null|
 |**2024-10-28**|**Palisade -- Prompt Injection Detection Framework**|Sahasra Kokkula et.al.|[2410.21146](http://arxiv.org/abs/2410.21146)|null|
 |**2024-10-28**|**LLM-initialized Differentiable Causal Discovery**|Shiv Kampani et.al.|[2410.21141](http://arxiv.org/abs/2410.21141)|null|
