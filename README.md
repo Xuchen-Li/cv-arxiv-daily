@@ -120,17 +120,17 @@
 |**2024-10-29**|**Local Policies Enable Zero-shot Long-horizon Manipulation**|Murtaza Dalal et.al.|[2410.22332](http://arxiv.org/abs/2410.22332)|null|
 |**2024-10-29**|**Task Vectors are Cross-Modal**|Grace Luo et.al.|[2410.22330](http://arxiv.org/abs/2410.22330)|null|
 |**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|
-|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|null|
+|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|**[link](https://github.com/canchen-cc/online-llm-detection)**|
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
 |**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
-|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
 |**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
 |**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|
 |**2024-10-29**|**Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning**|Yihe Deng et.al.|[2410.22304](http://arxiv.org/abs/2410.22304)|null|
 |**2024-10-29**|**LLMs are Highly-Constrained Biophysical Sequence Optimizers**|Angelica Chen et.al.|[2410.22296](http://arxiv.org/abs/2410.22296)|null|
 |**2024-10-29**|**Fine-Tuning LLMs for Code Mutation: A New Era of Cyber Threats**|Mohammad Setak et.al.|[2410.22293](http://arxiv.org/abs/2410.22293)|null|
 |**2024-10-29**|**From melodic note sequences to pitches using word2vec**|Daniel Defays et.al.|[2410.22285](http://arxiv.org/abs/2410.22285)|null|
-|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|
+|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
 |**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|null|
 |**2024-10-29**|**Fourier Head: Helping Large Language Models Learn Complex Probability Distributions**|Nate Gillman et.al.|[2410.22269](http://arxiv.org/abs/2410.22269)|null|
 |**2024-10-29**|**Meta-Learning Adaptable Foundation Models**|Jacob L. Block et.al.|[2410.22264](http://arxiv.org/abs/2410.22264)|null|
