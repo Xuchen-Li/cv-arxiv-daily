@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**MFTIQ: Multi-Flow Tracker with Independent Matching Quality Estimation**|Jonas Serych et.al.|[2411.09551](http://arxiv.org/abs/2411.09551)|**[link](https://github.com/serycjon/mftiq)**|
 |**2024-11-12**|**Visual Tracking with Intermittent Visibility: Switched Control Design and Implementation**|Yangge Li et.al.|[2411.08144](http://arxiv.org/abs/2411.08144)|null|
 |**2024-11-04**|**ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model**|Yiming Sun et.al.|[2411.01756](http://arxiv.org/abs/2411.01756)|null|
 |**2024-10-30**|**IP-MOT: Instance Prompt Learning for Cross-Domain Multi-Object Tracking**|Run Luo et.al.|[2410.23907](http://arxiv.org/abs/2410.23907)|null|
@@ -120,6 +121,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
+|**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
+|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
+|**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
+|**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
+|**2024-11-14**|**Local deployment of large-scale music AI models on commodity hardware**|Xun Zhou et.al.|[2411.09625](http://arxiv.org/abs/2411.09625)|null|
+|**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
+|**2024-11-14**|**The Moral Foundations Weibo Corpus**|Renjie Cao et.al.|[2411.09612](http://arxiv.org/abs/2411.09612)|null|
+|**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607](http://arxiv.org/abs/2411.09607)|null|
+|**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601](http://arxiv.org/abs/2411.09601)|null|
+|**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
+|**2024-11-14**|**LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**|Zhengyi Wang et.al.|[2411.09595](http://arxiv.org/abs/2411.09595)|null|
+|**2024-11-14**|**Adopting RAG for LLM-Aided Future Vehicle Design**|Vahid Zolfaghari et.al.|[2411.09590](http://arxiv.org/abs/2411.09590)|null|
+|**2024-11-14**|**BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency**|Akari Haga et.al.|[2411.09587](http://arxiv.org/abs/2411.09587)|null|
+|**2024-11-14**|**Software Performance Engineering for Foundation Model-Powered Software (FMware)**|Haoxiang Zhang et.al.|[2411.09580](http://arxiv.org/abs/2411.09580)|null|
+|**2024-11-14**|**Piecing It All Together: Verifying Multi-Hop Multimodal Claims**|Haoran Wang et.al.|[2411.09547](http://arxiv.org/abs/2411.09547)|null|
+|**2024-11-14**|**A Practical Guide to Fine-tuning Language Models with Limited Data**|Márton Szép et.al.|[2411.09539](http://arxiv.org/abs/2411.09539)|null|
+|**2024-11-14**|**Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents**|Yuyou Gan et.al.|[2411.09523](http://arxiv.org/abs/2411.09523)|null|
+|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-14**|**Spider: Any-to-Many Multimodal LLM**|Jinxiang Lai et.al.|[2411.09439](http://arxiv.org/abs/2411.09439)|null|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
 |**2024-11-13**|**CamemBERT 2.0: A Smarter French Language Model Aged to Perfection**|Wissam Antoun et.al.|[2411.08868](http://arxiv.org/abs/2411.08868)|null|
@@ -4245,7 +4266,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780](http://arxiv.org/abs/2411.06780)|null|
-|**2024-11-08**|**Gaussian process modelling of infectious diseases using the Greta software package and GPUs**|Eva Gunn et.al.|[2411.05556](http://arxiv.org/abs/2411.05556)|null|
+|**2024-11-14**|**Gaussian process modelling of infectious diseases using the Greta software package and GPUs**|Eva Gunn et.al.|[2411.05556](http://arxiv.org/abs/2411.05556)|null|
 |**2024-11-07**|**Multi-temporal crack segmentation in concrete structure using deep learning approaches**|Said Harb et.al.|[2411.04620](http://arxiv.org/abs/2411.04620)|null|
 |**2024-11-07**|**TrajGPT: Controlled Synthetic Trajectory Generation Using a Multitask Transformer-Based Spatiotemporal Model**|Shang-Ling Hsu et.al.|[2411.04381](http://arxiv.org/abs/2411.04381)|**[link](https://github.com/ktxlh/TrajGPT)**|
 |**2024-11-05**|**FilterNet: Harnessing Frequency Filters for Time Series Forecasting**|Kun Yi et.al.|[2411.01623](http://arxiv.org/abs/2411.01623)|**[link](https://github.com/aikunyi/filternet)**|
