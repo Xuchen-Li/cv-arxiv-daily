@@ -4124,7 +4124,7 @@
 |---|---|---|---|---|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
 |**2024-12-03**|**Progress-Aware Video Frame Captioning**|Zihui Xue et.al.|[2412.02071](http://arxiv.org/abs/2412.02071)|null|
-|**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820](http://arxiv.org/abs/2412.01820)|null|
+|**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820](http://arxiv.org/abs/2412.01820)|**[link](https://github.com/jyrao/UniSoccer)**|
 |**2024-12-02**|**PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos**|Meng Cao et.al.|[2412.01800](http://arxiv.org/abs/2412.01800)|null|
 |**2024-12-02**|**SEAL: Semantic Attention Learning for Long Video Representation**|Lan Wang et.al.|[2412.01798](http://arxiv.org/abs/2412.01798)|null|
 |**2024-12-02**|**Unlocking Video-LLM via Agent-of-Thoughts Distillation**|Yudi Shi et.al.|[2412.01694](http://arxiv.org/abs/2412.01694)|null|
