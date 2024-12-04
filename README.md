@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129](http://arxiv.org/abs/2412.02129)|**[link](https://github.com/ailovejinx/gsot3d)**|
 |**2024-11-28**|**Improving Accuracy and Generalization for Efficient Visual Tracking**|Ram Zaveri et.al.|[2411.18855](http://arxiv.org/abs/2411.18855)|null|
 |**2024-11-27**|**A comparison of extended object tracking with multi-modal sensors in indoor environment**|Jiangtao Shuai et.al.|[2411.18476](http://arxiv.org/abs/2411.18476)|null|
 |**2024-11-26**|**A Distractor-Aware Memory for Visual Object Tracking with SAM2**|Jovana Videnovic et.al.|[2411.17576](http://arxiv.org/abs/2411.17576)|**[link](https://github.com/jovanavidenovic/dam4sam)**|
@@ -128,6 +129,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**Time-Reversal Provides Unsupervised Feedback to LLMs**|Yerram Varun et.al.|[2412.02626](http://arxiv.org/abs/2412.02626)|null|
+|**2024-12-03**|**Medical Multimodal Foundation Models in Clinical Diagnosis and Treatment: Applications, Challenges, and Future Directions**|Kai Sun et.al.|[2412.02621](http://arxiv.org/abs/2412.02621)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**PrefixLLM: LLM-aided Prefix Circuit Design**|Weihua Xiao et.al.|[2412.02594](http://arxiv.org/abs/2412.02594)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588](http://arxiv.org/abs/2412.02588)|null|
+|**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|Chenyang Liu et.al.|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**Semantic Tokens in Retrieval Augmented Generation**|Joel Suro et.al.|[2412.02563](http://arxiv.org/abs/2412.02563)|null|
+|**2024-12-03**|**Patent-CR: A Dataset for Patent Claim Revision**|Lekang Jiang et.al.|[2412.02549](http://arxiv.org/abs/2412.02549)|null|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
+|**2024-12-03**|**LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data**|Hanyu Zhang et.al.|[2412.02525](http://arxiv.org/abs/2412.02525)|null|
+|**2024-12-03**|**OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations**|Caixin Kang et.al.|[2412.02479](http://arxiv.org/abs/2412.02479)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
@@ -4101,6 +4122,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
+|**2024-12-03**|**Progress-Aware Video Frame Captioning**|Zihui Xue et.al.|[2412.02071](http://arxiv.org/abs/2412.02071)|null|
+|**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820](http://arxiv.org/abs/2412.01820)|null|
+|**2024-12-02**|**PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos**|Meng Cao et.al.|[2412.01800](http://arxiv.org/abs/2412.01800)|null|
+|**2024-12-02**|**SEAL: Semantic Attention Learning for Long Video Representation**|Lan Wang et.al.|[2412.01798](http://arxiv.org/abs/2412.01798)|null|
+|**2024-12-02**|**Unlocking Video-LLM via Agent-of-Thoughts Distillation**|Yudi Shi et.al.|[2412.01694](http://arxiv.org/abs/2412.01694)|null|
+|**2024-12-02**|**Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**|Xin Yan et.al.|[2412.01316](http://arxiv.org/abs/2412.01316)|null|
+|**2024-12-02**|**Eyes on the Road: State-of-the-Art Video Question Answering Models Assessment for Traffic Monitoring Tasks**|Joseph Raj Vishal et.al.|[2412.01132](http://arxiv.org/abs/2412.01132)|**[link](https://github.com/joe-rabbit/videoqa_pilot_study)**|
+|**2024-12-01**|**VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**|Weiming Ren et.al.|[2412.00927](http://arxiv.org/abs/2412.00927)|null|
+|**2024-12-01**|**VideoSAVi: Self-Aligned Video Language Models without Human Supervision**|Yogesh Kulkarni et.al.|[2412.00624](http://arxiv.org/abs/2412.00624)|null|
+|**2024-11-30**|**Empowering the Deaf and Hard of Hearing Community: Enhancing Video Captions Using Large Language Models**|Nadeen Fathallah et.al.|[2412.00342](http://arxiv.org/abs/2412.00342)|null|
+|**2024-11-29**|**STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training**|Haiyi Qiu et.al.|[2412.00161](http://arxiv.org/abs/2412.00161)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**|Joseph Heyward et.al.|[2411.19941](http://arxiv.org/abs/2411.19941)|null|
 |**2024-11-29**|**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**|Tiantian Geng et.al.|[2411.19772](http://arxiv.org/abs/2411.19772)|null|
@@ -4498,6 +4531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161](http://arxiv.org/abs/2412.02161)|null|
+|**2024-12-02**|**Navigating Challenges in Spatio-temporal Modelling of Antarctic Krill Abundance: Addressing Zero-inflated Data and Misaligned Covariates**|André Victor Ribeiro Amaral et.al.|[2412.01399](http://arxiv.org/abs/2412.01399)|null|
+|**2024-11-30**|**PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation**|Qiyao Xue et.al.|[2412.00596](http://arxiv.org/abs/2412.00596)|**[link](https://github.com/pittisl/phyt2v)**|
+|**2024-11-27**|**Predicting Extubation Failure in Intensive Care: The Development of a Novel, End-to-End Actionable and Interpretable Prediction System**|Akram Yoosoofsah et.al.|[2412.00105](http://arxiv.org/abs/2412.00105)|null|
 |**2024-11-27**|**TAPTRv3: Spatial and Temporal Context Foster Robust Tracking of Any Point in Long Video**|Jinyuan Qu et.al.|[2411.18671](http://arxiv.org/abs/2411.18671)|null|
 |**2024-11-26**|**Temporal Models for Demographic and Global Health Outcomes in Multiple Populations: Introducing the Normal-with-Optional-Shrinkage Data Model Class**|Leontine Alkema et.al.|[2411.18646](http://arxiv.org/abs/2411.18646)|null|
 |**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
