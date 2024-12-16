@@ -7,7 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-03**|**MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues**|Zhaofeng Hu et.al.|[2412.02734](http://arxiv.org/abs/2412.02734)|**[link](https://github.com/StiphyJay/MVCTrack)**|
+|**2024-12-13**|**Visual Object Tracking across Diverse Data Modalities: A Review**|Mengmeng Wang et.al.|[2412.09991](http://arxiv.org/abs/2412.09991)|null|
+|**2024-12-13**|**MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues**|Zhaofeng Hu et.al.|[2412.02734](http://arxiv.org/abs/2412.02734)|**[link](https://github.com/StiphyJay/MVCTrack)**|
 |**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129](http://arxiv.org/abs/2412.02129)|**[link](https://github.com/ailovejinx/gsot3d)**|
 |**2024-11-28**|**Improving Accuracy and Generalization for Efficient Visual Tracking**|Ram Zaveri et.al.|[2411.18855](http://arxiv.org/abs/2411.18855)|null|
 |**2024-11-27**|**A comparison of extended object tracking with multi-modal sensors in indoor environment**|Jiangtao Shuai et.al.|[2411.18476](http://arxiv.org/abs/2411.18476)|null|
@@ -122,6 +123,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
+|**2024-12-13**|**A Grounded Typology of Word Classes**|Coleman Haley et.al.|[2412.10369](http://arxiv.org/abs/2412.10369)|null|
+|**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
+|**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
+|**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
+|**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|
+|**2024-12-13**|**Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining**|Zhiqi Ge et.al.|[2412.10342](http://arxiv.org/abs/2412.10342)|null|
+|**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
+|**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
+|**2024-12-13**|**Still "Talking About Large Language Models": Some Clarifications**|Murray Shanahan et.al.|[2412.10291](http://arxiv.org/abs/2412.10291)|null|
+|**2024-12-13**|**One world, one opinion? The superstar effect in LLM responses**|Sofie Goethals et.al.|[2412.10281](http://arxiv.org/abs/2412.10281)|null|
+|**2024-12-13**|**Benchmarking Linguistic Diversity of Large Language Models**|Yanzhu Guo et.al.|[2412.10271](http://arxiv.org/abs/2412.10271)|**[link](https://github.com/yanzhuguo/llm-diversity)**|
+|**2024-12-13**|**Cultural Evolution of Cooperation among LLM Agents**|Aron Vallinder et.al.|[2412.10270](http://arxiv.org/abs/2412.10270)|null|
+|**2024-12-13**|**Does Multiple Choice Have a Future in the Age of Generative AI? A Posttest-only RCT**|Danielle R. Thomas et.al.|[2412.10267](http://arxiv.org/abs/2412.10267)|**[link](https://github.com/cmu-plus/lak2025-advocacy)**|
+|**2024-12-13**|**Reasoner Outperforms: Generative Stance Detection with Rationalization for Social Media**|Jiaqing Yuan et.al.|[2412.10266](http://arxiv.org/abs/2412.10266)|null|
+|**2024-12-13**|**Targeted Angular Reversal of Weights (TARS) for Knowledge Removal in Large Language Models**|Harry J. Davies et.al.|[2412.10257](http://arxiv.org/abs/2412.10257)|null|
+|**2024-12-13**|**Detecting LLM Hallucination Through Layer-wise Information Deficiency: Analysis of Unanswerable Questions and Ambiguous Prompts**|Hazel Kim et.al.|[2412.10246](http://arxiv.org/abs/2412.10246)|null|
+|**2024-12-13**|**Efficient Continual Pre-training of LLMs for Low-resource Languages**|Arijit Nag et.al.|[2412.10244](http://arxiv.org/abs/2412.10244)|null|
+|**2024-12-13**|**Retrieval-Augmented Semantic Parsing: Using Large Language Models to Improve Generalization**|Xiao Zhang et.al.|[2412.10207](http://arxiv.org/abs/2412.10207)|null|
 |**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
 |**2024-12-12**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
@@ -4253,6 +4274,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360](http://arxiv.org/abs/2412.10360)|null|
+|**2024-12-13**|**B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**|Zhuqiang Lu et.al.|[2412.09919](http://arxiv.org/abs/2412.09919)|null|
+|**2024-12-13**|**IQViC: In-context, Question Adaptive Vision Compressor for Long-term Video Understanding LMMs**|Sosuke Yamao et.al.|[2412.09907](http://arxiv.org/abs/2412.09907)|null|
+|**2024-12-12**|**ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation**|Ali Athar et.al.|[2412.09754](http://arxiv.org/abs/2412.09754)|null|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
 |**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
 |**2024-12-12**|**Agent-based Video Trimming**|Lingfeng Yang et.al.|[2412.09513](http://arxiv.org/abs/2412.09513)|null|
