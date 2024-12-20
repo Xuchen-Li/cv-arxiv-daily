@@ -132,6 +132,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|
+|**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
+|**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
+|**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151](http://arxiv.org/abs/2412.15151)|null|
+|**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127](http://arxiv.org/abs/2412.15127)|null|
+|**2024-12-19**|**Outcome-Refining Process Supervision for Code Generation**|Zhuohao Yu et.al.|[2412.15118](http://arxiv.org/abs/2412.15118)|null|
+|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
+|**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
+|**2024-12-19**|**Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search**|Lei Tan et.al.|[2412.15106](http://arxiv.org/abs/2412.15106)|null|
+|**2024-12-19**|**Review-Then-Refine: A Dynamic Framework for Multi-Hop Question Answering with Temporal Adaptability**|Xiangsen Chen et.al.|[2412.15101](http://arxiv.org/abs/2412.15101)|null|
+|**2024-12-19**|**Nano-ESG: Extracting Corporate Sustainability Information from News Articles**|Fabian Billert et.al.|[2412.15093](http://arxiv.org/abs/2412.15093)|null|
+|**2024-12-19**|**ScamChatBot: An End-to-End Analysis of Fake Account Recovery on Social Media via Chatbots**|Bhupendra Acharya et.al.|[2412.15072](http://arxiv.org/abs/2412.15072)|null|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
@@ -4345,10 +4365,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**HiCM $^2$ : Hierarchical Compact Memory Modeling for Dense Video Captioning**|Minkuk Kim et.al.|[2412.14585](http://arxiv.org/abs/2412.14585)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
 |**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
 |**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845](http://arxiv.org/abs/2412.13845)|null|
-|**2024-12-18**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647](http://arxiv.org/abs/2412.13647)|**[link](https://github.com/ztangaj/gveval)**|
+|**2024-12-19**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647](http://arxiv.org/abs/2412.13647)|**[link](https://github.com/ztangaj/gveval)**|
 |**2024-12-17**|**FocusChat: Text-guided Long Video Understanding via Spatiotemporal Information Filtering**|Zheng Cheng et.al.|[2412.12833](http://arxiv.org/abs/2412.12833)|null|
 |**2024-12-17**|**Implicit Location-Caption Alignment via Complementary Masking for Weakly-Supervised Dense Video Captioning**|Shiping Ge et.al.|[2412.12791](http://arxiv.org/abs/2412.12791)|**[link](https://github.com/ShipingGe/ILCACM)**|
 |**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675](http://arxiv.org/abs/2412.12675)|null|
@@ -4793,6 +4814,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
+|**2024-12-19**|**Efficient Self-Supervised Video Hashing with Selective State Spaces**|Jinpeng Wang et.al.|[2412.14518](http://arxiv.org/abs/2412.14518)|**[link](https://github.com/gimpong/AAAI25-S5VH)**|
+|**2024-12-19**|**Diffusion and Discrete Temporal Models of the Growth of Free-Ranging Cats in Urban Areas**|Rodrigo Perusquía Cortés et.al.|[2412.14445](http://arxiv.org/abs/2412.14445)|null|
 |**2024-12-18**|**TAUDiff: Improving statistical downscaling for extreme weather events using generative diffusion models**|Rahul Sundar et.al.|[2412.13627](http://arxiv.org/abs/2412.13627)|null|
 |**2024-12-16**|**STDHL: Spatio-Temporal Dynamic Hypergraph Learning for Wind Power Forecasting**|Xiaochong Dong et.al.|[2412.11393](http://arxiv.org/abs/2412.11393)|null|
 |**2024-12-11**|**Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction**|Bohan Li et.al.|[2412.08243](http://arxiv.org/abs/2412.08243)|null|
