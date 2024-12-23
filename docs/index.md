@@ -124,6 +124,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
+|**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|null|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135](http://arxiv.org/abs/2412.16135)|null|
+|**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
+|**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
+|**2024-12-20**|**Deciphering the Underserved: Benchmarking LLM OCR for Low-Resource Scripts**|Muhammad Abdullah Sohail et.al.|[2412.16119](http://arxiv.org/abs/2412.16119)|null|
+|**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/visual-ai/prunevid)**|
+|**2024-12-20**|**The Content Moderator's Dilemma: Removal of Toxic Content and Distortions to Online Discourse**|Mahyar Habibi et.al.|[2412.16114](http://arxiv.org/abs/2412.16114)|null|
+|**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
+|**2024-12-20**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
+|**2024-12-20**|**The Evolution of LLM Adoption in Industry Data Curation Practices**|Crystal Qian et.al.|[2412.16089](http://arxiv.org/abs/2412.16089)|null|
+|**2024-12-20**|**Efficient MedSAMs: Segment Anything in Medical Images on Laptop**|Jun Ma et.al.|[2412.16085](http://arxiv.org/abs/2412.16085)|null|
+|**2024-12-20**|**Formal Mathematical Reasoning: A New Frontier in AI**|Kaiyu Yang et.al.|[2412.16075](http://arxiv.org/abs/2412.16075)|null|
+|**2024-12-20**|**A Framework for Streaming Event-Log Prediction in Business Processes**|Benedikt Bollig et.al.|[2412.16032](http://arxiv.org/abs/2412.16032)|null|
+|**2024-12-20**|**The Only Way is Ethics: A Guide to Ethical Research with Large Language Models**|Eddie L. Ungless et.al.|[2412.16022](http://arxiv.org/abs/2412.16022)|**[link](https://github.com/mxeddie/ethics-whitepaper)**|
+|**2024-12-20**|**Fearful Falcons and Angry Llamas: Emotion Category Annotations of Arguments by Humans and LLMs**|Lynn Greschner et.al.|[2412.15993](http://arxiv.org/abs/2412.15993)|null|
+|**2024-12-20**|**BabyHGRN: Exploring RNNs for Sample-Efficient Training of Language Models**|Patrick Haller et.al.|[2412.15978](http://arxiv.org/abs/2412.15978)|null|
+|**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
@@ -4355,6 +4375,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/visual-ai/prunevid)**|
+|**2024-12-20**|**PolySmart @ TRECVid 2024 Medical Video Question Answering**|Jiaxin Wu et.al.|[2412.15514](http://arxiv.org/abs/2412.15514)|null|
 |**2024-12-19**|**HiCM $^2$ : Hierarchical Compact Memory Modeling for Dense Video Captioning**|Minkuk Kim et.al.|[2412.14585](http://arxiv.org/abs/2412.14585)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
 |**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
@@ -4802,6 +4824,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
 |**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
 |**2024-12-19**|**Efficient Self-Supervised Video Hashing with Selective State Spaces**|Jinpeng Wang et.al.|[2412.14518](http://arxiv.org/abs/2412.14518)|**[link](https://github.com/gimpong/AAAI25-S5VH)**|
 |**2024-12-19**|**Diffusion and Discrete Temporal Models of the Growth of Free-Ranging Cats in Urban Areas**|Rodrigo Perusquía Cortés et.al.|[2412.14445](http://arxiv.org/abs/2412.14445)|null|
