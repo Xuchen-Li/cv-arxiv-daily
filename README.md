@@ -4435,7 +4435,7 @@
 |**2024-12-19**|**HiCM $^2$ : Hierarchical Compact Memory Modeling for Dense Video Captioning**|Minkuk Kim et.al.|[2412.14585](http://arxiv.org/abs/2412.14585)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
 |**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
-|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845](http://arxiv.org/abs/2412.13845)|null|
+|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845](http://arxiv.org/abs/2412.13845)|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-19**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647](http://arxiv.org/abs/2412.13647)|**[link](https://github.com/ztangaj/gveval)**|
 |**2024-12-17**|**FocusChat: Text-guided Long Video Understanding via Spatiotemporal Information Filtering**|Zheng Cheng et.al.|[2412.12833](http://arxiv.org/abs/2412.12833)|null|
 |**2024-12-17**|**Implicit Location-Caption Alignment via Complementary Masking for Weakly-Supervised Dense Video Captioning**|Shiping Ge et.al.|[2412.12791](http://arxiv.org/abs/2412.12791)|**[link](https://github.com/ShipingGe/ILCACM)**|
