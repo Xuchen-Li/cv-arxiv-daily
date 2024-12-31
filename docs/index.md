@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-28**|**Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking**|You Wu et.al.|[2412.20002](http://arxiv.org/abs/2412.20002)|null|
 |**2024-12-26**|**SUTrack: Towards Simple and Unified Single Object Tracking**|Xin Chen et.al.|[2412.19138](http://arxiv.org/abs/2412.19138)|**[link](https://github.com/chenxin-dlut/sutrack)**|
 |**2024-12-15**|**Exploring Enhanced Contextual Information for Video-Level Object Tracking**|Ben Kang et.al.|[2412.11023](http://arxiv.org/abs/2412.11023)|**[link](https://github.com/kangben258/MCITrack)**|
 |**2024-12-13**|**Visual Object Tracking across Diverse Data Modalities: A Review**|Mengmeng Wang et.al.|[2412.09991](http://arxiv.org/abs/2412.09991)|null|
@@ -125,6 +126,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199](http://arxiv.org/abs/2412.21199)|null|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
+|**2024-12-30**|**Facilitating large language model Russian adaptation with Learned Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140](http://arxiv.org/abs/2412.21140)|null|
+|**2024-12-30**|**Training Software Engineering Agents and Verifiers with SWE-Gym**|Jiayi Pan et.al.|[2412.21139](http://arxiv.org/abs/2412.21139)|**[link](https://github.com/swe-gym/swe-gym)**|
+|**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124](http://arxiv.org/abs/2412.21124)|null|
+|**2024-12-30**|**ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation**|Ruixuan Liu et.al.|[2412.21123](http://arxiv.org/abs/2412.21123)|null|
+|**2024-12-30**|**Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model**|Yifei Huang et.al.|[2412.21080](http://arxiv.org/abs/2412.21080)|**[link](https://github.com/opengvlab/vinci)**|
+|**2024-12-30**|**Efficient Multi-Task Inferencing with a Shared Backbone and Lightweight Task-Specific Adapters for Automatic Scoring**|Ehsan Latif et.al.|[2412.21065](http://arxiv.org/abs/2412.21065)|null|
+|**2024-12-30**|**Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense**|Yuyang Zhou et.al.|[2412.21051](http://arxiv.org/abs/2412.21051)|**[link](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)**|
+|**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042](http://arxiv.org/abs/2412.21042)|**[link](https://github.com/longlongaaago/vspbfr)**|
+|**2024-12-30**|**TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization**|Chia-Yu Hung et.al.|[2412.21037](http://arxiv.org/abs/2412.21037)|null|
+|**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036](http://arxiv.org/abs/2412.21036)|null|
+|**2024-12-30**|**MapQaTor: A System for Efficient Annotation of Map Query Datasets**|Mahir Labib Dihan et.al.|[2412.21015](http://arxiv.org/abs/2412.21015)|null|
+|**2024-12-30**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006](http://arxiv.org/abs/2412.21006)|null|
+|**2024-12-30**|**Plug-and-Play Training Framework for Preference Optimization**|Jingyuan Ma et.al.|[2412.20996](http://arxiv.org/abs/2412.20996)|null|
+|**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995](http://arxiv.org/abs/2412.20995)|null|
+|**2024-12-30**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993](http://arxiv.org/abs/2412.20993)|null|
+|**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|
+|**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
 |**2024-12-27**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794](http://arxiv.org/abs/2412.19794)|null|
 |**2024-12-27**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
 |**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785](http://arxiv.org/abs/2412.19785)|null|
@@ -4436,7 +4457,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-27**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794](http://arxiv.org/abs/2412.19794)|null|
+|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|null|
+|**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
+|**2024-12-28**|**DAVE: Diverse Atomic Visual Elements Dataset with High Representation of Vulnerable Road Users in Complex and Unpredictable Environments**|Xijun Wang et.al.|[2412.20042](http://arxiv.org/abs/2412.20042)|null|
+|**2024-12-30**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794](http://arxiv.org/abs/2412.19794)|null|
 |**2024-12-26**|**Perceive, Query & Reason: Enhancing Video QA with Question-Guided Temporal Queries**|Roberto Amoroso et.al.|[2412.19304](http://arxiv.org/abs/2412.19304)|null|
 |**2024-12-24**|**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**|Jinhui Yi et.al.|[2412.18609](http://arxiv.org/abs/2412.18609)|**[link](https://github.com/jh-yi/video-panda)**|
 |**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574](http://arxiv.org/abs/2412.17574)|null|
@@ -4892,6 +4916,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Multi-View Fusion Neural Network for Traffic Demand Prediction**|Dongran Zhang et.al.|[2412.19839](http://arxiv.org/abs/2412.19839)|null|
 |**2024-12-26**|**Perceive, Query & Reason: Enhancing Video QA with Question-Guided Temporal Queries**|Roberto Amoroso et.al.|[2412.19304](http://arxiv.org/abs/2412.19304)|null|
 |**2024-12-24**|**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**|Jinhui Yi et.al.|[2412.18609](http://arxiv.org/abs/2412.18609)|**[link](https://github.com/jh-yi/video-panda)**|
 |**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
