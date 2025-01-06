@@ -4516,7 +4516,7 @@
 |**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[2501.00584](http://arxiv.org/abs/2501.00584)|null|
 |**2024-12-31**|**OV-HHIR: Open Vocabulary Human Interaction Recognition Using Cross-modal Integration of Large Language Models**|Lala Shakti Swarup Ray et.al.|[2501.00432](http://arxiv.org/abs/2501.00432)|null|
 |**2024-12-31**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
-|**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136](http://arxiv.org/abs/2501.00136)|null|
+|**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136](http://arxiv.org/abs/2501.00136)|**[link](https://github.com/Taniya-Das/video_annotation)**|
 |**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|**[link](https://github.com/jpthu17/HBI)**|
 |**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
 |**2024-12-28**|**DAVE: Diverse Atomic Visual Elements Dataset with High Representation of Vulnerable Road Users in Complex and Unpredictable Environments**|Xijun Wang et.al.|[2412.20042](http://arxiv.org/abs/2412.20042)|null|
