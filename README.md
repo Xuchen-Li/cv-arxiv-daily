@@ -137,6 +137,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
+|**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
+|**2025-01-07**|**(De)-Indexing and the Right to be Forgotten**|Salvatore Vilella et.al.|[2501.03989](http://arxiv.org/abs/2501.03989)|null|
+|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
+|**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
+|**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952](http://arxiv.org/abs/2501.03952)|null|
+|**2025-01-07**|**Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection**|Pablo Miralles-González et.al.|[2501.03940](http://arxiv.org/abs/2501.03940)|null|
+|**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904](http://arxiv.org/abs/2501.03904)|null|
+|**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
+|**2025-01-07**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
+|**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
+|**2025-01-07**|**Improving Dialectal Slot and Intent Detection with Auxiliary Tasks: A Multi-Dialectal Bavarian Case Study**|Xaver Maria Krückl et.al.|[2501.03863](http://arxiv.org/abs/2501.03863)|**[link](https://github.com/mainlp/auxtasks-bavarian-sid)**|
+|**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857](http://arxiv.org/abs/2501.03857)|null|
+|**2025-01-07**|**BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context**|Alexis Matzopoulos et.al.|[2501.03855](http://arxiv.org/abs/2501.03855)|null|
+|**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841](http://arxiv.org/abs/2501.03841)|null|
+|**2025-01-07**|**MedFocusCLIP : Improving few shot classification in medical datasets using pixel wise attention**|Aadya Arora et.al.|[2501.03839](http://arxiv.org/abs/2501.03839)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
 |**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
 |**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212](http://arxiv.org/abs/2501.03212)|null|
@@ -5002,6 +5022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Three-dimensional attention Transformer for state evaluation in real-time strategy games**|Yanqing Ye et.al.|[2501.03832](http://arxiv.org/abs/2501.03832)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
 |**2025-01-03**|**Innate behavioural mechanisms and defensive traits in ecological models of predator-prey types**|Sangeeta Saha et.al.|[2501.01687](http://arxiv.org/abs/2501.01687)|null|
 |**2024-12-24**|**Multi-View Fusion Neural Network for Traffic Demand Prediction**|Dongran Zhang et.al.|[2412.19839](http://arxiv.org/abs/2412.19839)|null|
@@ -5015,7 +5036,7 @@
 |**2024-12-16**|**STDHL: Spatio-Temporal Dynamic Hypergraph Learning for Wind Power Forecasting**|Xiaochong Dong et.al.|[2412.11393](http://arxiv.org/abs/2412.11393)|null|
 |**2024-12-11**|**Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction**|Bohan Li et.al.|[2412.08243](http://arxiv.org/abs/2412.08243)|null|
 |**2024-12-10**|**Modeling High-Resolution Spatio-Temporal Wind with Deep Echo State Networks and Stochastic Partial Differential Equations**|Kesen Wang et.al.|[2412.07265](http://arxiv.org/abs/2412.07265)|null|
-|**2025-01-03**|**LMS-AutoTSF: Learnable Multi-Scale Decomposition and Integrated Autocorrelation for Time Series Forecasting**|Ibrahim Delibasoglu et.al.|[2412.06866](http://arxiv.org/abs/2412.06866)|**[link](https://github.com/mribrahim/lms-tsf)**|
+|**2025-01-07**|**LMS-AutoTSF: Learnable Multi-Scale Decomposition and Integrated Autocorrelation for Time Series Forecasting**|Ibrahim Delibasoglu et.al.|[2412.06866](http://arxiv.org/abs/2412.06866)|**[link](https://github.com/mribrahim/lms-tsf)**|
 |**2024-12-09**|**How to Merge Your Multimodal Models Over Time?**|Sebastian Dziadzio et.al.|[2412.06712](http://arxiv.org/abs/2412.06712)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
 |**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161](http://arxiv.org/abs/2412.02161)|null|
