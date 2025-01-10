@@ -129,6 +129,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
+|**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|null|
+|**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444](http://arxiv.org/abs/2501.05444)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
+|**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
+|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414](http://arxiv.org/abs/2501.05414)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
+|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409](http://arxiv.org/abs/2501.05409)|null|
+|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398](http://arxiv.org/abs/2501.05398)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
+|**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
+|**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
+|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336](http://arxiv.org/abs/2501.05336)|null|
+|**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
+|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|null|
+|**2025-01-09**|**CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models**|Fabian Hörst et.al.|[2501.05269](http://arxiv.org/abs/2501.05269)|null|
+|**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260](http://arxiv.org/abs/2501.05260)|**[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)**|
+|**2025-01-09**|**CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models**|Yewei Song et.al.|[2501.05255](http://arxiv.org/abs/2501.05255)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
@@ -4560,6 +4580,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069](http://arxiv.org/abs/2501.05069)|null|
+|**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067](http://arxiv.org/abs/2501.05067)|null|
+|**2025-01-09**|**LongViTU: Instruction Tuning for Long-Form Video Understanding**|Rujie Wu et.al.|[2501.05037](http://arxiv.org/abs/2501.05037)|null|
+|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|null|
 |**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang et.al.|[2501.04336](http://arxiv.org/abs/2501.04336)|null|
 |**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
 |**2025-01-03**|**Classifier-Guided Captioning Across Modalities**|Ariel Shaulov et.al.|[2501.03183](http://arxiv.org/abs/2501.03183)|null|
@@ -4571,7 +4595,7 @@ layout: default
 |**2025-01-08**|**VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM**|Yuqian Yuan et.al.|[2501.00599](http://arxiv.org/abs/2501.00599)|**[link](https://github.com/damo-nlp-sg/videorefer)**|
 |**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[2501.00584](http://arxiv.org/abs/2501.00584)|null|
 |**2024-12-31**|**OV-HHIR: Open Vocabulary Human Interaction Recognition Using Cross-modal Integration of Large Language Models**|Lala Shakti Swarup Ray et.al.|[2501.00432](http://arxiv.org/abs/2501.00432)|null|
-|**2024-12-31**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
+|**2025-01-09**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
 |**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136](http://arxiv.org/abs/2501.00136)|**[link](https://github.com/Taniya-Das/video_annotation)**|
 |**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|**[link](https://github.com/jpthu17/HBI)**|
 |**2025-01-05**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
@@ -5032,6 +5056,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|null|
 |**2025-01-07**|**Three-dimensional attention Transformer for state evaluation in real-time strategy games**|Yanqing Ye et.al.|[2501.03832](http://arxiv.org/abs/2501.03832)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
 |**2025-01-03**|**Innate behavioural mechanisms and defensive traits in ecological models of predator-prey types**|Sangeeta Saha et.al.|[2501.01687](http://arxiv.org/abs/2501.01687)|null|
