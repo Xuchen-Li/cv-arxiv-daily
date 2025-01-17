@@ -130,6 +130,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
+|**2025-01-16**|**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**|Youngjoon Jang et.al.|[2501.09754](http://arxiv.org/abs/2501.09754)|null|
+|**2025-01-16**|**OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking**|Zekun Xi et.al.|[2501.09751](http://arxiv.org/abs/2501.09751)|null|
+|**2025-01-16**|**Enhancing Lexicon-Based Text Embeddings with Large Language Models**|Yibin Lei et.al.|[2501.09749](http://arxiv.org/abs/2501.09749)|null|
+|**2025-01-16**|**Suggesting Code Edits in Interactive Machine Learning Notebooks Using Large Language Models**|Bihui Jin et.al.|[2501.09745](http://arxiv.org/abs/2501.09745)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
+|**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
+|**2025-01-16**|**Domain Adaptation of Foundation LLMs for e-Commerce**|Christian Herold et.al.|[2501.09706](http://arxiv.org/abs/2501.09706)|null|
+|**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700](http://arxiv.org/abs/2501.09700)|**[link](https://github.com/alidr79/cueless_eeg_subject_identification)**|
+|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695](http://arxiv.org/abs/2501.09695)|null|
+|**2025-01-16**|**Simulated Interactive Debugging**|Yannic Noller et.al.|[2501.09694](http://arxiv.org/abs/2501.09694)|null|
+|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
+|**2025-01-16**|**Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark**|Alexis Roger et.al.|[2501.09672](http://arxiv.org/abs/2501.09672)|null|
+|**2025-01-16**|**A Survey of Research in Large Language Models for Electronic Design Automation**|Jingyu Pan et.al.|[2501.09655](http://arxiv.org/abs/2501.09655)|null|
+|**2025-01-16**|**The Heap: A Contamination-Free Multilingual Code Dataset for Evaluating Large Language Models**|Jonathan Katzy et.al.|[2501.09653](http://arxiv.org/abs/2501.09653)|null|
+|**2025-01-16**|**CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding**|Johannes Kirmayr et.al.|[2501.09645](http://arxiv.org/abs/2501.09645)|null|
+|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
+|**2025-01-16**|**Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework**|Yushen Lin et.al.|[2501.09631](http://arxiv.org/abs/2501.09631)|null|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
 |**2025-01-15**|**Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails**|Shaona Ghosh et.al.|[2501.09004](http://arxiv.org/abs/2501.09004)|null|
 |**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
@@ -4666,7 +4686,7 @@ layout: default
 |**2025-01-14**|**Facial Dynamics in Video: Instruction Tuning for Improved Facial Expression Perception and Contextual Awareness**|Jiaxing Zhao et.al.|[2501.07978](http://arxiv.org/abs/2501.07978)|null|
 |**2025-01-14**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
 |**2025-01-14**|**AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation**|Sitong Gong et.al.|[2501.07810](http://arxiv.org/abs/2501.07810)|**[link](https://github.com/sitonggong/avs-mamba)**|
-|**2025-01-13**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227](http://arxiv.org/abs/2501.07227)|null|
+|**2025-01-16**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227](http://arxiv.org/abs/2501.07227)|null|
 |**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214](http://arxiv.org/abs/2501.07214)|null|
 |**2025-01-13**|**Video Quality Assessment for Online Processing: From Spatial to Temporal Sampling**|Jiebin Yan et.al.|[2501.07087](http://arxiv.org/abs/2501.07087)|null|
 |**2025-01-12**|**X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding**|Wenqi Zhou et.al.|[2501.06835](http://arxiv.org/abs/2501.06835)|null|
