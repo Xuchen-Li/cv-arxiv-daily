@@ -1,4 +1,4 @@
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -132,7 +132,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -4705,7 +4705,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -4723,7 +4723,7 @@
 |**2025-01-12**|**VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning**|Ji Soo Lee et.al.|[2501.06761](http://arxiv.org/abs/2501.06761)|**[link](https://github.com/mlvlab/vidchain)**|
 |**2025-01-13**|**Valley2: Exploring Multimodal Models with Scalable Vision-Language Design**|Ziheng Wu et.al.|[2501.05901](http://arxiv.org/abs/2501.05901)|**[link](https://github.com/bytedance/valley)**|
 |**2025-01-10**|**Zero-shot Shark Tracking and Biometrics from Aerial Imagery**|Chinmay K Lalgudi et.al.|[2501.05717](http://arxiv.org/abs/2501.05717)|null|
-|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|null|
+|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|**[link](https://github.com/dominickrei/egoexo4adl)**|
 |**2025-01-09**|**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**|Yifei Li et.al.|[2501.05510](http://arxiv.org/abs/2501.05510)|**[link](https://github.com/joeleelyf/ovo-bench)**|
 |**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069](http://arxiv.org/abs/2501.05069)|null|
 |**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067](http://arxiv.org/abs/2501.05067)|null|
@@ -5197,7 +5197,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -5365,5 +5365,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 

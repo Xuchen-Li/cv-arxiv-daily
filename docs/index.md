@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -4713,7 +4713,7 @@ layout: default
 |**2025-01-12**|**VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning**|Ji Soo Lee et.al.|[2501.06761](http://arxiv.org/abs/2501.06761)|**[link](https://github.com/mlvlab/vidchain)**|
 |**2025-01-13**|**Valley2: Exploring Multimodal Models with Scalable Vision-Language Design**|Ziheng Wu et.al.|[2501.05901](http://arxiv.org/abs/2501.05901)|**[link](https://github.com/bytedance/valley)**|
 |**2025-01-10**|**Zero-shot Shark Tracking and Biometrics from Aerial Imagery**|Chinmay K Lalgudi et.al.|[2501.05717](http://arxiv.org/abs/2501.05717)|null|
-|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|null|
+|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|**[link](https://github.com/dominickrei/egoexo4adl)**|
 |**2025-01-09**|**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**|Yifei Li et.al.|[2501.05510](http://arxiv.org/abs/2501.05510)|**[link](https://github.com/joeleelyf/ovo-bench)**|
 |**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069](http://arxiv.org/abs/2501.05069)|null|
 |**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067](http://arxiv.org/abs/2501.05067)|null|
