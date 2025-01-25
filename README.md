@@ -5275,7 +5275,7 @@
 |**2025-01-21**|**Efficient Dynamic Image Reconstruction with motion estimation**|Toluwani Okunola et.al.|[2501.12497](http://arxiv.org/abs/2501.12497)|null|
 |**2025-01-22**|**Budget-constrained Collaborative Renewable Energy Forecasting Market**|Carla Goncalves et.al.|[2501.12367](http://arxiv.org/abs/2501.12367)|**[link](https://github.com/INESCTEC/budget-constrained-collaborative-forecasting-market)**|
 |**2025-01-21**|**DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling**|Hu Cui et.al.|[2501.12086](http://arxiv.org/abs/2501.12086)|null|
-|**2025-01-20**|**Leveraging graph neural networks and mobility data for COVID-19 forecasting**|Fernando H. O. Duarte et.al.|[2501.11711](http://arxiv.org/abs/2501.11711)|null|
+|**2025-01-20**|**Leveraging graph neural networks and mobility data for COVID-19 forecasting**|Fernando H. O. Duarte et.al.|[2501.11711](http://arxiv.org/abs/2501.11711)|**[link](https://github.com/hodfernando/2024_asoc_gnn_covid19_forecast)**|
 |**2025-01-17**|**Gamma-ray burst prompt emission spectra at high energies**|Samanta Macera et.al.|[2501.10507](http://arxiv.org/abs/2501.10507)|null|
 |**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837](http://arxiv.org/abs/2501.08837)|null|
 |**2025-01-15**|**FlexiClip: Locality-Preserving Free-Form Character Animation**|Anant Khandelwal et.al.|[2501.08676](http://arxiv.org/abs/2501.08676)|null|
