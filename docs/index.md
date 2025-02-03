@@ -130,6 +130,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|null|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393](http://arxiv.org/abs/2501.19393)|**[link](https://github.com/simplescaling/s1)**|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models**|Wenzhi Fang et.al.|[2501.19389](http://arxiv.org/abs/2501.19389)|null|
+|**2025-01-31**|**Decoding-based Regression**|Xingyou Song et.al.|[2501.19383](http://arxiv.org/abs/2501.19383)|**[link](https://github.com/google-research/optformer)**|
+|**2025-01-31**|**TableMaster: A Recipe to Advance Table Understanding with Language Models**|Lang Cao et.al.|[2501.19378](http://arxiv.org/abs/2501.19378)|null|
+|**2025-01-31**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377](http://arxiv.org/abs/2501.19377)|null|
+|**2025-01-31**|**We're Different, We're the Same: Creative Homogeneity Across LLMs**|Emily Wenger et.al.|[2501.19361](http://arxiv.org/abs/2501.19361)|null|
+|**2025-01-31**|**Mechanical Properties of the Meninges: Large Language Model Assisted Systematic Review of over 25,000 Studies**|Brandon P. Chelstrom et.al.|[2501.19359](http://arxiv.org/abs/2501.19359)|null|
+|**2025-01-31**|**The Energy Loss Phenomenon in RLHF: A New Perspective on Mitigating Reward Hacking**|Yuchun Miao et.al.|[2501.19358](http://arxiv.org/abs/2501.19358)|null|
+|**2025-01-31**|**Towards Adaptive Self-Improvement for Smarter Energy Systems**|Alexander Sommer et.al.|[2501.19340](http://arxiv.org/abs/2501.19340)|null|
+|**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339](http://arxiv.org/abs/2501.19339)|null|
+|**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337](http://arxiv.org/abs/2501.19337)|null|
+|**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
+|**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
+|**2025-01-31**|**LLM-based Affective Text Generation Quality Based on Different Quantization Values**|Yarik Menchaca Resendiz et.al.|[2501.19317](http://arxiv.org/abs/2501.19317)|null|
+|**2025-01-31**|**An Efficient Approach for Machine Translation on Low-resource Languages: A Case Study in Vietnamese-Chinese**|Tran Ngoc Son et.al.|[2501.19314](http://arxiv.org/abs/2501.19314)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 |**2025-01-30**|**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**|Yue Wang et.al.|[2501.18585](http://arxiv.org/abs/2501.18585)|null|
@@ -4861,6 +4881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**$\infty$ -Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation**|Saul Santos et.al.|[2501.19098](http://arxiv.org/abs/2501.19098)|**[link](https://github.com/deep-spin/infinite-video)**|
 |**2025-01-30**|**MAMS: Model-Agnostic Module Selection Framework for Video Captioning**|Sangho Lee et.al.|[2501.18269](http://arxiv.org/abs/2501.18269)|null|
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
 |**2025-01-27**|**AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models**|Zheng Lian et.al.|[2501.16566](http://arxiv.org/abs/2501.16566)|null|
@@ -5367,6 +5388,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|null|
 |**2025-01-30**|**Track-On: Transformer-based Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2501.18487](http://arxiv.org/abs/2501.18487)|null|
 |**2025-01-30**|**Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss**|Wenshuo Chen et.al.|[2501.18232](http://arxiv.org/abs/2501.18232)|**[link](https://github.com/Hxxxz0/Free-T2m)**|
 |**2025-01-28**|**Extending Information Bottleneck Attribution to Video Sequences**|Veronika Solopova et.al.|[2501.16889](http://arxiv.org/abs/2501.16889)|**[link](https://github.com/anonrep/iba-for-video-sequences)**|
