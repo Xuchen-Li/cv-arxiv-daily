@@ -143,13 +143,13 @@
 |**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
 |**2025-02-06**|**sshELF: Single-Shot Hierarchical Extrapolation of Latent Features for 3D Reconstruction from Sparse-Views**|Eyvaz Najafli et.al.|[2502.04318](http://arxiv.org/abs/2502.04318)|null|
 |**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
-|**2025-02-06**|**Great Models Think Alike and this Undermines AI Oversight**|Shashwat Goel et.al.|[2502.04313](http://arxiv.org/abs/2502.04313)|null|
+|**2025-02-06**|**Great Models Think Alike and this Undermines AI Oversight**|Shashwat Goel et.al.|[2502.04313](http://arxiv.org/abs/2502.04313)|**[link](https://github.com/model-similarity/lm-similarity/tree/main/applications)**|
 |**2025-02-06**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization**|Yinjie Wang et.al.|[2502.04306](http://arxiv.org/abs/2502.04306)|null|
 |**2025-02-06**|**Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization**|Yuanye Liu et.al.|[2502.04295](http://arxiv.org/abs/2502.04295)|null|
 |**2025-02-06**|**PILAF: Optimal Human Preference Sampling for Reward Modeling**|Yunzhen Feng et.al.|[2502.04270](http://arxiv.org/abs/2502.04270)|null|
 |**2025-02-06**|**How does a Multilingual LM Handle Multiple Languages?**|Santhosh Kakarla et.al.|[2502.04269](http://arxiv.org/abs/2502.04269)|null|
 |**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
-|**2025-02-06**|**Efficient Randomized Experiments Using Foundation Models**|Piersilvio De Bartolomeis et.al.|[2502.04262](http://arxiv.org/abs/2502.04262)|null|
+|**2025-02-06**|**Efficient Randomized Experiments Using Foundation Models**|Piersilvio De Bartolomeis et.al.|[2502.04262](http://arxiv.org/abs/2502.04262)|**[link](https://github.com/jaabmar/HAIPW)**|
 |**2025-02-06**|**MAGA: MAssive Genre-Audience Reformulation to Pretraining Corpus Expansion**|Xintong Hao et.al.|[2502.04235](http://arxiv.org/abs/2502.04235)|null|
 |**2025-02-06**|**Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks**|Andreas Happe et.al.|[2502.04227](http://arxiv.org/abs/2502.04227)|null|
 |**2025-02-06**|**Keep It Light! Simplifying Image Clustering Via Text-Free Adapters**|Yicen Li et.al.|[2502.04226](http://arxiv.org/abs/2502.04226)|null|
