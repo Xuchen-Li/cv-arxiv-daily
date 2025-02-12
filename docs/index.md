@@ -131,6 +131,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
+|**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
+|**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
+|**2025-02-11**|**Breaking Down Bias: On The Limits of Generalizable Pruning Strategies**|Sibo Ma et.al.|[2502.07771](http://arxiv.org/abs/2502.07771)|null|
+|**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
+|**2025-02-11**|**Scalable Fingerprinting of Large Language Models**|Anshul Nasery et.al.|[2502.07760](http://arxiv.org/abs/2502.07760)|null|
+|**2025-02-11**|**Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension**|Wenbo Gong et.al.|[2502.07752](http://arxiv.org/abs/2502.07752)|null|
+|**2025-02-11**|**WHODUNIT: Evaluation benchmark for culprit detection in mystery stories**|Kshitij Gupta et.al.|[2502.07747](http://arxiv.org/abs/2502.07747)|null|
+|**2025-02-11**|**The Economics of Large Language Models: Token Allocation, Fine-Tuning, and Optimal Pricing**|Dirk Bergemann et.al.|[2502.07736](http://arxiv.org/abs/2502.07736)|null|
+|**2025-02-11**|**Economics of Sourcing Human Data**|Sebastin Santy et.al.|[2502.07732](http://arxiv.org/abs/2502.07732)|null|
+|**2025-02-11**|**Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK**|Marcos Cramer et.al.|[2502.07728](http://arxiv.org/abs/2502.07728)|null|
+|**2025-02-11**|**Making Language Models Robust Against Negation**|MohammadHossein Rezaei et.al.|[2502.07717](http://arxiv.org/abs/2502.07717)|null|
+|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|null|
+|**2025-02-11**|**A Framework for LLM-powered Design Assistants**|Swaroop Panda et.al.|[2502.07698](http://arxiv.org/abs/2502.07698)|null|
+|**2025-02-11**|**Large Language Models as Proxies for Theories of Human Linguistic Cognition**|Imry Ziv et.al.|[2502.07687](http://arxiv.org/abs/2502.07687)|null|
+|**2025-02-11**|**SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models**|Shihao Xia et.al.|[2502.07644](http://arxiv.org/abs/2502.07644)|null|
+|**2025-02-11**|**FoQA: A Faroese Question-Answering Dataset**|Annika Simonsen et.al.|[2502.07642](http://arxiv.org/abs/2502.07642)|null|
+|**2025-02-11**|**Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving**|Yong Lin et.al.|[2502.07640](http://arxiv.org/abs/2502.07640)|null|
+|**2025-02-11**|**Exploring Mobile Touch Interaction with Large Language Models**|Tim Zindulka et.al.|[2502.07629](http://arxiv.org/abs/2502.07629)|null|
+|**2025-02-11**|**Scaling Pre-training to One Hundred Billion Data for Vision Language Models**|Xiao Wang et.al.|[2502.07617](http://arxiv.org/abs/2502.07617)|null|
 |**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788](http://arxiv.org/abs/2502.06788)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**DeepCrossAttention: Supercharging Transformer Residual Connections**|Mike Heddes et.al.|[2502.06785](http://arxiv.org/abs/2502.06785)|null|
@@ -4982,8 +5002,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**|Sheng Zhou et.al.|[2502.07411](http://arxiv.org/abs/2502.07411)|null|
+|**2025-02-11**|**Enhancing Video Understanding: Deep Neural Networks for Spatiotemporal Analysis**|Amir Hosein Fadaei et.al.|[2502.07277](http://arxiv.org/abs/2502.07277)|null|
+|**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
 |**2025-02-10**|**A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**|Linxiao Gong et.al.|[2502.06581](http://arxiv.org/abs/2502.06581)|null|
-|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428](http://arxiv.org/abs/2502.06428)|null|
+|**2025-02-11**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428](http://arxiv.org/abs/2502.06428)|null|
 |**2025-02-09**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020](http://arxiv.org/abs/2502.06020)|null|
 |**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
 |**2025-02-07**|**VideoRoPE: What Makes for Good Video Rotary Position Embedding?**|Xilin Wei et.al.|[2502.05173](http://arxiv.org/abs/2502.05173)|null|
