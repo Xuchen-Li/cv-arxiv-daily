@@ -139,6 +139,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642](http://arxiv.org/abs/2502.08642)|null|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Continuous Cardiac Arrest Prediction in ICU using PPG Foundation Model**|Saurabh Kataria et.al.|[2502.08612](http://arxiv.org/abs/2502.08612)|null|
+|**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**COAST: Intelligent Time-Adaptive Neural Operators**|Zhikai Wu et.al.|[2502.08574](http://arxiv.org/abs/2502.08574)|null|
+|**2025-02-12**|**QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval**|Wonduk Seo et.al.|[2502.08557](http://arxiv.org/abs/2502.08557)|null|
+|**2025-02-12**|**Human-Centric Foundation Models: Perception, Generation and Agentic Modeling**|Shixiang Tang et.al.|[2502.08556](http://arxiv.org/abs/2502.08556)|null|
+|**2025-02-12**|**Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies**|Sunnie S. Y. Kim et.al.|[2502.08554](http://arxiv.org/abs/2502.08554)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data**|Doudou Zhou et.al.|[2502.08547](http://arxiv.org/abs/2502.08547)|null|
+|**2025-02-12**|**Moment of Untruth: Dealing with Negative Queries in Video Moment Retrieval**|Kevin Flanagan et.al.|[2502.08544](http://arxiv.org/abs/2502.08544)|null|
+|**2025-02-12**|**LLM Pretraining with Continuous Concepts**|Jihoon Tack et.al.|[2502.08524](http://arxiv.org/abs/2502.08524)|null|
+|**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-12**|**Measuring Diversity in Synthetic Datasets**|Yuchang Zhu et.al.|[2502.08512](http://arxiv.org/abs/2502.08512)|null|
+|**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
+|**2025-02-12**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489](http://arxiv.org/abs/2502.08489)|null|
+|**2025-02-12**|**One-Shot Federated Learning with Classifier-Free Diffusion Models**|Obaidullah Zaland et.al.|[2502.08488](http://arxiv.org/abs/2502.08488)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
@@ -5015,7 +5035,7 @@
 |**2025-02-11**|**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**|Sheng Zhou et.al.|[2502.07411](http://arxiv.org/abs/2502.07411)|null|
 |**2025-02-11**|**Enhancing Video Understanding: Deep Neural Networks for Spatiotemporal Analysis**|Amir Hosein Fadaei et.al.|[2502.07277](http://arxiv.org/abs/2502.07277)|null|
 |**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
-|**2025-02-10**|**A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**|Linxiao Gong et.al.|[2502.06581](http://arxiv.org/abs/2502.06581)|null|
+|**2025-02-12**|**A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**|Linxiao Gong et.al.|[2502.06581](http://arxiv.org/abs/2502.06581)|null|
 |**2025-02-11**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428](http://arxiv.org/abs/2502.06428)|null|
 |**2025-02-09**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020](http://arxiv.org/abs/2502.06020)|null|
 |**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
@@ -5538,6 +5558,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**Temporal Model On Quantum Logic**|Francesco D'Agostino et.al.|[2502.07817](http://arxiv.org/abs/2502.07817)|null|
 |**2025-02-09**|**Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding**|Xingjian Diao et.al.|[2502.06020](http://arxiv.org/abs/2502.06020)|null|
 |**2025-02-08**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](http://arxiv.org/abs/2502.05713)|null|
 |**2025-02-06**|**MedGNN: Towards Multi-resolution Spatiotemporal Graph Learning for Medical Time Series Classification**|Wei Fan et.al.|[2502.04515](http://arxiv.org/abs/2502.04515)|null|
