@@ -131,6 +131,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|
+|**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962](http://arxiv.org/abs/2502.13962)|null|
+|**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
+|**2025-02-19**|**Neurosymbolic artificial intelligence via large language models and coherence-driven inference**|Steve Huntsman et.al.|[2502.13953](http://arxiv.org/abs/2502.13953)|null|
+|**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
+|**2025-02-19**|**A Chain-of-Thought Subspace Meta-Learning for Few-shot Image Captioning with Large Vision and Language Models**|Hao Huang et.al.|[2502.13942](http://arxiv.org/abs/2502.13942)|null|
+|**2025-02-19**|**Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**|Shengguang Wu et.al.|[2502.13928](http://arxiv.org/abs/2502.13928)|null|
+|**2025-02-19**|**Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**|Xiaochen Wang et.al.|[2502.13925](http://arxiv.org/abs/2502.13925)|null|
+|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|null|
+|**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**TESS 2: A Large-Scale Generalist Diffusion Language Model**|Jaesung Tae et.al.|[2502.13917](http://arxiv.org/abs/2502.13917)|null|
+|**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913](http://arxiv.org/abs/2502.13913)|null|
+|**2025-02-19**|**Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?**|Sein Kim et.al.|[2502.13909](http://arxiv.org/abs/2502.13909)|null|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**DataSciBench: An LLM Agent Benchmark for Data Science**|Dan Zhang et.al.|[2502.13897](http://arxiv.org/abs/2502.13897)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**Refining embeddings with fill-tuning: data-efficient generalised performance improvements for materials foundation models**|Matthew P. Wilson et.al.|[2502.13886](http://arxiv.org/abs/2502.13886)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
 |**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142](http://arxiv.org/abs/2502.13142)|null|
@@ -5102,6 +5122,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Capturing Rich Behavior Representations: A Dynamic Action Semantic-Aware Graph Transformer for Video Captioning**|Caihua Liu et.al.|[2502.13754](http://arxiv.org/abs/2502.13754)|null|
+|**2025-02-19**|**Pretrained Image-Text Models are Secretly Video Captioners**|Chunhui Zhang et.al.|[2502.13363](http://arxiv.org/abs/2502.13363)|null|
 |**2025-02-18**|**VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation**|Xinlong Chen et.al.|[2502.12782](http://arxiv.org/abs/2502.12782)|null|
 |**2025-02-18**|**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos**|Huaying Yuan et.al.|[2502.12558](http://arxiv.org/abs/2502.12558)|null|
 |**2025-02-17**|**video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**|Guangzhi Sun et.al.|[2502.11775](http://arxiv.org/abs/2502.11775)|null|
@@ -5635,6 +5657,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Capturing Rich Behavior Representations: A Dynamic Action Semantic-Aware Graph Transformer for Video Captioning**|Caihua Liu et.al.|[2502.13754](http://arxiv.org/abs/2502.13754)|null|
 |**2025-02-17**|**Unhackable Temporal Rewarding for Scalable Video MLLMs**|En Yu et.al.|[2502.12081](http://arxiv.org/abs/2502.12081)|null|
 |**2025-02-17**|**Deep Spatio-Temporal Neural Network for Air Quality Reanalysis**|Ammar Kheder et.al.|[2502.11941](http://arxiv.org/abs/2502.11941)|null|
 |**2025-02-16**|**ClimateLLM: Efficient Weather Forecasting via Frequency-Aware Large Language Models**|Shixuan Li et.al.|[2502.11059](http://arxiv.org/abs/2502.11059)|null|
