@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu et.al.|[2502.20111](http://arxiv.org/abs/2502.20111)|null|
+|**2025-02-27**|**CFTrack: Enhancing Lightweight Visual Tracking through Contrastive Learning and Feature Matching**|Juntao Liang et.al.|[2502.19705](http://arxiv.org/abs/2502.19705)|null|
 |**2025-02-26**|**Enhanced Transformer-Based Tracking for Skiing Events: Overcoming Multi-Camera Challenges, Scale Variations and Rapid Motion -- SkiTB Visual Tracking Challenge 2025**|Akhil Penta et.al.|[2502.18867](http://arxiv.org/abs/2502.18867)|null|
 |**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang et.al.|[2502.18220](http://arxiv.org/abs/2502.18220)|null|
 |**2025-02-08**|**Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark**|Shiao Wang et.al.|[2502.05574](http://arxiv.org/abs/2502.05574)|**[link](https://github.com/event-ahu/eventvot_benchmark)**|
@@ -133,6 +135,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
+|**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379](http://arxiv.org/abs/2502.20379)|null|
+|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/abs/2502.20377)|null|
+|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
+|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356](http://arxiv.org/abs/2502.20356)|null|
+|**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
+|**2025-02-27**|**Sparse Auto-Encoder Interprets Linguistic Features in Large Language Models**|Yi Jing et.al.|[2502.20344](http://arxiv.org/abs/2502.20344)|null|
+|**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/abs/2502.20339)|null|
+|**2025-02-27**|**Expertise Is What We Want**|Alan Ashworth et.al.|[2502.20335](http://arxiv.org/abs/2502.20335)|null|
+|**2025-02-27**|**Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models**|Yukang Yang et.al.|[2502.20332](http://arxiv.org/abs/2502.20332)|null|
+|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|null|
+|**2025-02-27**|**LangProBe: a Language Programs Benchmark**|Shangyin Tan et.al.|[2502.20315](http://arxiv.org/abs/2502.20315)|null|
+|**2025-02-27**|**EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants**|Franck Cappello et.al.|[2502.20309](http://arxiv.org/abs/2502.20309)|null|
+|**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301](http://arxiv.org/abs/2502.20301)|null|
+|**2025-02-27**|**An exploration of features to improve the generalisability of fake news detection models**|Nathaniel Hoy et.al.|[2502.20299](http://arxiv.org/abs/2502.20299)|null|
+|**2025-02-27**|**Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription**|Benjamin Gutteridge et.al.|[2502.20295](http://arxiv.org/abs/2502.20295)|null|
+|**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
+|**2025-02-27**|**Conformal Tail Risk Control for Large Language Model Alignment**|Catherine Yu-Chi Chen et.al.|[2502.20285](http://arxiv.org/abs/2502.20285)|null|
+|**2025-02-27**|**Evaluating Human Trust in LLM-Based Planners: A Preliminary Study**|Shenghui Chen et.al.|[2502.20284](http://arxiv.org/abs/2502.20284)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
 |**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416](http://arxiv.org/abs/2502.19416)|null|
 |**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
@@ -5224,6 +5246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361](http://arxiv.org/abs/2502.20361)|null|
+|**2025-02-27**|**M-LLM Based Video Frame Selection for Efficient Video Understanding**|Kai Hu et.al.|[2502.19680](http://arxiv.org/abs/2502.19680)|null|
 |**2025-02-26**|**InternVQA: Advancing Compressed Video Quality Assessment with Distilling Large Foundation Model**|Fengbin Guan et.al.|[2502.19026](http://arxiv.org/abs/2502.19026)|null|
 |**2025-02-26**|**Task Graph Maximum Likelihood Estimation for Procedural Activity Understanding in Egocentric Videos**|Luigi Seminara et.al.|[2502.17753](http://arxiv.org/abs/2502.17753)|**[link](https://github.com/fpv-iplab/differentiable-task-graph-learning)**|
 |**2025-02-23**|**Fine-Grained Video Captioning through Scene Graph Consolidation**|Sanghyeok Chu et.al.|[2502.16427](http://arxiv.org/abs/2502.16427)|null|
