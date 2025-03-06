@@ -5866,7 +5866,7 @@ layout: default
 |**2025-03-03**|**Bayesian spatio-temporal modelling for infectious disease outbreak detection**|Matthew Adeoye et.al.|[2503.01456](http://arxiv.org/abs/2503.01456)|null|
 |**2025-03-03**|**STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction**|Shilin Tong et.al.|[2503.01152](http://arxiv.org/abs/2503.01152)|null|
 |**2025-03-02**|**MoSFormer: Augmenting Temporal Context with Memory of Surgery for Surgical Phase Recognition**|Hao Ding et.al.|[2503.00695](http://arxiv.org/abs/2503.00695)|null|
-|**2025-02-28**|**JiTTER: Jigsaw Temporal Transformer for Event Reconstruction for Self-Supervised Sound Event Detection**|Hyeonuk Nam et.al.|[2502.20857](http://arxiv.org/abs/2502.20857)|null|
+|**2025-02-28**|**JiTTER: Jigsaw Temporal Transformer for Event Reconstruction for Self-Supervised Sound Event Detection**|Hyeonuk Nam et.al.|[2502.20857](http://arxiv.org/abs/2502.20857)|**[link](https://github.com/frednam93/JiTTER-SED)**|
 |**2025-02-28**|**Towards Practical Real-Time Neural Video Compression**|Zhaoyang Jia et.al.|[2502.20762](http://arxiv.org/abs/2502.20762)|**[link](https://github.com/microsoft/dcvc)**|
 |**2025-02-26**|**Arctic teleconnection on climate and ozone pollution in the polar jet stream path of eastern US**|K Shuvo Bakar et.al.|[2502.19234](http://arxiv.org/abs/2502.19234)|null|
 |**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|**[link](https://github.com/scnu-rislab/mambaflow)**|
