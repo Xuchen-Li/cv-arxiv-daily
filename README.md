@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|null|
+|**2025-03-09**|**Dynamic Updates for Language Adaptation in Visual-Language Tracking**|Xiaohai Li et.al.|[2503.06621](http://arxiv.org/abs/2503.06621)|null|
 |**2025-02-28**|**Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025**|Kunjun Li et.al.|[2503.01907](http://arxiv.org/abs/2503.01907)|null|
 |**2025-03-01**|**Two-stream Beats One-stream: Asymmetric Siamese Network for Efficient Visual Tracking**|Jiawen Zhu et.al.|[2503.00516](http://arxiv.org/abs/2503.00516)|**[link](https://github.com/jiawen-zhu/asymtrack)**|
 |**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu et.al.|[2502.20111](http://arxiv.org/abs/2502.20111)|null|
@@ -145,6 +147,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
+|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
+|**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575](http://arxiv.org/abs/2503.07575)|null|
+|**2025-03-10**|**AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning**|Yangzhe Kong et.al.|[2503.07557](http://arxiv.org/abs/2503.07557)|null|
+|**2025-03-10**|**Junior Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review**|Samuel Ferino et.al.|[2503.07556](http://arxiv.org/abs/2503.07556)|null|
+|**2025-03-10**|**KSOD: Knowledge Supplement for LLMs On Demand**|Haoran Li et.al.|[2503.07550](http://arxiv.org/abs/2503.07550)|null|
+|**2025-03-10**|**Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models**|Nina Moorman et.al.|[2503.07547](http://arxiv.org/abs/2503.07547)|null|
+|**2025-03-10**|**Queueing, Predictions, and LLMs: Challenges and Open Problems**|Michael Mitzenmacher et.al.|[2503.07545](http://arxiv.org/abs/2503.07545)|null|
+|**2025-03-10**|**XIFBench: Evaluating Large Language Models on Multilingual Instruction Following**|Zhenyu Li et.al.|[2503.07539](http://arxiv.org/abs/2503.07539)|null|
+|**2025-03-10**|**Building English ASR model with regional language support**|Purvi Agrawal et.al.|[2503.07522](http://arxiv.org/abs/2503.07522)|null|
+|**2025-03-10**|**GRITHopper: Decomposition-Free Multi-Hop Dense Retrieval**|Justus-Jonas Erker et.al.|[2503.07519](http://arxiv.org/abs/2503.07519)|null|
+|**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
+|**2025-03-10**|**Language Models Fail to Introspect About Their Knowledge of Language**|Siyuan Song et.al.|[2503.07513](http://arxiv.org/abs/2503.07513)|null|
+|**2025-03-10**|**Plume: Scaffolding Text Composition in Dashboards**|Maxim Lisnic et.al.|[2503.07512](http://arxiv.org/abs/2503.07512)|null|
+|**2025-03-10**|**Sometimes the Model doth Preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations**|Hari Shankar et.al.|[2503.07510](http://arxiv.org/abs/2503.07510)|null|
+|**2025-03-10**|**Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts**|Shiu-hong Kao et.al.|[2503.07503](http://arxiv.org/abs/2503.07503)|null|
+|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/abs/2503.07493)|null|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
+|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/abs/2503.07478)|null|
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
@@ -5358,6 +5380,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**ALLVB: All-in-One Long Video Understanding Benchmark**|Xichen Tan et.al.|[2503.07298](http://arxiv.org/abs/2503.07298)|null|
+|**2025-03-10**|**Towards Fine-Grained Video Question Answering**|Wei Dai et.al.|[2503.06820](http://arxiv.org/abs/2503.06820)|null|
+|**2025-03-09**|**TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos**|Chen-Lin Zhang et.al.|[2503.06526](http://arxiv.org/abs/2503.06526)|null|
+|**2025-03-08**|**Get In Video: Add Anything You Want to the Video**|Shaobin Zhuang et.al.|[2503.06268](http://arxiv.org/abs/2503.06268)|null|
 |**2025-03-07**|**Unified Reward Model for Multimodal Understanding and Generation**|Yibin Wang et.al.|[2503.05236](http://arxiv.org/abs/2503.05236)|null|
 |**2025-03-06**|**Token-Efficient Long Video Understanding for Multimodal LLMs**|Jindong Jiang et.al.|[2503.04130](http://arxiv.org/abs/2503.04130)|null|
 |**2025-03-06**|**EVE: Towards End-to-End Video Subtitle Extraction with Vision-Language Models**|Haiyang Yu et.al.|[2503.04058](http://arxiv.org/abs/2503.04058)|null|
@@ -5917,6 +5943,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**Future-Aware Interaction Network For Motion Forecasting**|Shijie Li et.al.|[2503.06565](http://arxiv.org/abs/2503.06565)|null|
 |**2025-03-06**|**STX-Search: Explanation Search for Continuous Dynamic Spatio-Temporal Models**|Saif Anwar et.al.|[2503.04509](http://arxiv.org/abs/2503.04509)|null|
 |**2025-03-06**|**Token-Efficient Long Video Understanding for Multimodal LLMs**|Jindong Jiang et.al.|[2503.04130](http://arxiv.org/abs/2503.04130)|null|
 |**2025-03-05**|**IC-Mapper: Instance-Centric Spatio-Temporal Modeling for Online Vectorized Map Construction**|Jiangtong Zhu et.al.|[2503.03882](http://arxiv.org/abs/2503.03882)|null|
