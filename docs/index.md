@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5909,8 +5909,8 @@ layout: default
 |**2025-03-06**|**Token-Efficient Long Video Understanding for Multimodal LLMs**|Jindong Jiang et.al.|[2503.04130](http://arxiv.org/abs/2503.04130)|null|
 |**2025-03-05**|**IC-Mapper: Instance-Centric Spatio-Temporal Modeling for Online Vectorized Map Construction**|Jiangtong Zhu et.al.|[2503.03882](http://arxiv.org/abs/2503.03882)|null|
 |**2025-03-05**|**TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization**|Jiayi Zhang et.al.|[2503.03276](http://arxiv.org/abs/2503.03276)|null|
-|**2025-03-04**|**Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots**|Shuang Chen et.al.|[2503.02752](http://arxiv.org/abs/2503.02752)|null|
-|**2025-03-03**|**Bayesian spatio-temporal modelling for infectious disease outbreak detection**|Matthew Adeoye et.al.|[2503.01456](http://arxiv.org/abs/2503.01456)|null|
+|**2025-03-04**|**Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots**|Shuang Chen et.al.|[2503.02752](http://arxiv.org/abs/2503.02752)|**[link](https://github.com/chrischen1023/micro-robot-swarm)**|
+|**2025-03-03**|**Bayesian spatio-temporal modelling for infectious disease outbreak detection**|Matthew Adeoye et.al.|[2503.01456](http://arxiv.org/abs/2503.01456)|**[link](https://github.com/matthewadeoye/detectoutbreaks)**|
 |**2025-03-03**|**STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction**|Shilin Tong et.al.|[2503.01152](http://arxiv.org/abs/2503.01152)|null|
 |**2025-03-02**|**MoSFormer: Augmenting Temporal Context with Memory of Surgery for Surgical Phase Recognition**|Hao Ding et.al.|[2503.00695](http://arxiv.org/abs/2503.00695)|null|
 |**2025-02-28**|**JiTTER: Jigsaw Temporal Transformer for Event Reconstruction for Self-Supervised Sound Event Detection**|Hyeonuk Nam et.al.|[2502.20857](http://arxiv.org/abs/2502.20857)|**[link](https://github.com/frednam93/JiTTER-SED)**|
