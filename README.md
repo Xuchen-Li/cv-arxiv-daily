@@ -1,4 +1,4 @@
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|null|
+|**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|**[link](https://github.com/gxnu-zhonglab/sglatrack)**|
 |**2025-03-09**|**Dynamic Updates for Language Adaptation in Visual-Language Tracking**|Xiaohai Li et.al.|[2503.06621](http://arxiv.org/abs/2503.06621)|null|
 |**2025-02-28**|**Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025**|Kunjun Li et.al.|[2503.01907](http://arxiv.org/abs/2503.01907)|null|
 |**2025-03-01**|**Two-stream Beats One-stream: Asymmetric Siamese Network for Efficient Visual Tracking**|Jiawen Zhu et.al.|[2503.00516](http://arxiv.org/abs/2503.00516)|**[link](https://github.com/jiawen-zhu/asymtrack)**|
@@ -141,7 +141,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -5450,7 +5450,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -5461,7 +5461,7 @@
 |**2025-03-13**|**TIME: Temporal-sensitive Multi-dimensional Instruction Tuning and Benchmarking for Video-LLMs**|Yunxiao Wang et.al.|[2503.09994](http://arxiv.org/abs/2503.09994)|null|
 |**2025-03-12**|**On the Limitations of Vision-Language Models in Understanding Image Transforms**|Ahmad Mustafa Anis et.al.|[2503.09837](http://arxiv.org/abs/2503.09837)|null|
 |**2025-03-13**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
-|**2025-03-12**|**VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary**|Kevin Qinghong Lin et.al.|[2503.09402](http://arxiv.org/abs/2503.09402)|null|
+|**2025-03-12**|**VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary**|Kevin Qinghong Lin et.al.|[2503.09402](http://arxiv.org/abs/2503.09402)|**[link](https://github.com/showlab/vlog)**|
 |**2025-03-12**|**VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers**|Ruanjun Li et.al.|[2503.09387](http://arxiv.org/abs/2503.09387)|null|
 |**2025-03-12**|**Cockatiel: Ensembling Synthetic and Human Preferenced Training for Detailed Video Caption**|Luozheng Qin et.al.|[2503.09279](http://arxiv.org/abs/2503.09279)|null|
 |**2025-03-13**|**FaVChat: Unlocking Fine-Grained Facial Video Understanding with Multimodal Large Language Models**|Fufangchen Zhao et.al.|[2503.09158](http://arxiv.org/abs/2503.09158)|null|
@@ -5470,7 +5470,7 @@
 |**2025-03-12**|**Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding**|Haoyu Zhang et.al.|[2503.09143](http://arxiv.org/abs/2503.09143)|null|
 |**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081](http://arxiv.org/abs/2503.09081)|null|
 |**2025-03-12**|**Measure Twice, Cut Once: Grasping Video Structures and Event Semantics with LLMs for Video Temporal Localization**|Zongshang Pang et.al.|[2503.09027](http://arxiv.org/abs/2503.09027)|null|
-|**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/abs/2503.08689)|null|
+|**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/abs/2503.08689)|**[link](https://github.com/mac-automl/quota)**|
 |**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585](http://arxiv.org/abs/2503.08585)|null|
 |**2025-03-11**|**RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding**|Xichen Tan et.al.|[2503.08576](http://arxiv.org/abs/2503.08576)|null|
 |**2025-03-11**|**Prompt2LVideos: Exploring Prompts for Understanding Long-Form Multimodal Videos**|Soumya Shamarao Jahagirdar et.al.|[2503.08335](http://arxiv.org/abs/2503.08335)|null|
@@ -6032,7 +6032,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -6243,5 +6243,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
