@@ -5546,13 +5546,13 @@
 |**2025-03-18**|**Improving LLM Video Understanding with 16 Frames Per Second**|Yixuan Li et.al.|[2503.13956](http://arxiv.org/abs/2503.13956)|null|
 |**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724](http://arxiv.org/abs/2503.13724)|null|
 |**2025-03-17**|**Long-VMNet: Accelerating Long-Form Video Understanding via Fixed Memory**|Saket Gurukar et.al.|[2503.13707](http://arxiv.org/abs/2503.13707)|null|
-|**2025-03-17**|**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**|Chiara Plizzari et.al.|[2503.13646](http://arxiv.org/abs/2503.13646)|null|
+|**2025-03-17**|**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**|Chiara Plizzari et.al.|[2503.13646](http://arxiv.org/abs/2503.13646)|**[link](https://github.com/google-research-datasets/egotempo)**|
 |**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|null|
 |**2025-03-17**|**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding**|Weiyu Guo et.al.|[2503.13139](http://arxiv.org/abs/2503.13139)|null|
 |**2025-03-17**|**Efficient Motion-Aware Video MLLM**|Zijia Zhao et.al.|[2503.13016](http://arxiv.org/abs/2503.13016)|null|
 |**2025-03-17**|**VITED: Video Temporal Evidence Distillation**|Yujie Lu et.al.|[2503.12855](http://arxiv.org/abs/2503.12855)|null|
 |**2025-03-17**|**ViSpeak: Visual Instruction Feedback in Streaming Videos**|Shenghao Fu et.al.|[2503.12769](http://arxiv.org/abs/2503.12769)|null|
-|**2025-03-16**|**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**|Xiao Wang et.al.|[2503.12559](http://arxiv.org/abs/2503.12559)|null|
+|**2025-03-16**|**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**|Xiao Wang et.al.|[2503.12559](http://arxiv.org/abs/2503.12559)|**[link](https://github.com/sczwangxiao/video-flexreduc)**|
 |**2025-03-16**|**Does Your Vision-Language Model Get Lost in the Long Video Sampling Dilemma?**|Tianyuan Qu et.al.|[2503.12496](http://arxiv.org/abs/2503.12496)|null|
 |**2025-03-16**|**Causality Model for Semantic Understanding on Videos**|Li Yicong et.al.|[2503.12447](http://arxiv.org/abs/2503.12447)|null|
 |**2025-03-16**|**VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining**|Yunze Liu et.al.|[2503.12332](http://arxiv.org/abs/2503.12332)|null|
