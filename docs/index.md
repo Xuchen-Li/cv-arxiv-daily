@@ -142,6 +142,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/abs/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
+|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385](http://arxiv.org/abs/2503.16385)|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
+|**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365](http://arxiv.org/abs/2503.16365)|null|
+|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|null|
+|**2025-03-20**|**Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences**|Krithik Ramesh et.al.|[2503.16351](http://arxiv.org/abs/2503.16351)|null|
+|**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
+|**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
+|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
+|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/abs/2503.16304)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
+|**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
+|**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|null|
+|**2025-03-20**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252](http://arxiv.org/abs/2503.16252)|null|
+|**2025-03-20**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**|Quy-Anh Dang et.al.|[2503.16219](http://arxiv.org/abs/2503.16219)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
 |**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
 |**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477](http://arxiv.org/abs/2503.15477)|null|
@@ -5529,6 +5549,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
+|**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|null|
+|**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032](http://arxiv.org/abs/2503.16032)|null|
+|**2025-03-20**|**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**|Zichen Liu et.al.|[2503.15973](http://arxiv.org/abs/2503.15973)|null|
+|**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
+|**2025-03-20**|**MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations**|Kyungho Bae et.al.|[2503.15871](http://arxiv.org/abs/2503.15871)|null|
+|**2025-03-20**|**What can Off-the-Shelves Large Multi-Modal Models do for Dynamic Scene Graph Generation?**|Xuanming Cui et.al.|[2503.15846](http://arxiv.org/abs/2503.15846)|null|
 |**2025-03-19**|**Neuro Symbolic Knowledge Reasoning for Procedural Video Question Answering**|Thanh-Son Nguyen et.al.|[2503.14957](http://arxiv.org/abs/2503.14957)|null|
 |**2025-03-19**|**FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding**|Chongjun Tu et.al.|[2503.14935](http://arxiv.org/abs/2503.14935)|null|
 |**2025-03-18**|**Impossible Videos**|Zechen Bai et.al.|[2503.14378](http://arxiv.org/abs/2503.14378)|null|
@@ -6132,6 +6159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Copula-based spatio-temporal modeling of air pollutant data incorporating covariate dependencies**|Soyun Jeon et.al.|[2503.15935](http://arxiv.org/abs/2503.15935)|null|
 |**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126](http://arxiv.org/abs/2503.15126)|null|
 |**2025-03-18**|**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset**|Yiqun Mei et.al.|[2503.14485](http://arxiv.org/abs/2503.14485)|null|
