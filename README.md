@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
+|**2025-03-22**|**MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**|Haolin Qin et.al.|[2503.17699](http://arxiv.org/abs/2503.17699)|null|
 |**2025-03-21**|**Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking**|Meng Zhou et.al.|[2503.16768](http://arxiv.org/abs/2503.16768)|null|
 |**2025-03-17**|**UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network**|Siyuan Yao et.al.|[2503.12888](http://arxiv.org/abs/2503.12888)|**[link](https://github.com/ManOfStory/UncTrack)**|
 |**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527](http://arxiv.org/abs/2503.12527)|null|
@@ -151,6 +153,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
+|**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931](http://arxiv.org/abs/2503.18931)|null|
+|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
+|**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923](http://arxiv.org/abs/2503.18923)|null|
+|**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908](http://arxiv.org/abs/2503.18908)|null|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891](http://arxiv.org/abs/2503.18891)|null|
+|**2025-03-24**|**Toward building next-generation Geocoding systems: a systematic review**|Zhengcong Yin et.al.|[2503.18888](http://arxiv.org/abs/2503.18888)|null|
+|**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
+|**2025-03-24**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873](http://arxiv.org/abs/2503.18873)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866](http://arxiv.org/abs/2503.18866)|null|
+|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865](http://arxiv.org/abs/2503.18865)|null|
+|**2025-03-24**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854](http://arxiv.org/abs/2503.18854)|null|
+|**2025-03-24**|**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**|Jeonghyeon Kim et.al.|[2503.18817](http://arxiv.org/abs/2503.18817)|null|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
 |**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353](http://arxiv.org/abs/2503.17353)|null|
@@ -5580,6 +5602,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
+|**2025-03-24**|**CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos**|Yang Liu et.al.|[2503.18808](http://arxiv.org/abs/2503.18808)|null|
+|**2025-03-24**|**Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks**|Nina Shvetsova et.al.|[2503.18637](http://arxiv.org/abs/2503.18637)|null|
+|**2025-03-24**|**Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding**|Xiangrui Liu et.al.|[2503.18478](http://arxiv.org/abs/2503.18478)|null|
+|**2025-03-24**|**Breaking the Encoder Barrier for Seamless Video-Language Understanding**|Handong Li et.al.|[2503.18422](http://arxiv.org/abs/2503.18422)|null|
+|**2025-03-24**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
+|**2025-03-23**|**MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps**|Valentin Gabeff et.al.|[2503.18223](http://arxiv.org/abs/2503.18223)|null|
+|**2025-03-22**|**4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**|Wenxuan Zhu et.al.|[2503.17827](http://arxiv.org/abs/2503.17827)|null|
+|**2025-03-22**|**V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction**|Yiming Zhao et.al.|[2503.17736](http://arxiv.org/abs/2503.17736)|null|
+|**2025-03-22**|**Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization**|Zhuo Tao et.al.|[2503.17651](http://arxiv.org/abs/2503.17651)|null|
 |**2025-03-21**|**PVChat: Personalized Video Chat with One-Shot Learning**|Yufei Shi et.al.|[2503.17069](http://arxiv.org/abs/2503.17069)|null|
 |**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[2503.16916](http://arxiv.org/abs/2503.16916)|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|**[link](https://github.com/mit-han-lab/x-attention)**|
@@ -6194,6 +6226,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
+|**2025-03-23**|**TransAnimate: Taming Layer Diffusion to Generate RGBA Video**|Xuewei Chen et.al.|[2503.17934](http://arxiv.org/abs/2503.17934)|null|
+|**2025-03-22**|**A Temporal Modeling Framework for Video Pre-Training on Video Instance Segmentation**|Qing Zhong et.al.|[2503.17672](http://arxiv.org/abs/2503.17672)|null|
 |**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153](http://arxiv.org/abs/2503.17153)|null|
 |**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945](http://arxiv.org/abs/2503.16945)|null|
 |**2025-03-20**|**Spatial-temporal models for forest inventory data**|Paul B. May et.al.|[2503.16691](http://arxiv.org/abs/2503.16691)|null|
