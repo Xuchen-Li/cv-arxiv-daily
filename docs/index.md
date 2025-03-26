@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5597,7 +5597,7 @@ layout: default
 |**2025-03-24**|**Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks**|Nina Shvetsova et.al.|[2503.18637](http://arxiv.org/abs/2503.18637)|null|
 |**2025-03-24**|**Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding**|Xiangrui Liu et.al.|[2503.18478](http://arxiv.org/abs/2503.18478)|null|
 |**2025-03-24**|**Breaking the Encoder Barrier for Seamless Video-Language Understanding**|Handong Li et.al.|[2503.18422](http://arxiv.org/abs/2503.18422)|null|
-|**2025-03-24**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
+|**2025-03-25**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
 |**2025-03-23**|**MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps**|Valentin Gabeff et.al.|[2503.18223](http://arxiv.org/abs/2503.18223)|null|
 |**2025-03-22**|**4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**|Wenxuan Zhu et.al.|[2503.17827](http://arxiv.org/abs/2503.17827)|null|
 |**2025-03-22**|**V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction**|Yiming Zhao et.al.|[2503.17736](http://arxiv.org/abs/2503.17736)|null|
@@ -5607,7 +5607,7 @@ layout: default
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|**[link](https://github.com/mit-han-lab/x-attention)**|
 |**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|null|
 |**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032](http://arxiv.org/abs/2503.16032)|**[link](https://github.com/fansunqi/akeys)**|
-|**2025-03-20**|**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**|Zichen Liu et.al.|[2503.15973](http://arxiv.org/abs/2503.15973)|null|
+|**2025-03-25**|**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**|Zichen Liu et.al.|[2503.15973](http://arxiv.org/abs/2503.15973)|null|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-20**|**MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations**|Kyungho Bae et.al.|[2503.15871](http://arxiv.org/abs/2503.15871)|null|
 |**2025-03-20**|**What can Off-the-Shelves Large Multi-Modal Models do for Dynamic Scene Graph Generation?**|Xuanming Cui et.al.|[2503.15846](http://arxiv.org/abs/2503.15846)|null|
@@ -6214,7 +6214,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
+|**2025-03-25**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
 |**2025-03-23**|**TransAnimate: Taming Layer Diffusion to Generate RGBA Video**|Xuewei Chen et.al.|[2503.17934](http://arxiv.org/abs/2503.17934)|null|
 |**2025-03-22**|**A Temporal Modeling Framework for Video Pre-Training on Video Instance Segmentation**|Qing Zhong et.al.|[2503.17672](http://arxiv.org/abs/2503.17672)|null|
 |**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153](http://arxiv.org/abs/2503.17153)|null|
@@ -6225,7 +6225,7 @@ layout: default
 |**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126](http://arxiv.org/abs/2503.15126)|null|
 |**2025-03-18**|**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset**|Yiqun Mei et.al.|[2503.14485](http://arxiv.org/abs/2503.14485)|null|
 |**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392](http://arxiv.org/abs/2503.11392)|null|
-|**2025-03-13**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530](http://arxiv.org/abs/2503.10530)|null|
+|**2025-03-25**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530](http://arxiv.org/abs/2503.10530)|null|
 |**2025-03-13**|**Interactive Multimodal Fusion with Temporal Modeling**|Jun Yu et.al.|[2503.10523](http://arxiv.org/abs/2503.10523)|null|
 |**2025-03-13**|**Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space**|Yuheng Liang et.al.|[2503.10104](http://arxiv.org/abs/2503.10104)|**[link](https://github.com/freedompuppy77/charon)**|
 |**2025-03-09**|**Future-Aware Interaction Network For Motion Forecasting**|Shijie Li et.al.|[2503.06565](http://arxiv.org/abs/2503.06565)|null|
