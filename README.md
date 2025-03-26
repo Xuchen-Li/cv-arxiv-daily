@@ -154,7 +154,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
-|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
 |**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|
 |**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889](http://arxiv.org/abs/2503.19889)|null|
