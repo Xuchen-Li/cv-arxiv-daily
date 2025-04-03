@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6347,7 +6347,7 @@ layout: default
 |**2025-03-20**|**Copula-based spatio-temporal modeling of air pollutant data incorporating covariate dependencies**|Soyun Jeon et.al.|[2503.15935](http://arxiv.org/abs/2503.15935)|null|
 |**2025-03-27**|**Dynamic Bi-Elman Attention Networks: A Dual-Directional Context-Aware Test-Time Learning for Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126](http://arxiv.org/abs/2503.15126)|null|
-|**2025-03-18**|**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset**|Yiqun Mei et.al.|[2503.14485](http://arxiv.org/abs/2503.14485)|null|
+|**2025-04-02**|**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset**|Yiqun Mei et.al.|[2503.14485](http://arxiv.org/abs/2503.14485)|null|
 |**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392](http://arxiv.org/abs/2503.11392)|null|
 |**2025-03-25**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530](http://arxiv.org/abs/2503.10530)|**[link](https://github.com/prvsl/abaw-8th)**|
 |**2025-03-13**|**Interactive Multimodal Fusion with Temporal Modeling**|Jun Yu et.al.|[2503.10523](http://arxiv.org/abs/2503.10523)|null|
