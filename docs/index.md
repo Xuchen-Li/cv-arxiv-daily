@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -153,13 +153,13 @@ layout: default
 |**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231](http://arxiv.org/abs/2504.06231)|null|
 |**2025-04-08**|**LExT: Towards Evaluating Trustworthiness of Natural Language Explanations**|Krithi Shailya et.al.|[2504.06227](http://arxiv.org/abs/2504.06227)|null|
 |**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225](http://arxiv.org/abs/2504.06225)|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
 |**2025-04-08**|**Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**|Dongyang Fan et.al.|[2504.06219](http://arxiv.org/abs/2504.06219)|null|
 |**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
 |**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
 |**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
 |**2025-04-08**|**Assessing how hyperparameters impact Large Language Models' sarcasm detection performance**|Montgomery Gole et.al.|[2504.06166](http://arxiv.org/abs/2504.06166)|null|
-|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
+|**2025-04-09**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
 |**2025-04-08**|**A Large-Scale Analysis on Contextual Self-Supervised Video Representation Learning**|Akash Kumar et.al.|[2504.06153](http://arxiv.org/abs/2504.06153)|null|
 |**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|null|
 |**2025-04-08**|**ARLO: A Tailorable Approach for Transforming Natural Language Software Requirements into Architecture using LLMs**|Tooraj Helmi et.al.|[2504.06143](http://arxiv.org/abs/2504.06143)|null|
@@ -5795,7 +5795,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
 |**2025-04-08**|**Video Flow as Time Series: Discovering Temporal Consistency and Variability for VideoQA**|Zijie Song et.al.|[2504.05783](http://arxiv.org/abs/2504.05783)|null|
-|**2025-04-07**|**Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting**|Yunlong Tang et.al.|[2504.05541](http://arxiv.org/abs/2504.05541)|**[link](https://github.com/yunlong10/CAT-V)**|
+|**2025-04-09**|**Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting**|Yunlong Tang et.al.|[2504.05541](http://arxiv.org/abs/2504.05541)|**[link](https://github.com/yunlong10/CAT-V)**|
 |**2025-04-07**|**REEF: Relevance-Aware and Efficient LLM Adapter for Video Understanding**|Sakib Reza et.al.|[2504.05491](http://arxiv.org/abs/2504.05491)|null|
 |**2025-04-07**|**REVEAL: Relation-based Video Representation Learning for Video-Question-Answering**|Sofian Chaybouti et.al.|[2504.05463](http://arxiv.org/abs/2504.05463)|null|
 |**2025-04-07**|**PvNeXt: Rethinking Network Design and Temporal Motion for Point Cloud Video Recognition**|Jie Wang et.al.|[2504.05075](http://arxiv.org/abs/2504.05075)|null|
