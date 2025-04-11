@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5826,7 +5826,7 @@ layout: default
 |**2025-04-07**|**Unsupervised Ego- and Exo-centric Dense Procedural Activity Captioning via Gaze Consensus Adaptation**|Zhaofeng Shi et.al.|[2504.04840](http://arxiv.org/abs/2504.04840)|null|
 |**2025-04-06**|**Advancing Egocentric Video Question Answering with Multimodal Large Language Models**|Alkesh Patel et.al.|[2504.04550](http://arxiv.org/abs/2504.04550)|null|
 |**2025-04-06**|**VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT**|Zhuo Zhi et.al.|[2504.04471](http://arxiv.org/abs/2504.04471)|null|
-|**2025-04-04**|**VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models**|Dahun Kim et.al.|[2504.03970](http://arxiv.org/abs/2504.03970)|null|
+|**2025-04-10**|**VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models**|Dahun Kim et.al.|[2504.03970](http://arxiv.org/abs/2504.03970)|null|
 |**2025-04-08**|**Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation**|Chuanqi Cheng et.al.|[2504.02438](http://arxiv.org/abs/2504.02438)|null|
 |**2025-04-03**|**Leveraging Static Relationships for Intra-Type and Inter-Type Message Passing in Video Question Answering**|Lili Liang et.al.|[2504.02417](http://arxiv.org/abs/2504.02417)|null|
 |**2025-04-03**|**Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval**|Boseung Jeong et.al.|[2504.02397](http://arxiv.org/abs/2504.02397)|null|
@@ -6479,7 +6479,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-08**|**Video Flow as Time Series: Discovering Temporal Consistency and Variability for VideoQA**|Zijie Song et.al.|[2504.05783](http://arxiv.org/abs/2504.05783)|null|
-|**2025-04-05**|**LATTE: Lightweight Attention-based Traffic Accident Anticipation Engine**|Jiaxun Zhang et.al.|[2504.04103](http://arxiv.org/abs/2504.04103)|null|
+|**2025-04-10**|**LATTE: Lightweight Attention-based Traffic Accident Anticipation Engine**|Jiaxun Zhang et.al.|[2504.04103](http://arxiv.org/abs/2504.04103)|null|
 |**2025-04-05**|**Multi-resolution Score-Based Variational Graphical Diffusion for Causal Disaster System Modeling and Inference**|Xuechun Li et.al.|[2504.04015](http://arxiv.org/abs/2504.04015)|null|
 |**2025-04-04**|**Crash Time Matters: HybridMamba for Fine-Grained Temporal Localization in Traffic Surveillance Footage**|Ibne Farabi Shihab et.al.|[2504.03235](http://arxiv.org/abs/2504.03235)|null|
 |**2025-04-03**|**EvMic: Event-based Non-contact sound recovery from effective spatial-temporal modeling**|Hao Yin et.al.|[2504.02402](http://arxiv.org/abs/2504.02402)|null|

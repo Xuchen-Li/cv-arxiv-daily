@@ -1,4 +1,4 @@
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -148,7 +148,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -5817,7 +5817,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -5836,7 +5836,7 @@
 |**2025-04-07**|**Unsupervised Ego- and Exo-centric Dense Procedural Activity Captioning via Gaze Consensus Adaptation**|Zhaofeng Shi et.al.|[2504.04840](http://arxiv.org/abs/2504.04840)|null|
 |**2025-04-06**|**Advancing Egocentric Video Question Answering with Multimodal Large Language Models**|Alkesh Patel et.al.|[2504.04550](http://arxiv.org/abs/2504.04550)|null|
 |**2025-04-06**|**VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT**|Zhuo Zhi et.al.|[2504.04471](http://arxiv.org/abs/2504.04471)|null|
-|**2025-04-04**|**VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models**|Dahun Kim et.al.|[2504.03970](http://arxiv.org/abs/2504.03970)|null|
+|**2025-04-10**|**VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models**|Dahun Kim et.al.|[2504.03970](http://arxiv.org/abs/2504.03970)|null|
 |**2025-04-08**|**Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation**|Chuanqi Cheng et.al.|[2504.02438](http://arxiv.org/abs/2504.02438)|null|
 |**2025-04-03**|**Leveraging Static Relationships for Intra-Type and Inter-Type Message Passing in Video Question Answering**|Lili Liang et.al.|[2504.02417](http://arxiv.org/abs/2504.02417)|null|
 |**2025-04-03**|**Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval**|Boseung Jeong et.al.|[2504.02397](http://arxiv.org/abs/2504.02397)|null|
@@ -6484,14 +6484,14 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Multi-modal Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-08**|**Video Flow as Time Series: Discovering Temporal Consistency and Variability for VideoQA**|Zijie Song et.al.|[2504.05783](http://arxiv.org/abs/2504.05783)|null|
-|**2025-04-05**|**LATTE: Lightweight Attention-based Traffic Accident Anticipation Engine**|Jiaxun Zhang et.al.|[2504.04103](http://arxiv.org/abs/2504.04103)|null|
+|**2025-04-10**|**LATTE: Lightweight Attention-based Traffic Accident Anticipation Engine**|Jiaxun Zhang et.al.|[2504.04103](http://arxiv.org/abs/2504.04103)|null|
 |**2025-04-05**|**Multi-resolution Score-Based Variational Graphical Diffusion for Causal Disaster System Modeling and Inference**|Xuechun Li et.al.|[2504.04015](http://arxiv.org/abs/2504.04015)|null|
 |**2025-04-04**|**Crash Time Matters: HybridMamba for Fine-Grained Temporal Localization in Traffic Surveillance Footage**|Ibne Farabi Shihab et.al.|[2504.03235](http://arxiv.org/abs/2504.03235)|null|
 |**2025-04-03**|**EvMic: Event-based Non-contact sound recovery from effective spatial-temporal modeling**|Hao Yin et.al.|[2504.02402](http://arxiv.org/abs/2504.02402)|null|
@@ -6721,5 +6721,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
