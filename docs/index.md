@@ -158,7 +158,7 @@ layout: default
 |**2025-04-11**|**Variability-Driven User-Story Generation using LLM and Triadic Concept Analysis**|Alexandre Bazin et.al.|[2504.08666](http://arxiv.org/abs/2504.08666)|null|
 |**2025-04-11**|**Quality evaluation of Tabby coding assistant using real source code snippets**|Marta Borek et.al.|[2504.08650](http://arxiv.org/abs/2504.08650)|null|
 |**2025-04-11**|**Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**|Alessio Buscemi et.al.|[2504.08640](http://arxiv.org/abs/2504.08640)|null|
-|**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|null|
+|**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
 |**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|null|
 |**2025-04-11**|**Analyzing 16,193 LLM Papers for Fun and Profits**|Zhiqiu Xia et.al.|[2504.08619](http://arxiv.org/abs/2504.08619)|null|
 |**2025-04-11**|**Playpen: An Environment for Exploring Learning Through Conversational Interaction**|Nicola Horst et.al.|[2504.08590](http://arxiv.org/abs/2504.08590)|null|
