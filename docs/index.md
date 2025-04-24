@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6002,7 +6002,7 @@ layout: default
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
 |**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270](http://arxiv.org/abs/2504.15270)|null|
-|**2025-04-21**|**Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos**|Songping Wang et.al.|[2504.14921](http://arxiv.org/abs/2504.14921)|null|
+|**2025-04-23**|**Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos**|Songping Wang et.al.|[2504.14921](http://arxiv.org/abs/2504.14921)|null|
 |**2025-04-20**|**OmniV-Med: Scaling Medical Vision-Language Model for Universal Visual Understanding**|Songtao Jiang et.al.|[2504.14692](http://arxiv.org/abs/2504.14692)|null|
 |**2025-04-20**|**Grounding-MD: Grounded Video-language Pre-training for Open-World Moment Detection**|Weijun Zhuang et.al.|[2504.14553](http://arxiv.org/abs/2504.14553)|null|
 |**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[2504.14526](http://arxiv.org/abs/2504.14526)|**[link](https://github.com/tong-zeng/dvbench)**|
