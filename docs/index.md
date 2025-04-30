@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -158,7 +158,7 @@ layout: default
 |**2025-04-28**|**HJRNO: Hamilton-Jacobi Reachability with Neural Operators**|Yankai Li et.al.|[2504.19989](http://arxiv.org/abs/2504.19989)|null|
 |**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982](http://arxiv.org/abs/2504.19982)|null|
 |**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981](http://arxiv.org/abs/2504.19981)|null|
-|**2025-04-28**|**From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification**|Junhao Ye et.al.|[2504.19959](http://arxiv.org/abs/2504.19959)|null|
+|**2025-04-29**|**From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification**|Junhao Ye et.al.|[2504.19959](http://arxiv.org/abs/2504.19959)|null|
 |**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/abs/2504.19918)|null|
 |**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912](http://arxiv.org/abs/2504.19912)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
@@ -166,7 +166,7 @@ layout: default
 |**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
 |**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860](http://arxiv.org/abs/2504.19860)|null|
 |**2025-04-28**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|null|
+|**2025-04-29**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
 |**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
@@ -6077,7 +6077,7 @@ layout: default
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
 |**2025-04-25**|**ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding**|Yi-Xing Peng et.al.|[2504.18152](http://arxiv.org/abs/2504.18152)|null|
 |**2025-04-24**|**VEU-Bench: Towards Comprehensive Understanding of Video Editing**|Bozheng Li et.al.|[2504.17828](http://arxiv.org/abs/2504.17828)|null|
-|**2025-04-25**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365](http://arxiv.org/abs/2504.17365)|null|
+|**2025-04-29**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365](http://arxiv.org/abs/2504.17365)|null|
 |**2025-04-24**|**TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos**|Linli Yao et.al.|[2504.17343](http://arxiv.org/abs/2504.17343)|null|
 |**2025-04-28**|**MASR: Self-Reflective Reasoning through Multimodal Hierarchical Attention Focusing for Agent-based Video Understanding**|Shiwen Cao et.al.|[2504.17213](http://arxiv.org/abs/2504.17213)|null|
 |**2025-04-23**|**DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs**|Zhenhailong Wang et.al.|[2504.17040](http://arxiv.org/abs/2504.17040)|null|
