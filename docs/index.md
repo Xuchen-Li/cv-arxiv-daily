@@ -147,6 +147,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322](http://arxiv.org/abs/2505.01322)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239](http://arxiv.org/abs/2505.01239)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods**|Mahdi Dhaini et.al.|[2505.01198](http://arxiv.org/abs/2505.01198)|null|
+|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182](http://arxiv.org/abs/2505.01182)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162](http://arxiv.org/abs/2505.01162)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
+|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
+|**2025-05-02**|**MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**|Murtadha Ahmed et.al.|[2505.01110](http://arxiv.org/abs/2505.01110)|null|
+|**2025-05-02**|**Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study**|Ali Mammadov et.al.|[2505.01109](http://arxiv.org/abs/2505.01109)|null|
+|**2025-05-02**|**Nesterov Method for Asynchronous Pipeline Parallel Optimization**|Thalaiyasingam Ajanthan et.al.|[2505.01099](http://arxiv.org/abs/2505.01099)|null|
+|**2025-05-02**|**Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages**|Marco Salmè et.al.|[2505.01096](http://arxiv.org/abs/2505.01096)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
