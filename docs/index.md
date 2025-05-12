@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -158,9 +158,9 @@ layout: default
 |**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/abs/2505.05453)|null|
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/abs/2505.05408)|null|
 |**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406](http://arxiv.org/abs/2505.05406)|null|
 |**2025-05-08**|**A Pain Assessment Framework based on multimodal data and Deep Machine Learning methods**|Stefanos Gkikas et.al.|[2505.05396](http://arxiv.org/abs/2505.05396)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -150,7 +150,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -166,9 +166,9 @@
 |**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/abs/2505.05453)|null|
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/abs/2505.05408)|null|
 |**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406](http://arxiv.org/abs/2505.05406)|null|
 |**2025-05-08**|**A Pain Assessment Framework based on multimodal data and Deep Machine Learning methods**|Stefanos Gkikas et.al.|[2505.05396](http://arxiv.org/abs/2505.05396)|null|
@@ -6239,7 +6239,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -6957,7 +6957,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -7206,5 +7206,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
