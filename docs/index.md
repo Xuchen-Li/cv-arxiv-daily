@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6273,7 +6273,7 @@ layout: default
 |**2025-04-29**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365](http://arxiv.org/abs/2504.17365)|null|
 |**2025-04-24**|**TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos**|Linli Yao et.al.|[2504.17343](http://arxiv.org/abs/2504.17343)|null|
 |**2025-04-28**|**MASR: Self-Reflective Reasoning through Multimodal Hierarchical Attention Focusing for Agent-based Video Understanding**|Shiwen Cao et.al.|[2504.17213](http://arxiv.org/abs/2504.17213)|null|
-|**2025-04-23**|**DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs**|Zhenhailong Wang et.al.|[2504.17040](http://arxiv.org/abs/2504.17040)|null|
+|**2025-05-10**|**DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs**|Zhenhailong Wang et.al.|[2504.17040](http://arxiv.org/abs/2504.17040)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
 |**2025-04-22**|**ViSMaP: Unsupervised Hour-long Video Summarisation by Meta-Prompting**|Jian Hu et.al.|[2504.15921](http://arxiv.org/abs/2504.15921)|null|
