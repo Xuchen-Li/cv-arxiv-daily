@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7113,7 +7113,7 @@ layout: default
 |**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151](http://arxiv.org/abs/2505.11151)|null|
 |**2025-05-15**|**ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data**|Chengsen Wang et.al.|[2505.10083](http://arxiv.org/abs/2505.10083)|null|
 |**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
-|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
+|**2025-05-19**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
 |**2025-05-14**|**WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes**|Wei Meng et.al.|[2505.09129](http://arxiv.org/abs/2505.09129)|null|
 |**2025-05-14**|**Modeling Interdependent Cybersecurity Threats Using Bayesian Networks: A Case Study on In-Vehicle Infotainment Systems**|Sangita Sridar et.al.|[2505.09048](http://arxiv.org/abs/2505.09048)|null|
 |**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
