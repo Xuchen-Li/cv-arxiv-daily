@@ -168,7 +168,7 @@ layout: default
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
 |**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472](http://arxiv.org/abs/2505.21472)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
 |**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
 |**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
@@ -7264,9 +7264,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
-|**2025-05-26**|**CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**|X. Feng et.al.|[2505.19434](http://arxiv.org/abs/2505.19434)|null|
+|**2025-05-26**|**CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**|X. Feng et.al.|[2505.19434](http://arxiv.org/abs/2505.19434)|**[link](https://github.com/xiaokunfeng/cstrack)**|
 |**2025-05-25**|**SETransformer: A Hybrid Attention-Based Architecture for Robust Human Activity Recognition**|Yunbo Liu et.al.|[2505.19369](http://arxiv.org/abs/2505.19369)|null|
-|**2025-05-25**|**Advancing Video Self-Supervised Learning via Image Foundation Models**|Jingwei Wu et.al.|[2505.19218](http://arxiv.org/abs/2505.19218)|null|
+|**2025-05-25**|**Advancing Video Self-Supervised Learning via Image Foundation Models**|Jingwei Wu et.al.|[2505.19218](http://arxiv.org/abs/2505.19218)|**[link](https://github.com/jingwwu/advise-video-ssl)**|
 |**2025-05-23**|**Efficient Algorithms for Electing Successive Committees**|Pallavi Jain et.al.|[2505.18287](http://arxiv.org/abs/2505.18287)|null|
 |**2025-05-22**|**Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis**|Xin You et.al.|[2505.17333](http://arxiv.org/abs/2505.17333)|null|
 |**2025-05-22**|**Cog-TiPRO: Iterative Prompt Refinement with LLMs to Detect Cognitive Decline via Longitudinal Voice Assistant Commands**|Kristin Qi et.al.|[2505.17137](http://arxiv.org/abs/2505.17137)|null|
