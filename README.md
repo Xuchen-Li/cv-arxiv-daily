@@ -14,7 +14,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834](http://arxiv.org/abs/2505.20834)|null|
-|**2025-05-27**|**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models**|Kui Wu et.al.|[2505.20718](http://arxiv.org/abs/2505.20718)|null|
+|**2025-05-28**|**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**|Kui Wu et.al.|[2505.20718](http://arxiv.org/abs/2505.20718)|null|
 |**2025-05-27**|**Hierarchical Instruction-aware Embodied Visual Tracking**|Kui Wu et.al.|[2505.20710](http://arxiv.org/abs/2505.20710)|null|
 |**2025-05-28**|**HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval**|Matthew Hong et.al.|[2505.20455](http://arxiv.org/abs/2505.20455)|null|
 |**2025-05-28**|**Progressive Scaling Visual Object Tracking**|Jack Hong et.al.|[2505.19990](http://arxiv.org/abs/2505.19990)|null|
@@ -167,6 +167,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
+|**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
+|**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
+|**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661](http://arxiv.org/abs/2505.22661)|null|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Ce Zhang et.al.|[2505.22654](http://arxiv.org/abs/2505.22654)|null|
+|**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
+|**2025-05-28**|**Sherlock: Self-Correcting Reasoning in Vision-Language Models**|Yi Ding et.al.|[2505.22651](http://arxiv.org/abs/2505.22651)|null|
+|**2025-05-28**|**Characterizing Bias: Benchmarking Large Language Models in Simplified versus Traditional Chinese**|Hanjia Lyu et.al.|[2505.22645](http://arxiv.org/abs/2505.22645)|null|
+|**2025-05-28**|**Understanding (Un)Reliability of Steering Vectors in Language Models**|Joschka Braun et.al.|[2505.22637](http://arxiv.org/abs/2505.22637)|null|
+|**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
+|**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/abs/2505.22633)|null|
+|**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
+|**2025-05-28**|**Principled Out-of-Distribution Generalization via Simplicity**|Jiawei Ge et.al.|[2505.22622](http://arxiv.org/abs/2505.22622)|null|
+|**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/abs/2505.22618)|null|
+|**2025-05-28**|**The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**|Ganqu Cui et.al.|[2505.22617](http://arxiv.org/abs/2505.22617)|null|
+|**2025-05-28**|**RICO: Improving Accuracy and Completeness in Image Recaptioning via Visual Reconstruction**|Yuchi Wang et.al.|[2505.22613](http://arxiv.org/abs/2505.22613)|null|
+|**2025-05-28**|**Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates**|Haoning Xu et.al.|[2505.22608](http://arxiv.org/abs/2505.22608)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
 |**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
@@ -6518,6 +6538,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566](http://arxiv.org/abs/2505.22566)|null|
+|**2025-05-28**|**Fostering Video Reasoning via Next-Event Prediction**|Haonan Wang et.al.|[2505.22457](http://arxiv.org/abs/2505.22457)|null|
 |**2025-05-27**|**HuMoCon: Concept Discovery for Human Motion Understanding**|Qihang Fang et.al.|[2505.20920](http://arxiv.org/abs/2505.20920)|null|
 |**2025-05-27**|**MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding**|Fuwen Luo et.al.|[2505.20715](http://arxiv.org/abs/2505.20715)|null|
 |**2025-05-27**|**HCQA-1.5 @ Ego4D EgoSchema Challenge 2025**|Haoyu Zhang et.al.|[2505.20644](http://arxiv.org/abs/2505.20644)|null|
@@ -7275,6 +7297,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
+|**2025-05-27**|**Any-to-Bokeh: One-Step Video Bokeh via Multi-Plane Image Guided Diffusion**|Yang Yang et.al.|[2505.21593](http://arxiv.org/abs/2505.21593)|null|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
 |**2025-05-26**|**CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**|X. Feng et.al.|[2505.19434](http://arxiv.org/abs/2505.19434)|**[link](https://github.com/xiaokunfeng/cstrack)**|
 |**2025-05-25**|**SETransformer: A Hybrid Attention-Based Architecture for Robust Human Activity Recognition**|Yunbo Liu et.al.|[2505.19369](http://arxiv.org/abs/2505.19369)|null|
