@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7347,7 +7347,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866](http://arxiv.org/abs/2505.24866)|null|
-|**2025-05-30**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
+|**2025-06-03**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
 |**2025-05-30**|**Two-stage MCMC for Fast Bayesian Inference of Large Spatio-temporal Ordinal Data, with Application to US Drought**|Staci Hepler et.al.|[2505.24594](http://arxiv.org/abs/2505.24594)|null|
 |**2025-05-30**|**Enhancing the Accuracy of Spatio-Temporal Models for Wind Speed Prediction by Incorporating Bias-Corrected Crowdsourced Data**|Eamonn Organ et.al.|[2505.24506](http://arxiv.org/abs/2505.24506)|null|
 |**2025-05-30**|**Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model**|Yuting Zhang et.al.|[2505.24476](http://arxiv.org/abs/2505.24476)|null|
@@ -7365,7 +7365,7 @@ layout: default
 |**2025-05-22**|**Cog-TiPRO: Iterative Prompt Refinement with LLMs to Detect Cognitive Decline via Longitudinal Voice Assistant Commands**|Kristin Qi et.al.|[2505.17137](http://arxiv.org/abs/2505.17137)|null|
 |**2025-05-22**|**Attractor-Based Speech Separation of Multiple Utterances by Unknown Number of Speakers**|Yuzhu Wang et.al.|[2505.16607](http://arxiv.org/abs/2505.16607)|null|
 |**2025-05-21**|**EEG-Based Inter-Patient Epileptic Seizure Detection Combining Domain Adversarial Training with CNN-BiLSTM Network**|Rina Tazaki et.al.|[2505.15203](http://arxiv.org/abs/2505.15203)|null|
-|**2025-05-21**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
+|**2025-06-03**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
 |**2025-05-20**|**StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning**|Huaijie Wang et.al.|[2505.13997](http://arxiv.org/abs/2505.13997)|null|
 |**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211](http://arxiv.org/abs/2505.13211)|**[link](https://github.com/sandai-org/magiattention)**|
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|**[link](https://github.com/dgxdn/asrc-snn)**|
