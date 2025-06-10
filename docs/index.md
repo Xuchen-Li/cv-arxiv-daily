@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6668,7 +6668,7 @@ layout: default
 |**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885](http://arxiv.org/abs/2506.03885)|null|
 |**2025-06-04**|**Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning**|Daeun Lee et.al.|[2506.03525](http://arxiv.org/abs/2506.03525)|null|
 |**2025-06-03**|**Seeing the Arrow of Time in Large Multimodal Models**|Zihui Xue et.al.|[2506.03340](http://arxiv.org/abs/2506.03340)|null|
-|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
+|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|**[link](https://github.com/adityavavre/videgovlm)**|
 |**2025-06-03**|**HaploOmni: Unified Single Transformer for Multimodal Video Understanding and Generation**|Yicheng Xiao et.al.|[2506.02975](http://arxiv.org/abs/2506.02975)|null|
 |**2025-06-03**|**METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding**|Mengyue Wang et.al.|[2506.02850](http://arxiv.org/abs/2506.02850)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
@@ -7466,8 +7466,8 @@ layout: default
 |**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866](http://arxiv.org/abs/2505.24866)|null|
 |**2025-06-03**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
 |**2025-05-30**|**Two-stage MCMC for Fast Bayesian Inference of Large Spatio-temporal Ordinal Data, with Application to US Drought**|Staci Hepler et.al.|[2505.24594](http://arxiv.org/abs/2505.24594)|null|
-|**2025-05-30**|**Enhancing the Accuracy of Spatio-Temporal Models for Wind Speed Prediction by Incorporating Bias-Corrected Crowdsourced Data**|Eamonn Organ et.al.|[2505.24506](http://arxiv.org/abs/2505.24506)|null|
-|**2025-05-30**|**Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model**|Yuting Zhang et.al.|[2505.24476](http://arxiv.org/abs/2505.24476)|null|
+|**2025-05-30**|**Enhancing the Accuracy of Spatio-Temporal Models for Wind Speed Prediction by Incorporating Bias-Corrected Crowdsourced Data**|Eamonn Organ et.al.|[2505.24506](http://arxiv.org/abs/2505.24506)|**[link](https://github.com/eamonno22/spatio-temporal-wind-modelling-with-bias-corrected-crowdsourced-data)**|
+|**2025-05-30**|**Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model**|Yuting Zhang et.al.|[2505.24476](http://arxiv.org/abs/2505.24476)|**[link](https://github.com/keke-nice/period-llm)**|
 |**2025-05-30**|**Bayesian Inference for Spatially-Temporally Misaligned Data Using Predictive Stacking**|Soumyakanti Pan et.al.|[2505.24397](http://arxiv.org/abs/2505.24397)|null|
 |**2025-05-30**|**DisTime: Distribution-based Time Representation for Video Large Language Models**|Yingsen Zeng et.al.|[2505.24329](http://arxiv.org/abs/2505.24329)|null|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
