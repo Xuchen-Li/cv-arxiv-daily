@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -164,6 +164,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
+|**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
+|**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
+|**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
+|**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
+|**2025-06-11**|**A Shortcut-aware Video-QA Benchmark for Physical Understanding via Minimal Video Pairs**|Benno Krojer et.al.|[2506.09987](http://arxiv.org/abs/2506.09987)|null|
+|**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985](http://arxiv.org/abs/2506.09985)|null|
+|**2025-06-11**|**Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs**|Hiroshi Matsuda et.al.|[2506.09983](http://arxiv.org/abs/2506.09983)|null|
+|**2025-06-11**|**AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation**|Zijie Wu et.al.|[2506.09982](http://arxiv.org/abs/2506.09982)|null|
+|**2025-06-11**|**SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance**|Wentao Ge et.al.|[2506.09968](http://arxiv.org/abs/2506.09968)|null|
+|**2025-06-11**|**Resa: Transparent Reasoning Models via SAEs**|Shangshang Wang et.al.|[2506.09967](http://arxiv.org/abs/2506.09967)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
+|**2025-06-11**|**Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**|Sushant Gautam et.al.|[2506.09958](http://arxiv.org/abs/2506.09958)|null|
+|**2025-06-11**|**LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**|Sahar Abdelnabi et.al.|[2506.09956](http://arxiv.org/abs/2506.09956)|null|
+|**2025-06-11**|**Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking**|Wuwei Zhang et.al.|[2506.09944](http://arxiv.org/abs/2506.09944)|null|
+|**2025-06-11**|**VerIF: Verification Engineering for Reinforcement Learning in Instruction Following**|Hao Peng et.al.|[2506.09942](http://arxiv.org/abs/2506.09942)|null|
+|**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
+|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/abs/2506.09902)|null|
+|**2025-06-11**|**The Emergence of Abstract Thought in Large Language Models Beyond Any Language**|Yuxin Chen et.al.|[2506.09890](http://arxiv.org/abs/2506.09890)|null|
+|**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/abs/2506.09886)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
 |**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
@@ -6693,6 +6713,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985](http://arxiv.org/abs/2506.09985)|null|
+|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650](http://arxiv.org/abs/2506.09650)|null|
+|**2025-06-11**|**TOGA: Temporally Grounded Open-Ended Video QA with Weak Supervision**|Ayush Gupta et.al.|[2506.09445](http://arxiv.org/abs/2506.09445)|null|
+|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
+|**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
+|**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
 |**2025-06-10**|**MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding**|Zhiyi Zhu et.al.|[2506.08512](http://arxiv.org/abs/2506.08512)|null|
 |**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
 |**2025-06-09**|**Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning**|Tieyuan Chen et.al.|[2506.07811](http://arxiv.org/abs/2506.07811)|null|
@@ -7509,6 +7536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Multivariate Long-term Time Series Forecasting with Fourier Neural Filter**|Chenheng Xu et.al.|[2506.09174](http://arxiv.org/abs/2506.09174)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
 |**2025-06-10**|**MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding**|Zhiyi Zhu et.al.|[2506.08512](http://arxiv.org/abs/2506.08512)|null|
 |**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333](http://arxiv.org/abs/2506.08333)|null|
