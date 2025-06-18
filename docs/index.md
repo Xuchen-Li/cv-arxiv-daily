@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Comparison of Two Methods for Stationary Incident Detection Based on Background Image**|Deepak Ghimire et.al.|[2506.14256](http://arxiv.org/abs/2506.14256)|null|
 |**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
 |**2025-05-31**|**Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking**|Long Xu et.al.|[2506.00325](http://arxiv.org/abs/2506.00325)|**[link](https://github.com/pgao-lab/DiffDf)**|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
@@ -164,6 +165,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/abs/2506.14767)|null|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|null|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
+|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761](http://arxiv.org/abs/2506.14761)|null|
+|**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758](http://arxiv.org/abs/2506.14758)|null|
+|**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
+|**2025-06-17**|**Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data**|Anton Changalidis et.al.|[2506.14704](http://arxiv.org/abs/2506.14704)|null|
+|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
+|**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683](http://arxiv.org/abs/2506.14683)|null|
+|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|null|
+|**2025-06-17**|**Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality**|Yuto Harada et.al.|[2506.14681](http://arxiv.org/abs/2506.14681)|null|
+|**2025-06-17**|**Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models**|Ling Li et.al.|[2506.14674](http://arxiv.org/abs/2506.14674)|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670](http://arxiv.org/abs/2506.14670)|null|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|null|
+|**2025-06-17**|**Passing the Turing Test in Political Discourse: Fine-Tuning LLMs to Mimic Polarized Social Media Comments**|. Pazzaglia et.al.|[2506.14645](http://arxiv.org/abs/2506.14645)|null|
+|**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641](http://arxiv.org/abs/2506.14641)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
@@ -6773,6 +6794,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
+|**2025-06-17**|**EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization**|Xiaoqi Wang et.al.|[2506.14356](http://arxiv.org/abs/2506.14356)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
 |**2025-06-16**|**Omni-AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented for Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589](http://arxiv.org/abs/2506.13589)|null|
 |**2025-06-16**|**MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models**|Geewook Kim et.al.|[2506.13564](http://arxiv.org/abs/2506.13564)|null|
 |**2025-06-14**|**Understanding and Benchmarking the Trustworthiness in Multimodal LLMs for Video Understanding**|Youze Wang et.al.|[2506.12336](http://arxiv.org/abs/2506.12336)|null|
@@ -7603,6 +7627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization**|Xiaoqi Wang et.al.|[2506.14356](http://arxiv.org/abs/2506.14356)|null|
 |**2025-06-16**|**Online-Optimized Gated Radial Basis Function Neural Network-Based Adaptive Control**|Mingcong Li et.al.|[2506.13168](http://arxiv.org/abs/2506.13168)|null|
 |**2025-06-16**|**C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation**|Siqi Liang et.al.|[2506.13021](http://arxiv.org/abs/2506.13021)|null|
 |**2025-06-15**|**Leveraging MIMIC Datasets for Better Digital Health: A Review on Open Problems, Progress Highlights, and Future Promises**|Afifa Khaled et.al.|[2506.12808](http://arxiv.org/abs/2506.12808)|null|
