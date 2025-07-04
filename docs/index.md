@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -174,9 +174,9 @@ layout: default
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|

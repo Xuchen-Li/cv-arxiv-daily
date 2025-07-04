@@ -1,4 +1,4 @@
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -172,7 +172,7 @@
 |**2023-11-21**|**Visual tracking brain computer interface**|Changxing Huang et.al.|[2311.12592](http://arxiv.org/abs/2311.12592)|null|
 |**2024-01-10**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco Sánchez et.al.|[2311.07268](http://arxiv.org/abs/2311.07268)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -182,9 +182,9 @@
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
@@ -6983,7 +6983,7 @@
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068](http://arxiv.org/abs/2402.04068)|**[link](https://github.com/benevolentai/r2e-evaluation-data)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -7849,7 +7849,7 @@
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901](http://arxiv.org/abs/2401.03901)|**[link](https://github.com/yellow-binary-tree/STAIR)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Multi-modal Learning
 
@@ -8159,5 +8159,5 @@
 |**2024-03-10**|**Coherent Temporal Synthesis for Incremental Action Segmentation**|Guodong Ding et.al.|[2403.06102](http://arxiv.org/abs/2403.06102)|null|
 |**2024-04-26**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654](http://arxiv.org/abs/2403.04654)|**[link](https://github.com/praveena2j/rjcaforspeakerverification)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
