@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845](http://arxiv.org/abs/2507.04845)|null|
+|**2025-07-05**|**Sensitive and accurate femtosecond pulse characterization via two-photon absorption in Fabry-Pérot laser diodes**|Adrian F. Chlebowski et.al.|[2507.03978](http://arxiv.org/abs/2507.03978)|null|
 |**2025-07-01**|**UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**|Siyuan Yao et.al.|[2507.00648](http://arxiv.org/abs/2507.00648)|null|
 |**2025-07-01**|**ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales**|Yihao Zhen et.al.|[2507.00454](http://arxiv.org/abs/2507.00454)|null|
 |**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
@@ -170,6 +172,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
+|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246](http://arxiv.org/abs/2507.05246)|null|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-07**|**Logit Reweighting for Topic-Focused Summarization**|Joschka Braun et.al.|[2507.05235](http://arxiv.org/abs/2507.05235)|null|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
+|**2025-07-07**|**QuEst: Enhancing Estimates of Quantile-Based Distributional Measures Using Model Predictions**|Zhun Deng et.al.|[2507.05220](http://arxiv.org/abs/2507.05220)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195](http://arxiv.org/abs/2507.05195)|null|
+|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
+|**2025-07-07**|**OpenS2S: Advancing Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**InfoSteer: Steering Information Utility in Language Model Post-Training**|Chunyuan Deng et.al.|[2507.05158](http://arxiv.org/abs/2507.05158)|null|
+|**2025-07-07**|**AI Generated Text Detection Using Instruction Fine-tuned Large Language and Transformer-Based Models**|Chinnappa Guggilla et.al.|[2507.05157](http://arxiv.org/abs/2507.05157)|null|
+|**2025-07-07**|**Interpretable Mnemonic Generation for Kanji Learning via Expectation-Maximization**|Jaewook Lee et.al.|[2507.05137](http://arxiv.org/abs/2507.05137)|null|
+|**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
 |**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
 |**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
 |**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
@@ -6999,7 +7021,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-03**|**AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding**|Weili Xu et.al.|[2507.02591](http://arxiv.org/abs/2507.02591)|null|
+|**2025-07-07**|**Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models**|Eunseop Yoon et.al.|[2507.04976](http://arxiv.org/abs/2507.04976)|null|
+|**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
+|**2025-07-07**|**From Vision To Language through Graph of Events in Space and Time: An Explainable Self-supervised Approach**|Mihai Masala et.al.|[2507.04815](http://arxiv.org/abs/2507.04815)|null|
+|**2025-07-07**|**Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning**|Feng Yue et.al.|[2507.04702](http://arxiv.org/abs/2507.04702)|null|
+|**2025-07-07**|**VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents**|Rui Meng et.al.|[2507.04590](http://arxiv.org/abs/2507.04590)|null|
+|**2025-07-06**|**M $^3$ -Med: A Benchmark for Multi-lingual, Multi-modal, and Multi-hop Reasoning in Medical Instructional Video Understanding**|Shenxi Liu et.al.|[2507.04289](http://arxiv.org/abs/2507.04289)|null|
+|**2025-07-04**|**Multimodal Alignment with Cross-Attentive GRUs for Fine-Grained Video Understanding**|Namho Kim et.al.|[2507.03531](http://arxiv.org/abs/2507.03531)|null|
+|**2025-07-07**|**AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding**|Weili Xu et.al.|[2507.02591](http://arxiv.org/abs/2507.02591)|null|
 |**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Sanjeda Akter et.al.|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
 |**2025-07-01**|**Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames**|Anurag Arnab et.al.|[2507.02001](http://arxiv.org/abs/2507.02001)|null|
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
@@ -7866,6 +7895,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-07**|**FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation**|Maolin Wang et.al.|[2507.04651](http://arxiv.org/abs/2507.04651)|null|
+|**2025-07-05**|**Transformer with Koopman-Enhanced Graph Convolutional Network for Spatiotemporal Dynamics Forecasting**|Zekai Wang et.al.|[2507.03855](http://arxiv.org/abs/2507.03855)|null|
 |**2025-06-29**|**Fractional Policy Gradients: Reinforcement Learning with Long-Term Memory**|Urvi Pawar et.al.|[2507.00073](http://arxiv.org/abs/2507.00073)|null|
 |**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-27**|**Linking climate and dengue in the Philippines using a two-stage Bayesian spatio-temporal model**|Stephen Jun Villejo et.al.|[2506.22334](http://arxiv.org/abs/2506.22334)|null|
