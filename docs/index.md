@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -190,7 +190,7 @@ layout: default
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
 |**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
 |**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
 |**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
 |**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
