@@ -177,6 +177,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466](http://arxiv.org/abs/2507.12466)|null|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464](http://arxiv.org/abs/2507.12464)|null|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?**|Xinyi He et.al.|[2507.12415](http://arxiv.org/abs/2507.12415)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**ROC-n-reroll: How verifier imperfection affects test-time scaling**|Florian E. Dorner et.al.|[2507.12399](http://arxiv.org/abs/2507.12399)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
+|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
@@ -7146,6 +7166,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-16**|**Calisthenics Skills Temporal Video Segmentation**|Antonio Finocchiaro et.al.|[2507.12245](http://arxiv.org/abs/2507.12245)|null|
 |**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
@@ -8035,6 +8057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable Length of Stay Prediction After Spine Surgery**|Ha Na Cho et.al.|[2507.11570](http://arxiv.org/abs/2507.11570)|null|
+|**2025-07-14**|**Reprogramming Vision Foundation Models for Spatio-Temporal Forecasting**|Changlu Chen et.al.|[2507.11558](http://arxiv.org/abs/2507.11558)|null|
 |**2025-07-13**|**Continental scale habitat modelling with artificial intelligence and multimodal earth observation**|Sara Si-Moussi et.al.|[2507.09732](http://arxiv.org/abs/2507.09732)|null|
 |**2025-07-11**|**Predictive Causal Inference via Spatio-Temporal Modeling and Penalized Empirical Likelihood**|Byunghee Lee et.al.|[2507.08896](http://arxiv.org/abs/2507.08896)|null|
 |**2025-07-09**|**M $^2$ -MFP: A Multi-Scale and Multi-Level Memory Failure Prediction Framework for Reliable Cloud Infrastructure**|Hongyi Xie et.al.|[2507.07144](http://arxiv.org/abs/2507.07144)|null|
