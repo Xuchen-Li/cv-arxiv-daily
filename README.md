@@ -185,6 +185,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning**|Shashanka Venkataramanan et.al.|[2507.14137](http://arxiv.org/abs/2507.14137)|null|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
+|**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
+|**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
+|**2025-07-18**|**DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**|Garapati Keerthana et.al.|[2507.14079](http://arxiv.org/abs/2507.14079)|null|
+|**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Shuliang Liu et.al.|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
+|**2025-07-18**|**Foundation Models as Class-Incremental Learners for Dermatological Image Classification**|Mohamed Elkhayat et.al.|[2507.14050](http://arxiv.org/abs/2507.14050)|null|
+|**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al.|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
+|**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045](http://arxiv.org/abs/2507.14045)|null|
+|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
+|**2025-07-18**|**KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models**|Lam Nguyen et.al.|[2507.14032](http://arxiv.org/abs/2507.14032)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**Efficient Temporal Tokenization for Mobility Prediction with Large Language Models**|Haoyu He et.al.|[2507.14017](http://arxiv.org/abs/2507.14017)|null|
+|**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993](http://arxiv.org/abs/2507.13993)|null|
+|**2025-07-18**|**Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images**|Jiaqi Lv et.al.|[2507.13974](http://arxiv.org/abs/2507.13974)|null|
+|**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966](http://arxiv.org/abs/2507.13966)|null|
+|**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
 |**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
 |**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335](http://arxiv.org/abs/2507.13335)|null|
@@ -7196,6 +7216,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Generalist Forecasting with Frozen Video Models via Latent Diffusion**|Jacob C Walker et.al.|[2507.13942](http://arxiv.org/abs/2507.13942)|null|
+|**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
+|**2025-07-18**|**CoTasks: Chain-of-Thought based Video Instruction Tuning Tasks**|Yanan Wang et.al.|[2507.13609](http://arxiv.org/abs/2507.13609)|null|
 |**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
 |**2025-07-17**|**FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering**|Ju-Young Oh et.al.|[2507.12816](http://arxiv.org/abs/2507.12816)|null|
 |**2025-07-18**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
@@ -8091,6 +8114,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**|Garapati Keerthana et.al.|[2507.14079](http://arxiv.org/abs/2507.14079)|null|
+|**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
+|**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
+|**2025-07-18**|**Bi-GRU Based Deception Detection using EEG Signals**|Danilo Avola et.al.|[2507.13718](http://arxiv.org/abs/2507.13718)|null|
 |**2025-07-18**|**ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle**|Mihran Miroyan et.al.|[2507.12674](http://arxiv.org/abs/2507.12674)|null|
 |**2025-07-16**|**A Bayesian Spatio-Temporal Model of Temperature- and Humidity-Related Mortality Using High-Resolution Climate Data**|Corinna Perchtold et.al.|[2507.12643](http://arxiv.org/abs/2507.12643)|null|
 |**2025-07-15**|**SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable Length of Stay Prediction After Spine Surgery**|Ha Na Cho et.al.|[2507.11570](http://arxiv.org/abs/2507.11570)|null|
