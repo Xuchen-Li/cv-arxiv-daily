@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Contro**|An Wanga et.al.|[2507.15292](http://arxiv.org/abs/2507.15292)|null|
+|**2025-07-22**|**EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Contro**|An Wanga et.al.|[2507.15292](http://arxiv.org/abs/2507.15292)|null|
 |**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
 |**2025-07-10**|**Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**|Qiangqiang Wu et.al.|[2507.07483](http://arxiv.org/abs/2507.07483)|null|
 |**2025-07-09**|**Token Bottleneck: One Token to Remember Dynamics**|Taekyung Kim et.al.|[2507.06543](http://arxiv.org/abs/2507.06543)|null|
@@ -18,7 +18,7 @@ layout: default
 |**2025-07-01**|**UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**|Siyuan Yao et.al.|[2507.00648](http://arxiv.org/abs/2507.00648)|null|
 |**2025-07-01**|**ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales**|Yihao Zhen et.al.|[2507.00454](http://arxiv.org/abs/2507.00454)|null|
 |**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
-|**2025-07-01**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
+|**2025-07-22**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
 |**2025-06-25**|**Exploiting Lightweight Hierarchical ViT and Dynamic Framework for Efficient Visual Tracking**|Ben Kang et.al.|[2506.20381](http://arxiv.org/abs/2506.20381)|null|
 |**2025-06-17**|**Comparison of Two Methods for Stationary Incident Detection Based on Background Image**|Deepak Ghimire et.al.|[2506.14256](http://arxiv.org/abs/2506.14256)|null|
 |**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
@@ -180,7 +180,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
 |**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
@@ -7244,7 +7244,7 @@ layout: default
 |**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
 |**2025-07-14**|**DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs**|Jiahe Zhao et.al.|[2507.10302](http://arxiv.org/abs/2507.10302)|null|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
-|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
+|**2025-07-22**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
 |**2025-07-13**|**ExpStar: Towards Automatic Commentary Generation for Multi-discipline Scientific Experiments**|Jiali Chen et.al.|[2507.09693](http://arxiv.org/abs/2507.09693)|null|
 |**2025-07-13**|**GLIMPSE: Do Large Vision-Language Models Truly Think With Videos or Just Glimpse at Them?**|Yiyang Zhou et.al.|[2507.09491](http://arxiv.org/abs/2507.09491)|null|
 |**2025-07-11**|**Infinite Video Understanding**|Dell Zhang et.al.|[2507.09068](http://arxiv.org/abs/2507.09068)|null|
